@@ -3046,6 +3046,11 @@ hash = "a57fab8b2040aa31092412724cb4384c803b4ac4671b773a84b85e8d8700b1bf"
 metafile = true
 
 [[files]]
+file = "mods/cheater-deleter.toml"
+hash = "c1d482de315013324f9b4882cd746bb2156124055f3e219cdab3e0ce7a16c8a7"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds-fabric.toml"
 hash = "6aacdd82baeeabf3278265feb0380a4a98034e31947270ad3b340049acd196c6"
 metafile = true

@@ -1,6 +1,6 @@
 name = "Cheater Deleter"
 filename = "cheaterdeleter-0.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://github.com/The-Tiny-Taters/TTTM-AOF/blob/main/mods/jars/cheaterdeleter.jar?raw=true"

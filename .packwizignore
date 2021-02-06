@@ -4,6 +4,7 @@
 LICENSE
 README.md
 
+mods/jars/**
 servers.dat
 aof.zip
 
