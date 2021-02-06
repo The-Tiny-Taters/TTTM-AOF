@@ -1,0 +1,78 @@
+{
+  "name": "Misc",
+  "quests": [
+    {
+      "uuid": "bb38b2b8-11bc-4613-b6d5-93f4b06267ec",
+      "name": "Books for nerds",
+      "description": "Title explains it",
+      "x": 20,
+      "y": 15,
+      "bigicon": true,
+      "icon": {
+        "id": "patchouli:guide_book",
+        "Count": 1,
+        "tag": {
+          "patchouli:book": "indrev:indrev"
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crafting_table",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "patchouli:guide_book",
+          "Count": 1,
+          "tag": {
+            "patchouli:book": "indrev:indrev"
+          }
+        },
+        {
+          "id": "modern_industrialization:guidebook",
+          "Count": 1
+        },
+        {
+          "id": "adorn:guide_book",
+          "Count": 1
+        },
+        {
+          "id": "tis3d:book_manual",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "betterend:guidebook",
+          "Count": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "610f563b-3cf7-4bb1-a3f5-af6e48578faf",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 57,
+      "y": 18,
+      "prerequisites": [
+        "bb38b2b8-11bc-4613-b6d5-93f4b06267ec"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

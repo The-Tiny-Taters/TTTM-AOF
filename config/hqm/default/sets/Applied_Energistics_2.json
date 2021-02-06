@@ -1,0 +1,1486 @@
+{
+  "name": "Applied Energistics 2",
+  "quests": [
+    {
+      "uuid": "fe4c290f-bcaf-4a7e-8d47-936ee5f7bacc",
+      "name": "Cable me up",
+      "description": "make cable.. do things.. well.. connect them together",
+      "x": 141,
+      "y": 17,
+      "icon": {
+        "id": "appliedenergistics2:fluix_glass_cable",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:fluix_glass_cable",
+                "Count": 6
+              },
+              "required": 6,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e890ee12-8db4-4329-bc2c-d21d5ab4363f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:tiny_tnt",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3d795a6b-034f-484a-acd0-a5b659f25803",
+      "name": "You drive me crazy",
+      "description": "this is the start of something beautiful",
+      "x": 86,
+      "y": 101,
+      "icon": {
+        "id": "appliedenergistics2:drive",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:drive",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7662b5bc-bd33-41f8-ae20-7885eb73c7b7"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:iron_ore",
+          "Count": 16
+        },
+        {
+          "id": "croptopia:cherry_pie",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3a732c1b-ff86-44f1-b1f1-5381d165e00a",
+      "name": "Wireless age",
+      "description": "use this to start your wireless access journey",
+      "x": 271,
+      "y": 154,
+      "icon": {
+        "id": "appliedenergistics2:wireless_terminal",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:wireless_terminal",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9461b11e-ca58-4ea7-8104-f533544ac5d4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:purified_fluix_crystal",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7b51f341-2156-46ce-a1d3-fbc455bdf763",
+      "name": "16k crafting for you",
+      "description": "more bandwidth.. more bettererer",
+      "x": 272,
+      "y": 80,
+      "icon": {
+        "id": "appliedenergistics2:16k_crafting_storage",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:16k_crafting_storage",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3f152d98-77cb-4dfc-a539-ace4d482b64d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:gold_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f1f1ffa4-d83e-4e76-a951-fb4e0915c9d4",
+      "name": "16k is much better",
+      "description": "16k.. about the same amount of ram as my first computer",
+      "x": 86,
+      "y": 190,
+      "icon": {
+        "id": "appliedenergistics2:16k_storage_cell",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:16k_storage_cell",
+                "Count": 1,
+                "tag": {}
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e5889bfc-acff-4498-852b-a0883b512a08"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:quartz_ore",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8dce24ad-81c1-42f9-ae7c-2935bb6449f2",
+      "name": "1k crafting for you",
+      "description": "1k today",
+      "x": 272,
+      "y": 17,
+      "icon": {
+        "id": "appliedenergistics2:1k_crafting_storage",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:1k_crafting_storage",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b1c80d28-b872-4ab5-aa70-9e8132038e89"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:golden_helmet",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7003cd46-d242-4540-8b06-fd4626dd39df",
+      "name": "Co-op crafting",
+      "description": "Use this to make automation even better.",
+      "x": 213,
+      "y": 48,
+      "icon": {
+        "id": "appliedenergistics2:crafting_accelerator",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:crafting_accelerator",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "001c5d73-ef5b-4436-9bdb-ac85a9ed7096"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:pufferfish_bucket",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2f5eca14-ab98-474e-a042-fd679cff0ac1",
+      "name": "ME Interface YOU!",
+      "description": "use this to have AE2 interface with other mods and blocks",
+      "x": 176,
+      "y": 14,
+      "bigicon": true,
+      "icon": {
+        "id": "appliedenergistics2:interface",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:interface",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:coal_ore",
+          "Count": 32
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a3ea31ba-f70b-4d90-af72-330748131664",
+      "name": "1k love",
+      "description": "1k items.. not too shabby",
+      "x": 86,
+      "y": 130,
+      "icon": {
+        "id": "appliedenergistics2:1k_storage_cell",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:1k_storage_cell",
+                "Count": 1,
+                "tag": {}
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3d795a6b-034f-484a-acd0-a5b659f25803"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:fruit_smoothie",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "fbe805df-e5fe-4f9a-8f06-2bebb28ce07b",
+      "name": "Charge it!",
+      "description": "haven\u0027t I made a quest like this already?",
+      "x": 85,
+      "y": 17,
+      "icon": {
+        "id": "appliedenergistics2:charger",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:charger",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cd5006d8-b1fc-4aef-a05d-fe29edcc5d91"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:certus_quartz_crystal",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "681cc0e9-8dae-47ea-b623-dafb1bf0b250",
+      "name": "Put a ring on it.",
+      "description": "I mean, that\u0027s if you like it",
+      "x": 272,
+      "y": 187,
+      "icon": {
+        "id": "appliedenergistics2:quantum_ring",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:quantum_ring",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c0eb6e7d-4c83-45a3-b2d4-8b719cd1d26c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:redstone_block",
+          "Count": 14
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8fa35d40-868c-42ce-9d15-6913d315e5b8",
+      "name": "you know.. physics stuff",
+      "description": "Big boi time",
+      "x": 205,
+      "y": 184,
+      "bigicon": true,
+      "icon": {
+        "id": "appliedenergistics2:quantum_entangled_singularity",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:quantum_entangled_singularity",
+                "Count": 2
+              },
+              "required": 2,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ender_pearl",
+          "Count": 7
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "76480c7e-f05a-401e-a38f-95e074bca3aa",
+      "name": "Terminal crafting",
+      "description": "use this to craft within ae2 systems",
+      "x": 114,
+      "y": 101,
+      "icon": {
+        "id": "appliedenergistics2:crafting_terminal",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:crafting_terminal",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3d795a6b-034f-484a-acd0-a5b659f25803"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "betterend:dragon_tree_sapling",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "26ca747e-e7a1-4106-a8c6-6c218526eb9c",
+      "name": "64k crafting for you",
+      "description": "yes, this is the best",
+      "x": 272,
+      "y": 112,
+      "icon": {
+        "id": "appliedenergistics2:64k_crafting_storage",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:64k_crafting_storage",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7b51f341-2156-46ce-a1d3-fbc455bdf763"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:doughnut",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8c006bdc-1ed0-4ab1-a13f-38c1a0b41638",
+      "name": "Don\u0027t drive this bus",
+      "description": "I put the brakes on that one.",
+      "x": 179,
+      "y": 54,
+      "icon": {
+        "id": "appliedenergistics2:storage_bus",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:storage_bus",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "2f5eca14-ab98-474e-a042-fd679cff0ac1"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:leafy_salad",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "76ec9c72-41b5-4305-be52-921f4632a140",
+      "name": "Terminal patterns",
+      "description": "use this to create and load crafting patterns",
+      "x": 114,
+      "y": 131,
+      "icon": {
+        "id": "appliedenergistics2:pattern_terminal",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:pattern_terminal",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "76480c7e-f05a-401e-a38f-95e074bca3aa"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "sandwichable:golden_kitchen_knife",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:tomatillo",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3cd42494-2c7d-4b34-abe8-a25c853c5553",
+      "name": "inscribe my name on your chest",
+      "description": "I think it would be best.",
+      "x": 57,
+      "y": 49,
+      "icon": {
+        "id": "appliedenergistics2:inscriber",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:inscriber",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cd5006d8-b1fc-4aef-a05d-fe29edcc5d91"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ender_pearl",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "18a7b802-dfbf-4644-b609-3f5184edebb8",
+      "name": "Tick BOI",
+      "description": "do more.. with the thiccness",
+      "x": 57,
+      "y": 131,
+      "icon": {
+        "id": "appliedenergistics2:fluix_smart_dense_cable",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:fluix_smart_dense_cable",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7662b5bc-bd33-41f8-ae20-7885eb73c7b7"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:leek_soup",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "fd7e0da0-cc74-4cfe-b7bc-c332fa768b76",
+      "name": "Me import your bus",
+      "description": "items go in...",
+      "x": 179,
+      "y": 85,
+      "icon": {
+        "id": "appliedenergistics2:import_bus",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:import_bus",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8c006bdc-1ed0-4ab1-a13f-38c1a0b41638"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:fruit_salad",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b1c80d28-b872-4ab5-aa70-9e8132038e89",
+      "name": "Dont be an ASSembler",
+      "description": "or do.. it\u0027s not my life",
+      "x": 243,
+      "y": 17,
+      "icon": {
+        "id": "appliedenergistics2:molecular_assembler",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:molecular_assembler",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "001c5d73-ef5b-4436-9bdb-ac85a9ed7096"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:pineapple_pepperoni_pizza",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "46d70fd6-ac9b-4f65-b177-4d4df06534fd",
+      "name": "Boost it",
+      "description": "get more wireless",
+      "x": 299,
+      "y": 154,
+      "icon": {
+        "id": "appliedenergistics2:wireless_booster",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:wireless_booster",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3a732c1b-ff86-44f1-b1f1-5381d165e00a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:pineapple_pepperoni_pizza",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2cc003c8-20dd-42db-9bd0-1d8e3256c459",
+      "name": "Watch me grow",
+      "description": "use these to make your crystals grow faster.",
+      "x": 141,
+      "y": 49,
+      "icon": {
+        "id": "appliedenergistics2:quartz_growth_accelerator",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:quartz_growth_accelerator",
+                "Count": 4
+              },
+              "required": 4,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "fe4c290f-bcaf-4a7e-8d47-936ee5f7bacc"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:banana_cream_pie",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b0a6a34e-8c77-4944-9b90-d87504698c88",
+      "name": "Me control",
+      "description": "an integral part of AE2. kind of like the brains of the operation.",
+      "x": 21,
+      "y": 98,
+      "bigicon": true,
+      "icon": {
+        "id": "appliedenergistics2:controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:controller",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:cheese_cake",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "04a1d062-4711-4d6d-b408-cd6bd06b20a8",
+      "name": "Terminal ME Interface",
+      "description": "at this point, I hope you have figured out how this works",
+      "x": 114,
+      "y": 161,
+      "icon": {
+        "id": "appliedenergistics2:interface_terminal",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:interface_terminal",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "76ec9c72-41b5-4305-be52-921f4632a140"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "blast:golden_bomb",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e890ee12-8db4-4329-bc2c-d21d5ab4363f",
+      "name": "Just Accept it!",
+      "description": "or not. it ain\u0027t my life.",
+      "x": 113,
+      "y": 17,
+      "icon": {
+        "id": "appliedenergistics2:energy_acceptor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:energy_acceptor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "fbe805df-e5fe-4f9a-8f06-2bebb28ce07b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:chicken_and_noodles",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a1a51bb6-717f-499d-8936-6b2e8983e78d",
+      "name": "Not nintendo 64",
+      "description": "but boy does it hold a lot of items",
+      "x": 57,
+      "y": 190,
+      "icon": {
+        "id": "appliedenergistics2:64k_storage_cell",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:64k_storage_cell",
+                "Count": 1,
+                "tag": {}
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "f1f1ffa4-d83e-4e76-a951-fb4e0915c9d4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:golden_apple",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "001c5d73-ef5b-4436-9bdb-ac85a9ed7096",
+      "name": "Big leagues",
+      "description": "this is the start of some big time automation",
+      "x": 213,
+      "y": 17,
+      "icon": {
+        "id": "appliedenergistics2:crafting_unit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:crafting_unit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "2f5eca14-ab98-474e-a042-fd679cff0ac1"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:chocolate_milkshake",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3f152d98-77cb-4dfc-a539-ace4d482b64d",
+      "name": "4k crafting for you!",
+      "description": "I mean, if you want.",
+      "x": 272,
+      "y": 49,
+      "icon": {
+        "id": "appliedenergistics2:4k_crafting_storage",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:4k_crafting_storage",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8dce24ad-81c1-42f9-ae7c-2935bb6449f2"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:cucumber_salad",
+          "Count": 5
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e5889bfc-acff-4498-852b-a0883b512a08",
+      "name": "4k.. not a tv",
+      "description": "4k items.. even better",
+      "x": 86,
+      "y": 160,
+      "icon": {
+        "id": "appliedenergistics2:4k_storage_cell",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:4k_storage_cell",
+                "Count": 1,
+                "tag": {}
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "a3ea31ba-f70b-4d90-af72-330748131664"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:1k_cell_component",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9461b11e-ca58-4ea7-8104-f533544ac5d4",
+      "name": "AP ME",
+      "description": "wireless.. no.. it doesn\u0027t cause cancer.. none of it does.",
+      "x": 242,
+      "y": 154,
+      "icon": {
+        "id": "appliedenergistics2:wireless_access_point",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:wireless_access_point",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "89b6cff1-e509-4041-be08-a30cd8c2e839"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:pork_and_beans",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3dabfff3-e479-44a3-ae8b-d35a75f81041",
+      "name": "Sow the Seeds of umm fluix.",
+      "description": "Unnamed quest",
+      "x": 141,
+      "y": 81,
+      "icon": {
+        "id": "appliedenergistics2:fluix_crystal_seed",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:fluix_crystal_seed",
+                "Count": 4
+              },
+              "required": 4,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "2cc003c8-20dd-42db-9bd0-1d8e3256c459"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:fluix_crystal_seed",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c0eb6e7d-4c83-45a3-b2d4-8b719cd1d26c",
+      "name": "Link it",
+      "description": "mmmm linking",
+      "x": 242,
+      "y": 187,
+      "icon": {
+        "id": "appliedenergistics2:quantum_link",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:quantum_link",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8fa35d40-868c-42ce-9d15-6913d315e5b8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:pork_jerky",
+          "Count": 15
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "89b6cff1-e509-4041-be08-a30cd8c2e839",
+      "name": "It\u0027s biometric",
+      "description": "used to manage access",
+      "x": 213,
+      "y": 154,
+      "icon": {
+        "id": "appliedenergistics2:biometric_card",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:biometric_card",
+                "Count": 1,
+                "tag": {}
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "debdeb7d-ebcb-4234-a156-9fe1b1ed881c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:beer",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "403effbb-fa63-4a77-8a67-16d783b20562",
+      "name": "Tunnel that peer",
+      "description": "or something like it",
+      "x": 24,
+      "y": 137,
+      "icon": {
+        "id": "appliedenergistics2:me_p2p_tunnel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:me_p2p_tunnel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b0a6a34e-8c77-4944-9b90-d87504698c88"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:tuna_sandwich",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cd5006d8-b1fc-4aef-a05d-fe29edcc5d91",
+      "name": "Gender Fluix",
+      "description": "this crystal is an important part of ae2. make sure to make 16 of them",
+      "x": 57,
+      "y": 17,
+      "icon": {
+        "id": "appliedenergistics2:fluix_crystal",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:fluix_crystal",
+                "Count": 16
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c7fb7ad4-2353-48a8-896c-ecfc01828a71"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:diamond",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7662b5bc-bd33-41f8-ae20-7885eb73c7b7",
+      "name": "Fluix be smart",
+      "description": "use these to create advanced transport methods.",
+      "x": 57,
+      "y": 101,
+      "icon": {
+        "id": "appliedenergistics2:fluix_smart_cable",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:fluix_smart_cable",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b0a6a34e-8c77-4944-9b90-d87504698c88"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:grilled_cheese",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "fec3885d-b881-443a-ad78-cc6e26a04566",
+      "name": "Memories",
+      "description": "not mammories",
+      "x": 24,
+      "y": 169,
+      "icon": {
+        "id": "appliedenergistics2:memory_card",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:memory_card",
+                "Count": 1,
+                "tag": {}
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "403effbb-fa63-4a77-8a67-16d783b20562"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tacocraft:golden_taco",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c7fb7ad4-2353-48a8-896c-ecfc01828a71",
+      "name": "Charge yer crystal.. man",
+      "description": "very important part of the mod. please refer to rei on the recipe.",
+      "x": 21,
+      "y": 14,
+      "bigicon": true,
+      "icon": {
+        "id": "appliedenergistics2:charged_certus_quartz_crystal",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:charged_certus_quartz_crystal",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:crank",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "debdeb7d-ebcb-4234-a156-9fe1b1ed881c",
+      "name": "Secure your stuff",
+      "description": "lock it up. also good for starting the wireless access",
+      "x": 177,
+      "y": 151,
+      "bigicon": true,
+      "icon": {
+        "id": "appliedenergistics2:security_station",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:security_station",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:caesar_salad",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "17961acc-f0ab-4db3-8a41-5fee077da5af",
+      "name": "Me export your bus",
+      "description": "items go out",
+      "x": 179,
+      "y": 116,
+      "icon": {
+        "id": "appliedenergistics2:export_bus",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:export_bus",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "fd7e0da0-cc74-4cfe-b7bc-c332fa768b76"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:veggie_salad",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Applied Energistics 2 is a mod that focuses on creating a compact, easily accessible, considerably extendible storage system called an ME Network."
+}

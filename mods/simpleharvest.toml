@@ -1,0 +1,14 @@
+name = "SimpleHarvest"
+filename = "Harvest-fabric-1.16.1-1.2.12-26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2989/916/Harvest-fabric-1.16.1-1.2.12-26.jar"
+hash-format = "murmur2"
+hash = "1618953317"
+
+[update]
+[update.curseforge]
+file-id = 2989916
+project-id = 240783
+release-channel = "beta"

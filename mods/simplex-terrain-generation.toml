@@ -1,0 +1,14 @@
+name = "Simplex Terrain Generation"
+filename = "simplexterrain-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3133/994/simplexterrain-0.7.2.jar"
+hash-format = "murmur2"
+hash = "1611411959"
+
+[update]
+[update.curseforge]
+file-id = 3133994
+project-id = 352997
+release-channel = "beta"

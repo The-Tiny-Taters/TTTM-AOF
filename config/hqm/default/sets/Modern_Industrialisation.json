@@ -1,0 +1,1120 @@
+{
+  "name": "Modern Industrialisation",
+  "quests": [
+    {
+      "uuid": "b128f7ea-a2bd-4530-b44c-75422620c860",
+      "name": "Big Bertha",
+      "description": "use this mamba jamba to boil all the things",
+      "x": 272,
+      "y": 18,
+      "icon": {
+        "id": "modern_industrialization:large_steam_boiler",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:large_steam_boiler",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9164ff5e-efbe-4f15-b36d-8edec41b3083"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:bronze_storage_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "689c5f96-cbef-4758-8fd7-ab8dfc9bf03a",
+      "name": "Steeeeeam maaaaachhhiiiiinee",
+      "description": "self explanatory at this point. refer to the manual for more on this item",
+      "x": 117,
+      "y": 49,
+      "icon": {
+        "id": "modern_industrialization:quarry",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:quarry",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ea646448-5d28-4834-a03c-93955bede881"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:steel_machine_casing",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0fea622c-86cc-4458-ae59-8f996ccb51d2",
+      "name": "Mine your heart out",
+      "description": "have some passive mining for a while.. friend",
+      "x": 213,
+      "y": 83,
+      "icon": {
+        "id": "modern_industrialization:electric_quarry",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:electric_quarry",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b8ae6321-48fd-4014-8995-c59e9068db95"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:steel_machine_casing",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "63064470-996b-486b-80e5-11fd0ca5f306",
+      "name": "Old dead dinos",
+      "description": "use old dead dino\u0027s and plants to make power",
+      "x": 213,
+      "y": 180,
+      "icon": {
+        "id": "modern_industrialization:diesel_generator",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:diesel_generator",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "65fdcffd-fdf2-4b1c-87e1-e123dbf30674"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:steel_machine_casing",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b8ae6321-48fd-4014-8995-c59e9068db95",
+      "name": "Electric boogaloo",
+      "description": "blast furnace.. that\u0027s electric.",
+      "x": 213,
+      "y": 50,
+      "icon": {
+        "id": "modern_industrialization:electric_blast_furnace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:electric_blast_furnace",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "29ad8c7c-aa6c-431a-ba05-d55a7374706e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:bronze_storage_block",
+          "Count": 1
+        },
+        {
+          "id": "modern_industrialization:clean_stainless_steel_machine_casing",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6c38573c-cd94-4fb4-921e-6e88b48321a0",
+      "name": "Circuit go!",
+      "description": "Use this item extensively throughout the game",
+      "x": 176,
+      "y": 15,
+      "bigicon": true,
+      "icon": {
+        "id": "modern_industrialization:lv_circuit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_circuit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:iron_ore",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4bc05e6d-9690-4798-a590-7b1a9cea7514",
+      "name": "Coke with ice is not nice",
+      "description": "refer to manual",
+      "x": 24,
+      "y": 88,
+      "icon": {
+        "id": "modern_industrialization:coke_oven",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:coke_oven",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "392771e4-408e-4a92-8ecc-4cbdc4f91e22"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:steel_storage_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ad2f8dbe-664b-49f9-aa71-e61bc96fa0f2",
+      "name": "Let\u0027s go a round",
+      "description": "create more things by spinning them! who knew?",
+      "x": 243,
+      "y": 116,
+      "icon": {
+        "id": "modern_industrialization:lv_centrifuge",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_centrifuge",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8b6d90af-2835-42b1-81ce-830d3021610e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:cupronickel_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "17d89885-db38-4f89-9b90-e81c88eaf9dd",
+      "name": "Get in there!",
+      "description": "with your drill, that is.",
+      "x": 213,
+      "y": 115,
+      "icon": {
+        "id": "modern_industrialization:oil_drilling_rig",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:oil_drilling_rig",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0fea622c-86cc-4458-ae59-8f996ccb51d2"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:steel_machine_casing_pipe",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:chocolate_milkshake",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "50ad935e-a4ac-43d2-bccd-909ac3773bb5",
+      "name": "Steam really turns me on",
+      "description": "more steam.. more power",
+      "x": 273,
+      "y": 83,
+      "icon": {
+        "id": "modern_industrialization:mv_steam_turbine",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:mv_steam_turbine",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b8ae6321-48fd-4014-8995-c59e9068db95"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:steel_machine_casing",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7ae9b55a-4a3e-47ec-89e9-5fadb473bc0a",
+      "name": "Bronzed Boiler",
+      "description": "not as good as bronzed abs.. but it will do",
+      "x": 58,
+      "y": 50,
+      "icon": {
+        "id": "modern_industrialization:bronze_boiler",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:bronze_boiler",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ec3a3f68-54c4-40a9-aed6-7134dc609c5a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:bronze_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cc60067c-d871-458b-aacf-410e74b4b14d",
+      "name": "Bronzed Macerator",
+      "description": "Macerate just dont masticate",
+      "x": 58,
+      "y": 114,
+      "icon": {
+        "id": "modern_industrialization:bronze_macerator",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:bronze_macerator",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "02a42688-4565-495c-9c9d-6e6b9c588991"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:bronze_block",
+          "Count": 1
+        },
+        {
+          "id": "givemehats:tater_hat",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "91742a3f-2a0a-4df1-98a2-4ac420fc198b",
+      "name": "Bronzed Compressor",
+      "description": "Compress this quest by reading the manual",
+      "x": 58,
+      "y": 146,
+      "icon": {
+        "id": "modern_industrialization:bronze_compressor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:bronze_compressor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cc60067c-d871-458b-aacf-410e74b4b14d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:bronze_block",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:supreme_pizza",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "29ad8c7c-aa6c-431a-ba05-d55a7374706e",
+      "name": "Steam turns me on",
+      "description": "this is the start of something very special",
+      "x": 213,
+      "y": 18,
+      "icon": {
+        "id": "modern_industrialization:lv_steam_turbine",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_steam_turbine",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6c38573c-cd94-4fb4-921e-6e88b48321a0"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:supreme_pizza",
+          "Count": 4
+        },
+        {
+          "id": "croptopia:hamburger",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "95d317da-7d75-4c80-b9ec-62d1232bf80d",
+      "name": "Just make it",
+      "description": "Unnamed quest",
+      "x": 21,
+      "y": 16,
+      "bigicon": true,
+      "icon": {
+        "id": "modern_industrialization:guidebook",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:guidebook",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ec3a3f68-54c4-40a9-aed6-7134dc609c5a",
+      "name": "Another brick in the wall",
+      "description": "use these to help create multiblock structures in MI",
+      "x": 58,
+      "y": 19,
+      "icon": {
+        "id": "modern_industrialization:fire_clay_bricks",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:fire_clay_bricks",
+                "Count": 37
+              },
+              "required": 37
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95d317da-7d75-4c80-b9ec-62d1232bf80d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:blast_furnace",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cfc3b92b-c2b1-4cc1-ab9a-b4d4a8ffc00e",
+      "name": "This furnace is a blast",
+      "description": "use this MI furnace to smelt more ores at a faster rate",
+      "x": 87,
+      "y": 19,
+      "icon": {
+        "id": "modern_industrialization:steam_blast_furnace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:steam_blast_furnace",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ec3a3f68-54c4-40a9-aed6-7134dc609c5a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:steel_large_plate",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0375dde4-8726-423b-af5d-83549d39b914",
+      "name": "Reactor factor",
+      "description": "make things react with this device.",
+      "x": 273,
+      "y": 117,
+      "icon": {
+        "id": "modern_industrialization:lv_chemical_reactor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_chemical_reactor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "50ad935e-a4ac-43d2-bccd-909ac3773bb5"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:cupronickel_double_ingot",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "fa82e904-ee47-4539-b967-3d66f3514081",
+      "name": "Magnetic personality",
+      "description": "use this for certain polarization processes",
+      "x": 272,
+      "y": 47,
+      "icon": {
+        "id": "modern_industrialization:lv_polarizer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_polarizer",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9164ff5e-efbe-4f15-b36d-8edec41b3083"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:gold_ore",
+          "Count": 14
+        },
+        {
+          "id": "givemehats:floating_hat",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "02a42688-4565-495c-9c9d-6e6b9c588991",
+      "name": "Bronzed Furnace",
+      "description": "this bronzed bad boy is hot!",
+      "x": 58,
+      "y": 82,
+      "icon": {
+        "id": "modern_industrialization:bronze_furnace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:bronze_furnace",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7ae9b55a-4a3e-47ec-89e9-5fadb473bc0a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:bronze_block",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:supreme_pizza",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8b6d90af-2835-42b1-81ce-830d3021610e",
+      "name": "Feel the split",
+      "description": "use this to split or change materials",
+      "x": 243,
+      "y": 83,
+      "icon": {
+        "id": "modern_industrialization:lv_electrolyzer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_electrolyzer",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b8ae6321-48fd-4014-8995-c59e9068db95"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:cupronickel_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "65fdcffd-fdf2-4b1c-87e1-e123dbf30674",
+      "name": "This still hairy",
+      "description": "idk why I named it that",
+      "x": 213,
+      "y": 147,
+      "icon": {
+        "id": "modern_industrialization:lv_distillery",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_distillery",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "17d89885-db38-4f89-9b90-e81c88eaf9dd"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:beer",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "733fbbbd-8978-4391-a639-c29772e284c9",
+      "name": "Lay that pipe again",
+      "description": "return customers are always best",
+      "x": 24,
+      "y": 153,
+      "icon": {
+        "id": "modern_industrialization:pipe_fluid_iron",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:pipe_fluid_iron",
+                "Count": 4
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "884c7620-619b-48fb-ab6a-61cf8d5ae80a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:bronze_storage_block",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:sushi",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "392771e4-408e-4a92-8ecc-4cbdc4f91e22",
+      "name": "Forge anvil smorge fanvil",
+      "description": "you will need this start making bronze",
+      "x": 24,
+      "y": 56,
+      "icon": {
+        "id": "modern_industrialization:forge_hammer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:forge_hammer",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95d317da-7d75-4c80-b9ec-62d1232bf80d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:bronze_storage_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ea646448-5d28-4834-a03c-93955bede881",
+      "name": "This will steel your heart",
+      "description": "steel machine casing is used in multiple machines to create multiblock structures",
+      "x": 117,
+      "y": 19,
+      "icon": {
+        "id": "modern_industrialization:steel_machine_casing",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:steel_machine_casing",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cfc3b92b-c2b1-4cc1-ab9a-b4d4a8ffc00e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:steel_ingot",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "884c7620-619b-48fb-ab6a-61cf8d5ae80a",
+      "name": "Lay that pipe",
+      "description": "use this to transport items",
+      "x": 24,
+      "y": 120,
+      "icon": {
+        "id": "modern_industrialization:pipe_item_iron",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:pipe_item_iron",
+                "Count": 4
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4bc05e6d-9690-4798-a590-7b1a9cea7514"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tacocraft:steak_taco",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "41f9294d-a7fa-418d-8a6b-7f2b9753466a",
+      "name": "Wire that bad boi",
+      "description": "refer to manual",
+      "x": 117,
+      "y": 111,
+      "icon": {
+        "id": "modern_industrialization:steel_wiremill",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:steel_wiremill",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "53a0b5bd-0175-438c-9ae8-3aa00209a5da"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tacocraft:golden_taco",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9164ff5e-efbe-4f15-b36d-8edec41b3083",
+      "name": "No Assembly is futile",
+      "description": "or something funny.. otherwise refer to the manual",
+      "x": 243,
+      "y": 18,
+      "icon": {
+        "id": "modern_industrialization:lv_assembler",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:lv_assembler",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "29ad8c7c-aa6c-431a-ba05-d55a7374706e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:stainless_steel_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f4b097cd-2252-4cac-9c7e-add19b8c29dc",
+      "name": "Bronzed Mixer",
+      "description": "Mix it up!",
+      "x": 58,
+      "y": 178,
+      "icon": {
+        "id": "modern_industrialization:bronze_mixer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:bronze_mixer",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "91742a3f-2a0a-4df1-98a2-4ac420fc198b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "modern_industrialization:bronze_block",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:tofuburger",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "53a0b5bd-0175-438c-9ae8-3aa00209a5da",
+      "name": "Pack it up",
+      "description": "refer to manual for more about this block",
+      "x": 117,
+      "y": 80,
+      "icon": {
+        "id": "modern_industrialization:steel_packer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "modern_industrialization:steel_packer",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "689c5f96-cbef-4758-8fd7-ab8dfc9bf03a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tacocraft:chicken_taco",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Modern Industrialization is a standalone tech mod, where the ultimate objective is total automation. Have machines generate and process all your resources while you are flying around doing anything you could possibly dream of! Of course, there is a long way to go before getting there. Can you do it?"
+}

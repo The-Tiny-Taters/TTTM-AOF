@@ -1,0 +1,14 @@
+name = "Crusade"
+filename = "crusade-mod-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3133/269/crusade-mod-1.2.0.jar"
+hash-format = "murmur2"
+hash = "3892008669"
+
+[update]
+[update.curseforge]
+file-id = 3133269
+project-id = 390557
+release-channel = "beta"

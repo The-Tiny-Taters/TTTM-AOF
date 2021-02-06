@@ -1,0 +1,14 @@
+name = "CC: Restitched"
+filename = "cc-tweaked-fabric-1.16.2-1.91.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3057/829/cc-tweaked-fabric-1.16.2-1.91.2.jar"
+hash-format = "murmur2"
+hash = "52381040"
+
+[update]
+[update.curseforge]
+file-id = 3057829
+project-id = 406876
+release-channel = "beta"

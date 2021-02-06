@@ -1,0 +1,14 @@
+name = "River Redux"
+filename = "riverredux-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3186/878/riverredux-0.1.6.jar"
+hash-format = "murmur2"
+hash = "57458237"
+
+[update]
+[update.curseforge]
+file-id = 3186878
+project-id = 380548
+release-channel = "beta"

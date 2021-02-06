@@ -1,0 +1,14 @@
+name = "Phonos"
+filename = "phonos-0.1.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3144/811/phonos-0.1.1-beta.jar"
+hash-format = "murmur2"
+hash = "525404076"
+
+[update]
+[update.curseforge]
+file-id = 3144811
+project-id = 417003
+release-channel = "beta"

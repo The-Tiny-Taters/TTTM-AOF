@@ -1,0 +1,14 @@
+name = "Stonecutter Tweaks"
+filename = "stonecutter-tweaks-1.1.0-1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2986/964/stonecutter-tweaks-1.1.0-1.16.jar"
+hash-format = "murmur2"
+hash = "254319909"
+
+[update]
+[update.curseforge]
+file-id = 2986964
+project-id = 387649
+release-channel = "beta"

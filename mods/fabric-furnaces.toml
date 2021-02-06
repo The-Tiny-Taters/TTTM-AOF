@@ -1,0 +1,14 @@
+name = "Fabric Furnaces"
+filename = "fabric-furnaces-1.3.3-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3155/774/fabric-furnaces-1.3.3-1.16.4.jar"
+hash-format = "murmur2"
+hash = "285180992"
+
+[update]
+[update.curseforge]
+file-id = 3155774
+project-id = 315534
+release-channel = "beta"

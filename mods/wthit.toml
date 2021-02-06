@@ -1,0 +1,14 @@
+name = "WTHIT"
+filename = "wthit-2.0.0+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3184/520/wthit-2.0.0+1.16.5.jar"
+hash-format = "murmur2"
+hash = "1833387404"
+
+[update]
+[update.curseforge]
+file-id = 3184520
+project-id = 440979
+release-channel = "beta"

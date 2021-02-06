@@ -1,0 +1,14 @@
+name = "Compressed Blocks for Fabric"
+filename = "compressedblocks-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3019/469/compressedblocks-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2955846797"
+
+[update]
+[update.curseforge]
+file-id = 3019469
+project-id = 364762
+release-channel = "beta"

@@ -1,0 +1,91 @@
+{
+  "name": "Manuals",
+  "quests": [
+    {
+      "uuid": "bb38b2b8-11bc-4613-b6d5-93f4b06267ec",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 13,
+      "y": 14,
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crafting_table",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "eaeab4a8-a6c3-4508-aad3-775642988c26",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 54,
+      "y": 144,
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b6101514-89bd-491c-9244-d06e0d837a45",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 40,
+      "y": 15,
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "89cdb8a1-0cd2-4a60-82aa-37a7c0c9dc80",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 74,
+      "y": 55,
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3c489790-f0e6-4162-a7e1-2a78c437336e",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 41,
+      "y": 85,
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f3ad9fe5-3c49-4b32-8d79-7a531f857080",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 101,
+      "y": 132,
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

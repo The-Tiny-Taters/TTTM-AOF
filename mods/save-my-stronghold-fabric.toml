@@ -1,0 +1,14 @@
+name = "Save My Stronghold! (Fabric)"
+filename = "SaveMyStronghold-Fabric-1.16.4-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3188/519/SaveMyStronghold-Fabric-1.16.4-1.0.jar"
+hash-format = "murmur2"
+hash = "1176270514"
+
+[update]
+[update.curseforge]
+file-id = 3188519
+project-id = 442184
+release-channel = "beta"

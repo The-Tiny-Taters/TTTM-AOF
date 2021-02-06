@@ -1,0 +1,14 @@
+name = "Simple Teleporters (Fabric)"
+filename = "simpleteleporters-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3029/749/simpleteleporters-2.2.1.jar"
+hash-format = "murmur2"
+hash = "3475705854"
+
+[update]
+[update.curseforge]
+file-id = 3029749
+project-id = 334011
+release-channel = "beta"

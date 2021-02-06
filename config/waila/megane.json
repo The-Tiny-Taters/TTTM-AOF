@@ -1,0 +1,84 @@
+{
+  "configVersion": 2,
+  "modules": {
+    "megane-impl": {
+      "badasintended.megane.impl.TechReborn": true,
+      "badasintended.megane.impl.Astromine": false,
+      "badasintended.megane.impl.ArtOfAlchemy": true,
+      "badasintended.megane.impl.Kibe": true,
+      "badasintended.megane.impl.Minecraft": true,
+      "badasintended.megane.impl.ModernIndustrialization": true,
+      "badasintended.megane.impl.IndustrialRevolution": true,
+      "badasintended.megane.impl.AppliedEnergistics2": true,
+      "badasintended.megane.impl.FabricFurnaces": true
+    }
+  },
+  "inventory": {
+    "forceRegistry": false,
+    "enabled": true,
+    "itemCount": true,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "entityInventory": {
+    "enabled": false,
+    "itemCount": true,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "energy": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "forceRegistry": false,
+    "colors": {
+      "megane": 7408640,
+      "indrev": 3885790,
+      "techreborn": 8390656,
+      "appliedenergistics2": 6556063
+    },
+    "units": {
+      "megane": "E",
+      "indrev": "LF",
+      "techreborn": "E",
+      "appliedenergistics2": "AE"
+    },
+    "blacklist": [
+      "appliedenergistics2:energy_acceptor"
+    ]
+  },
+  "fluid": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "forceRegistry": false,
+    "colors": {
+      "megane:default": 855385
+    },
+    "blacklist": []
+  },
+  "progress": {
+    "enabled": true,
+    "showWhenZero": false,
+    "blacklist": [
+      "minecraft:furnace",
+      "minecraft:blast_furnace"
+    ]
+  },
+  "petOwner": {
+    "enabled": true,
+    "offline": true,
+    "blacklist": []
+  },
+  "effect": {
+    "enabled": true,
+    "level": true,
+    "roman": false,
+    "hidden": false,
+    "blacklist": []
+  },
+  "spawnEgg": false,
+  "playerHead": true
+}

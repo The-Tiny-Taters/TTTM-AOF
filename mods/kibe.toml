@@ -1,0 +1,14 @@
+name = "Kibe"
+filename = "kibe-1.16.5-1.6.3-BETA.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3183/761/kibe-1.16.5-1.6.3-BETA.jar"
+hash-format = "murmur2"
+hash = "2455263697"
+
+[update]
+[update.curseforge]
+file-id = 3183761
+project-id = 388832
+release-channel = "beta"

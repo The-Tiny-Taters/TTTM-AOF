@@ -1,0 +1,38 @@
+{
+  "material": "lapis_lazuli",
+  "type": "enchant",
+  "stackable": true,
+  "modifies": [
+    {
+      "gives": "minecraft:looting",
+      "gives_to": [
+        "sword",
+        "harvest_scythe",
+        "broadsword",
+        "claymore",
+        "cutlass",
+        "battle_scythe",
+        "katana",
+        "battle_staff",
+        "spear",
+        "glaive",
+        "rapier",
+        "sickle",
+        "dagger"
+      ]
+    },
+    {
+      "gives": "minecraft:fortune",
+      "gives_to": [
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "harvest_scythe"
+      ]
+    }
+  ],
+  "incompatible": [
+    "silky_jewel"
+  ]
+}

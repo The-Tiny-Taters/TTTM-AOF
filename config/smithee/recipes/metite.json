@@ -1,0 +1,20 @@
+{
+  "#c:metite_blocks": {
+    "output_material": "metite",
+    "material_value": 81,
+    "chiseling_level": 1,
+    "overrides": {}
+  },
+  "#c:metite_ingots": {
+    "output_material": "metite",
+    "material_value": 9,
+    "chiseling_level": 1,
+    "overrides": {}
+  },
+  "#c:metite_nuggets": {
+    "output_material": "metite",
+    "material_value": 1,
+    "chiseling_level": 1,
+    "overrides": {}
+  }
+}

@@ -1,0 +1,14 @@
+name = "Biome Locator"
+filename = "biome_locator-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3169/987/biome_locator-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2507462250"
+
+[update]
+[update.curseforge]
+file-id = 3169987
+project-id = 436799
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Library of Exile"
+filename = "Library-Of-Exile-1.16.3-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3094/450/Library-Of-Exile-1.16.3-1.0.6.jar"
+hash-format = "murmur2"
+hash = "1471696947"
+
+[update]
+[update.curseforge]
+file-id = 3094450
+project-id = 398780
+release-channel = "beta"

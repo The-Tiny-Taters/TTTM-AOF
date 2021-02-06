@@ -1,0 +1,2020 @@
+{
+  "name": "Industrial Revolution",
+  "quests": [
+    {
+      "uuid": "f5dcd6ee-0e15-4647-954d-e5b4e4e304ba",
+      "name": "Power Storage 101",
+      "description": "after making power, you are gonna want to store it",
+      "x": 55,
+      "y": 87,
+      "icon": {
+        "id": "indrev:lazuli_flux_container_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:lazuli_flux_container_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cb73779f-740d-4a59-be81-a6e807b449a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:taco",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "df733471-7a4a-4e2d-b4aa-86788409bffe",
+      "name": "Moby Dick\u0027s revenge",
+      "description": "use this to accelerate your fishing experience",
+      "x": 240,
+      "y": 17,
+      "icon": {
+        "id": "indrev:fishing_farm_mk3",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:fishing_farm_mk3",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "71d73afa-fee5-42f9-bcd4-b55fd4696dd0"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:enchanted_book",
+          "Count": 1,
+          "tag": {
+            "StoredEnchantments": [
+              {
+                "lvl": 3,
+                "id": "minecraft:lure"
+              }
+            ]
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cb73779f-740d-4a59-be81-a6e807b449a4",
+      "name": "Solid Power",
+      "description": "standard generator",
+      "x": 55,
+      "y": 56,
+      "icon": {
+        "id": "indrev:coal_generator_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:coal_generator_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "261235bc-7618-40bd-888d-b1ead5f1c392"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:coal_block",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "299e25f8-1a96-4d64-86fe-ac0b8fa09403",
+      "name": "Power lanes v4",
+      "description": "more power",
+      "x": 110,
+      "y": 126,
+      "icon": {
+        "id": "indrev:cable_mk4",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:cable_mk4",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "de9bff0d-5152-437b-8a83-61a61d65bf9d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:nikolite_ingot",
+          "Count": 16
+        },
+        {
+          "id": "croptopia:cheeseburger",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0ae05cff-f1d3-4e50-8e7e-c0e622063c40",
+      "name": "Superman that ingot",
+      "description": "Dark blue and shiny. use this ingot to craft more advanced tech",
+      "x": 142,
+      "y": 90,
+      "icon": {
+        "id": "indrev:enriched_nikolite_ingot",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:enriched_nikolite_ingot",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ca93b969-1935-4c18-bc6f-f3a8e5d76ab3"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:enriched_nikolite_dust",
+          "Count": 32
+        },
+        {
+          "id": "croptopia:tofuburger",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2ad40462-977f-49c4-a356-b3c18fa4ca7c",
+      "name": "Charge it up",
+      "description": "take this, connect it to power, stand on it with an item to charge.. and poof it starts charging!",
+      "x": 239,
+      "y": 60,
+      "icon": {
+        "id": "indrev:charge_pad_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:charge_pad_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6dfcff79-3321-43b0-900d-d2fee6887800"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:redstone_torch",
+          "Count": 12
+        },
+        {
+          "id": "indrev:battery",
+          "Count": 4,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d3e71adf-c975-42f7-852e-005efde8e860",
+      "name": "Drill and repeat",
+      "description": "use this drill to mine a larger area in a less amount of time.",
+      "x": 111,
+      "y": 166,
+      "icon": {
+        "id": "indrev:mining_drill_mk2",
+        "Count": 1,
+        "tag": {
+          "Damage": 8000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:mining_drill_mk2",
+                "Count": 1,
+                "tag": {
+                  "Damage": 8000
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8bbf2240-1f04-4ce9-b24a-f5edf69eec0d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:gold_plate",
+          "Count": 4
+        },
+        {
+          "id": "croptopia:cheeseburger",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f79ca5d0-6b92-403c-915f-4c035e345808",
+      "name": "Power lanes v2",
+      "description": "More power... same type of cable?",
+      "x": 54,
+      "y": 126,
+      "icon": {
+        "id": "indrev:cable_mk2",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:cable_mk2",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e0ed1ebd-5517-46ee-99c0-06e3d9fa5ae7"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:nikolite_dust",
+          "Count": 32
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "71d73afa-fee5-42f9-bcd4-b55fd4696dd0",
+      "name": "Reduce, Reuse, Recycle",
+      "description": "use this biomass generator to create a renewable energy resource.",
+      "x": 211,
+      "y": 17,
+      "icon": {
+        "id": "indrev:biomass_generator_mk3",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:biomass_generator_mk3",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6923d606-3fa9-4c43-8eb4-36ebaaecd773"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:biomass",
+          "Count": 64
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a8393fb9-06f3-4a38-8e99-3f5a24405e8b",
+      "name": "Super infuse",
+      "description": "infuse factory",
+      "x": 291,
+      "y": 156,
+      "icon": {
+        "id": "indrev:infuser_factory_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:infuser_factory_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b05bac40-76dc-438d-a580-42919c7b886c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:chicken_and_noodles",
+          "Count": 12
+        },
+        {
+          "id": "croptopia:chocolate",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c1970d48-06d8-4abd-b51f-031c4266eed5",
+      "name": "Workbench of revolution",
+      "description": "use this workbench to work with your modular armor",
+      "x": 211,
+      "y": 91,
+      "icon": {
+        "id": "indrev:modular_workbench_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:modular_workbench_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6dfcff79-3321-43b0-900d-d2fee6887800"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:woolrus_hat",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:leek_soup",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b05bac40-76dc-438d-a580-42919c7b886c",
+      "name": "Compress and go",
+      "description": "Compressor factory",
+      "x": 263,
+      "y": 156,
+      "icon": {
+        "id": "indrev:compressor_factory_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:compressor_factory_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b8c2e525-1cc4-4613-9209-545ecb20065e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:sailor_hat",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:cheese_cake",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2be2c801-1518-4be6-ade1-432ace3841e0",
+      "name": "Economy electricity",
+      "description": "use this upgrade to consume less power per machine",
+      "x": 268,
+      "y": 17,
+      "icon": {
+        "id": "indrev:energy_upgrade",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:energy_upgrade",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "df733471-7a4a-4e2d-b4aa-86788409bffe"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:enriched_nikolite_ingot",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "94b481a4-dd3d-418d-8dfc-e271745db63e",
+      "name": "Modular chest",
+      "description": "modulate close to your heart",
+      "x": 301,
+      "y": 80,
+      "icon": {
+        "id": "indrev:modular_armor_chest",
+        "Count": 1,
+        "tag": {
+          "Damage": 500000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:modular_armor_chest",
+                "Count": 1,
+                "tag": {
+                  "Damage": 500000
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95049ad9-9e2d-40a8-9e54-cbf0dc0efa87"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:russian_hat",
+          "Count": 1
+        },
+        {
+          "id": "givemehats:slime_hat",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cce1c050-4f44-443e-80d7-92b6c3a9b04d",
+      "name": "Old McDonald in a block",
+      "description": "eyioh no!",
+      "x": 136,
+      "y": 180,
+      "icon": {
+        "id": "indrev:farmer_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:farmer_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c9977fc9-d306-489e-98fc-7d34a77c5c4a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "adorn:sweet_berry_crate",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "261235bc-7618-40bd-888d-b1ead5f1c392",
+      "name": "Circuits UP!",
+      "description": "circuits are an important part of breakfast.",
+      "x": 19,
+      "y": 53,
+      "bigicon": true,
+      "icon": {
+        "id": "indrev:circuit_mk1",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:circuit_mk1",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:enchanted_book",
+          "Count": 1,
+          "tag": {
+            "StoredEnchantments": [
+              {
+                "lvl": 1,
+                "id": "minecraft:infinity"
+              }
+            ]
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6923d606-3fa9-4c43-8eb4-36ebaaecd773",
+      "name": "Circuits around",
+      "description": "**WARNING**\n FROM THIS POINT ON, YOU WILL NEED STEEL, YOU MUST GET IT FROM ANOTHER MOD.",
+      "x": 175,
+      "y": 14,
+      "bigicon": true,
+      "icon": {
+        "id": "indrev:circuit_mk3",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:circuit_mk3",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:tier_upgrade_mk3",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b42b5f9e-7d8b-47bc-904e-6f55c9061b0c",
+      "name": "Building Blocks of Revolution",
+      "description": "Machine blocks are used just about everywhere in indrev. Make sure to remember this recipe.",
+      "x": 54,
+      "y": 14,
+      "icon": {
+        "id": "indrev:machine_block",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:machine_block",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e0c1e643-0062-42c2-a435-8970be067f9a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:iron_plate",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "488de4f8-0b0f-4fdd-945e-7358efa2dfd6",
+      "name": "Modular head",
+      "description": "Modular helmet for your modular head",
+      "x": 288,
+      "y": 102,
+      "icon": {
+        "id": "indrev:modular_armor_helmet",
+        "Count": 1,
+        "tag": {
+          "Damage": 500000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:modular_armor_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 500000
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95049ad9-9e2d-40a8-9e54-cbf0dc0efa87"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "adorn:apple_crate",
+          "Count": 1
+        },
+        {
+          "id": "givemehats:deerstalker_hat",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e0ed1ebd-5517-46ee-99c0-06e3d9fa5ae7",
+      "name": "Power Lanes",
+      "description": "Cables today, cables tomorrow",
+      "x": 19,
+      "y": 123,
+      "bigicon": true,
+      "icon": {
+        "id": "indrev:cable_mk1",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:cable_mk1",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:gold_block",
+          "Count": 2
+        },
+        {
+          "id": "croptopia:cheeseburger",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b8c2e525-1cc4-4613-9209-545ecb20065e",
+      "name": "Furnace of the gods!",
+      "description": "create this to smelt like a beast",
+      "x": 235,
+      "y": 156,
+      "icon": {
+        "id": "indrev:electric_furnace_factory_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:electric_furnace_factory_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bb30f8be-e6e6-4ff7-bf2b-6253d12f82ef"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:bunny_ears",
+          "Count": 1
+        },
+        {
+          "id": "adorn:nether_wart_crate",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "683d2b11-bdb5-43a8-a0a4-6e0e32654865",
+      "name": "Tesla would be proud",
+      "description": "New material.. more possibilities",
+      "x": 112,
+      "y": 14,
+      "icon": {
+        "id": "indrev:nikolite_ingot",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:nikolite_ingot",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "440bffe0-4326-4f10-b970-bedaf7ffd6ad"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:nikolite_dust",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7706d3cd-abff-4970-ad24-deb083e0816f",
+      "name": "Mine it up",
+      "description": "use this to auto mine materials",
+      "x": 179,
+      "y": 126,
+      "icon": {
+        "id": "indrev:miner_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:miner_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0dbd236a-be6a-4a6f-9a6b-71e67bc3fdf9"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:top_hat",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:chicken_and_noodles",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5bfaf33a-32e8-4798-903a-b121ed5fa716",
+      "name": "Melt baby Smelt",
+      "description": "it\u0027s getting hot in here",
+      "x": 83,
+      "y": 56,
+      "icon": {
+        "id": "indrev:electric_furnace_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:electric_furnace_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cb73779f-740d-4a59-be81-a6e807b449a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:iron_ore",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "de9bff0d-5152-437b-8a83-61a61d65bf9d",
+      "name": "Power cables v3",
+      "description": "MMM mooore angry pixies",
+      "x": 82,
+      "y": 126,
+      "icon": {
+        "id": "indrev:cable_mk3",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:cable_mk3",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "f79ca5d0-6b92-403c-915f-4c035e345808"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:nikolite_dust",
+          "Count": 64
+        },
+        {
+          "id": "croptopia:cheeseburger",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "60cdc0f4-d4a8-43db-abae-c83e58295490",
+      "name": "Tan that hide or not",
+      "description": "Two zombie flesh, makes untanned, one untanned can become regular leather.",
+      "x": 117,
+      "y": 90,
+      "icon": {
+        "id": "indrev:untanned_leather",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:untanned_leather",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ca93b969-1935-4c18-bc6f-f3a8e5d76ab3"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:tofuburger",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "29d56d0b-50cb-4a95-aa76-dd876323ff31",
+      "name": "The final fluid... infuser",
+      "description": "use this or not.. we don\u0027t care",
+      "x": 179,
+      "y": 156,
+      "icon": {
+        "id": "indrev:smelter_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:fluid_infuser_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7706d3cd-abff-4970-ad24-deb083e0816f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:bowler_hat",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:grilled_cheese",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b6bb3587-86ad-4107-8141-5447d94c9538",
+      "name": "Harness Helios",
+      "description": "passive power is best, but comes at a price",
+      "x": 22,
+      "y": 91,
+      "icon": {
+        "id": "indrev:solar_generator_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:solar_generator_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "261235bc-7618-40bd-888d-b1ead5f1c392"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:gold_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "440bffe0-4326-4f10-b970-bedaf7ffd6ad",
+      "name": "Is that a battery in your pocket?",
+      "description": "Batteries are magic",
+      "x": 83,
+      "y": 14,
+      "icon": {
+        "id": "indrev:battery",
+        "Count": 1,
+        "tag": {
+          "Damage": 4096
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:battery",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b42b5f9e-7d8b-47bc-904e-6f55c9061b0c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:wine",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0dbd236a-be6a-4a6f-9a6b-71e67bc3fdf9",
+      "name": "Heat it up baby",
+      "description": "use this generator",
+      "x": 179,
+      "y": 96,
+      "icon": {
+        "id": "indrev:heat_generator_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:heat_generator_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "97593d55-800f-4857-a91d-8c453f054eb8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:cowboy_hat",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:spaghetti_squash",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8bbf2240-1f04-4ce9-b24a-f5edf69eec0d",
+      "name": "Be good to the earth",
+      "description": "Use this to convert plants to an energy source.",
+      "x": 83,
+      "y": 166,
+      "icon": {
+        "id": "indrev:recycler_mk2",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:recycler_mk2",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "74902961-130c-4b5c-9b1c-803e6c5e2737"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:machine_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d95cc27e-033c-4938-969b-00cda028033e",
+      "name": "Pulverize this!",
+      "description": "Like a grinder, different method",
+      "x": 111,
+      "y": 56,
+      "icon": {
+        "id": "indrev:pulverizer_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:pulverizer_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "5bfaf33a-32e8-4798-903a-b121ed5fa716"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:cheeseburger",
+          "Count": 10
+        },
+        {
+          "id": "indrev:circuit_mk1",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bb30f8be-e6e6-4ff7-bf2b-6253d12f82ef",
+      "name": "Pulverize like a pro",
+      "description": "use this factory to have top tier pulverization",
+      "x": 207,
+      "y": 156,
+      "icon": {
+        "id": "indrev:pulverizer_factory_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:pulverizer_factory_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "29d56d0b-50cb-4a95-aa76-dd876323ff31"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:iron_ore",
+          "Count": 32
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5804458b-b6c5-4cdb-addb-2c6e2a5c37d2",
+      "name": "Circuits down!",
+      "description": "Level two of circuits opens a mid-tier level of crafting",
+      "x": 20,
+      "y": 163,
+      "bigicon": true,
+      "icon": {
+        "id": "indrev:circuit_mk2",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:circuit_mk2",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:enriched_nikolite_ingot",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "74902961-130c-4b5c-9b1c-803e6c5e2737",
+      "name": "Captain Ahab",
+      "description": "Get your Mody Dick",
+      "x": 55,
+      "y": 166,
+      "icon": {
+        "id": "indrev:fishing_farm_mk2",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:fishing_farm_mk2",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "5804458b-b6c5-4cdb-addb-2c6e2a5c37d2"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "gofish:skeletal_rod",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e7fb05ce-29c5-4393-8dda-9f53f07ca8f8",
+      "name": "Fish like a boss",
+      "description": "this is a top tier fisher",
+      "x": 267,
+      "y": 60,
+      "icon": {
+        "id": "indrev:fishing_farm_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:fishing_farm_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "2ad40462-977f-49c4-a356-b3c18fa4ca7c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:santa_hat",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:saguaro",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6dfcff79-3321-43b0-900d-d2fee6887800",
+      "name": "Charge on the go",
+      "description": "use this to recharge items on the go",
+      "x": 211,
+      "y": 60,
+      "icon": {
+        "id": "indrev:portable_charger",
+        "Count": 1,
+        "tag": {
+          "Damage": 250000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:portable_charger",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "97593d55-800f-4857-a91d-8c453f054eb8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:battery",
+          "Count": 4,
+          "tag": {
+            "Damage": 0
+          }
+        },
+        {
+          "id": "croptopia:taco",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a361e922-a1ed-427a-97b2-6d780ea4208a",
+      "name": "Drill it good",
+      "description": "top tier drill, top tier drilling",
+      "x": 296,
+      "y": 17,
+      "icon": {
+        "id": "indrev:mining_drill_mk3",
+        "Count": 1,
+        "tag": {
+          "Damage": 16000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:mining_drill_mk3",
+                "Count": 1,
+                "tag": {
+                  "Damage": 16000
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "2be2c801-1518-4be6-ade1-432ace3841e0"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:machine_block",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "97593d55-800f-4857-a91d-8c453f054eb8",
+      "name": "Circuits everywhere!",
+      "description": "this final tier will help create some of the final machines",
+      "x": 176,
+      "y": 57,
+      "bigicon": true,
+      "icon": {
+        "id": "indrev:circuit_mk4",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:circuit_mk4",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:industrial_circuit",
+          "Count": 2
+        },
+        {
+          "id": "croptopia:cheeseburger",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "db56bd92-edb3-4831-ab8d-4a933cc093e9",
+      "name": "Upgrade go!",
+      "description": "this is the start of the upgrade process. After this, you will need to craft higher tier\u0027s of upgrade\u0027s in order to advance your machines.",
+      "x": 38,
+      "y": 194,
+      "icon": {
+        "id": "indrev:tier_upgrade_mk2",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:tier_upgrade_mk2",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "5804458b-b6c5-4cdb-addb-2c6e2a5c37d2"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:speed_upgrade",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ca93b969-1935-4c18-bc6f-f3a8e5d76ab3",
+      "name": "Let\u0027s Fuse Together",
+      "description": "In indrev, the infuser helps make advanced alloy\u0027s",
+      "x": 139,
+      "y": 56,
+      "icon": {
+        "id": "indrev:infuser_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:infuser_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d95cc27e-033c-4938-969b-00cda028033e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:machine_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "95049ad9-9e2d-40a8-9e54-cbf0dc0efa87",
+      "name": "Gamer axe is gamer dope",
+      "description": "use this to pwn all the noobs",
+      "x": 239,
+      "y": 91,
+      "icon": {
+        "id": "indrev:gamer_axe",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:gamer_axe",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c1970d48-06d8-4abd-b51f-031c4266eed5"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:crown",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:pineapple",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c9977fc9-d306-489e-98fc-7d34a77c5c4a",
+      "name": "Paul Bunyan\u0027s bitch",
+      "description": "chop wood faster than before.. well at least it\u0027s automated",
+      "x": 133,
+      "y": 141,
+      "bigicon": true,
+      "icon": {
+        "id": "indrev:chopper_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:chopper_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:gold_block",
+          "Count": 3
+        },
+        {
+          "id": "croptopia:pineapple_pepperoni_pizza",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e0c1e643-0062-42c2-a435-8970be067f9a",
+      "name": "Let The Revolution Begin!",
+      "description": "Craft a wrench, this will start you on your industrial revolution. Shift+Right click will switch it from rotate mode to configure mode (configure input and output sides)",
+      "x": 18,
+      "y": 11,
+      "bigicon": true,
+      "icon": {
+        "id": "indrev:wrench",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:wrench",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "indrev:iron_plate",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cffaea66-ca4e-4538-a374-acee5fd57b58",
+      "name": "Modular feet",
+      "description": "modular feet for a modular world",
+      "x": 239,
+      "y": 121,
+      "icon": {
+        "id": "indrev:modular_armor_boots",
+        "Count": 1,
+        "tag": {
+          "Damage": 500000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:modular_armor_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 500000
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95049ad9-9e2d-40a8-9e54-cbf0dc0efa87"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "blockus:cod_crate",
+          "Count": 1
+        },
+        {
+          "id": "givemehats:fez_hat",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c22ad990-0055-4218-9f98-c42a6a31304b",
+      "name": "Modular legs",
+      "description": "we aren\u0027t saying they are robot legs... but they are robot legs",
+      "x": 265,
+      "y": 117,
+      "icon": {
+        "id": "indrev:modular_armor_legs",
+        "Count": 1,
+        "tag": {
+          "Damage": 500000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:modular_armor_legs",
+                "Count": 1,
+                "tag": {
+                  "Damage": 500000
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95049ad9-9e2d-40a8-9e54-cbf0dc0efa87"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:floating_hat",
+          "Count": 1
+        },
+        {
+          "id": "adorn:carrot_crate",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8498ccac-67a1-42b7-aa5d-0c449f247ea0",
+      "name": "Wyatt Earp in a block",
+      "description": "Make sure you use the diamond sword in the reward to use in your rancher",
+      "x": 112,
+      "y": 194,
+      "icon": {
+        "id": "indrev:rancher_mk1",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:rancher_mk1",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cce1c050-4f44-443e-80d7-92b6c3a9b04d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:diamond_sword",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Industrial Revolution presents standard processing machines divided in 4 tiers, you can also improve them by using upgrades such as the speed upgrade.\n\nAutomation machines such as the chopper, rancher and miner, alongside other machines to help enhance your ore processing!\n\nA stylish modular armor with lots of modules and colors"
+}

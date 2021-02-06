@@ -1,0 +1,97 @@
+{
+  "combinations": [
+    {
+      "includes": [
+        "golden_head",
+        "golden_binding"
+      ],
+      "excludes": [
+        "golden_handle"
+      ],
+      "mining_speed": "base + 0.25",
+      "attack_damage": "base - 0.2"
+    },
+    {
+      "includes": [
+        "golden_head",
+        "golden_binding",
+        "golden_handle"
+      ],
+      "excludes": [],
+      "mining_speed": "base + 2.0",
+      "attack_damage": "base - 0.5",
+      "attack_speed": "base + 0.4"
+    },
+    {
+      "includes": [
+        "iron_head",
+        "iron_binding",
+        "iron_handle"
+      ],
+      "excludes": [],
+      "durability": "base + 30"
+    },
+    {
+      "includes": [
+        "oak_handle",
+        "oak_binding",
+        "acacia_handle",
+        "acacia_binding",
+        "dark_oak_handle",
+        "dark_oak_binding",
+        "birch_handle",
+        "birch_binding",
+        "jungle_handle",
+        "jungle_binding",
+        "spruce_handle",
+        "spruce_binding"
+      ],
+      "excludes": [
+        "oak_head",
+        "acacia_head",
+        "birch_head",
+        "dark_oak_head",
+        "jungle_head",
+        "spruce_head"
+      ],
+      "durability": "base - 13"
+    },
+    {
+      "includes": [
+        "oak_handle",
+        "oak_binding",
+        "oak_head",
+        "acacia_handle",
+        "acacia_binding",
+        "acacia_head",
+        "birch_handle",
+        "birch_binding",
+        "birch_head",
+        "dark_oak_handle",
+        "dark_oak_binding",
+        "dark_oak_head",
+        "jungle_handle",
+        "jungle_binding",
+        "jungle_head",
+        "spruce_handle",
+        "spruce_binding",
+        "spruce_head"
+      ],
+      "excludes": [],
+      "durability": "59",
+      "attack_speed": "base + 0.2"
+    },
+    {
+      "includes": [
+        "stone_handle",
+        "stone_binding",
+        "stone_head"
+      ],
+      "excludes": [],
+      "durability": "base + 16",
+      "mining_speed": "base - 1.0",
+      "attack_damage": "base + 0.5",
+      "attack_speed": "base - 0.4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+name = "Glassential (Fabric)"
+filename = "glassential-fabric-1.16.4-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3135/802/glassential-fabric-1.16.4-1.1.5.jar"
+hash-format = "murmur2"
+hash = "2957974285"
+
+[update]
+[update.curseforge]
+file-id = 3135802
+project-id = 320778
+release-channel = "beta"

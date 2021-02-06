@@ -1,0 +1,14 @@
+name = "[FABRIC] Disable Custom Worlds Advice"
+filename = "DisableCustomWorldsAdvice-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3128/808/DisableCustomWorldsAdvice-1.2.jar"
+hash-format = "murmur2"
+hash = "1764956471"
+
+[update]
+[update.curseforge]
+file-id = 3128808
+project-id = 401978
+release-channel = "beta"

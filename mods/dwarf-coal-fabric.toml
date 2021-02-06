@@ -1,0 +1,14 @@
+name = "Dwarf Coal (Fabric)"
+filename = "dwarfcoal-1.16.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3036/690/dwarfcoal-1.16.2-1.0.0.jar"
+hash-format = "murmur2"
+hash = "255985057"
+
+[update]
+[update.curseforge]
+file-id = 3036690
+project-id = 309177
+release-channel = "beta"

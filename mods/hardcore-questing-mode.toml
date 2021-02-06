@@ -1,0 +1,14 @@
+name = "Hardcore Questing Mode [FORGE/FABRIC]"
+filename = "HQM-1.16.2+5.5.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3188/390/HQM-1.16.2+5.5.6-fabric.jar"
+hash-format = "murmur2"
+hash = "1978369220"
+
+[update]
+[update.curseforge]
+file-id = 3188390
+project-id = 77027
+release-channel = "beta"

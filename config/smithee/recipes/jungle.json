@@ -1,0 +1,14 @@
+{
+  "#minecraft:jungle_logs": {
+    "output_material": "jungle",
+    "material_value": 81,
+    "chiseling_level": 0,
+    "overrides": {}
+  },
+  "minecraft:jungle_planks": {
+    "output_material": "jungle",
+    "material_value": 9,
+    "chiseling_level": 0,
+    "overrides": {}
+  }
+}

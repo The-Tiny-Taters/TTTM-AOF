@@ -1,0 +1,20 @@
+{
+  "#c:brass_blocks": {
+    "output_material": "brass",
+    "material_value": 81,
+    "chiseling_level": 1,
+    "overrides": {}
+  },
+  "#c:brass_ingots": {
+    "output_material": "brass",
+    "material_value": 9,
+    "chiseling_level": 1,
+    "overrides": {}
+  },
+  "#c:brass_nuggets": {
+    "output_material": "brass",
+    "material_value": 1,
+    "chiseling_level": 1,
+    "overrides": {}
+  }
+}

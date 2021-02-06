@@ -1,0 +1,14 @@
+name = "Decimal Coins"
+filename = "decimalCoins-fabric-1.16.2-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3046/119/decimalCoins-fabric-1.16.2-1.2.0.jar"
+hash-format = "murmur2"
+hash = "778029513"
+
+[update]
+[update.curseforge]
+file-id = 3046119
+project-id = 394362
+release-channel = "beta"

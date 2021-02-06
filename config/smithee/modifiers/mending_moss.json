@@ -1,0 +1,29 @@
+{
+  "material": "mending_moss",
+  "type": "enchant",
+  "stackable": false,
+  "modifies": [
+    {
+      "gives": "minecraft:mending",
+      "gives_to": [
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "harvest_scythe",
+        "broadsword",
+        "claymore",
+        "cutlass",
+        "battle_scythe",
+        "katana",
+        "battle_staff",
+        "spear",
+        "glaive",
+        "rapier",
+        "sickle",
+        "dagger"
+      ]
+    }
+  ]
+}

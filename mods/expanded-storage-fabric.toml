@@ -1,0 +1,14 @@
+name = "[Fabric] Expanded Storage"
+filename = "expandedstorage-5.6.32+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3175/545/expandedstorage-5.6.32+1.16.5.jar"
+hash-format = "murmur2"
+hash = "2223565156"
+
+[update]
+[update.curseforge]
+file-id = 3175545
+project-id = 317856
+release-channel = "beta"

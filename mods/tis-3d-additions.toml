@@ -1,0 +1,14 @@
+name = "TIS-3D-Additions"
+filename = "TIS-3D-Additions-0.2.1+1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3122/710/TIS-3D-Additions-0.2.1+1.16.2.jar"
+hash-format = "murmur2"
+hash = "737802049"
+
+[update]
+[update.curseforge]
+file-id = 3122710
+project-id = 416105
+release-channel = "beta"

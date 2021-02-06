@@ -1,0 +1,1326 @@
+{
+  "name": "Adventurer",
+  "quests": [
+    {
+      "uuid": "f6ccb0fb-3a18-4515-acac-3e6902f025cf",
+      "name": "Bunny Hoppers",
+      "description": "Find the Bunny Hoppers!",
+      "x": 175,
+      "y": 10,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:bunny_hoppers",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:bunny_hoppers",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8e9e080f-db58-4d46-b088-b7e608c37f22",
+      "name": "Superstitious Hat",
+      "description": "Find the Superstitious Hat!",
+      "x": 158,
+      "y": 165,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:superstitious_hat",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:superstitious_hat",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "45963bea-47fe-42ed-a6c3-d35a539dc76b",
+      "name": "Flame Pendant",
+      "description": "Find the Flame Pendant!",
+      "x": 273,
+      "y": 168,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:flame_pendant",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:flame_pendant",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3e1a61db-76e0-4f5b-9af4-a33078d644eb",
+      "name": "Cloud in a Bottle",
+      "description": "Find the Cloud in a Bottle!",
+      "x": 138,
+      "y": 193,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:cloud_in_a_bottle",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:cloud_in_a_bottle",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b03c9003-a712-4506-ab2d-e7b1cbd34ee1",
+      "name": "Mimic Killer",
+      "description": "Unnamed quest",
+      "x": 155,
+      "y": 100,
+      "bigicon": true,
+      "icon": {
+        "id": "artifacts:mimic_spawn_egg",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Mimic",
+              "icon": {
+                "id": "artifacts:mimic_spawn_egg",
+                "Count": 1
+              },
+              "mob": "artifacts:mimic",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d93dc87d-6439-4942-b1ce-08e84d1f4305",
+      "name": "Power Glove",
+      "description": "Find the Power Glove!",
+      "x": 100,
+      "y": 166,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:power_glove",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:power_glove",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "239eab2d-cc37-4227-b9ca-4b8c7a5e9a73",
+      "name": "Fire Gauntlet",
+      "description": "Find the Fire Gauntlet!",
+      "x": 70,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:fire_gauntlet",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:fire_gauntlet",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9197ce5d-bd33-458e-8ea1-213ef6996638",
+      "name": "Antidote Vessel",
+      "description": "Find the Antidote Vessel!",
+      "x": 217,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:antidote_vessel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:antidote_vessel",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "26b02e90-b45e-4c17-99b7-34956f35a734",
+      "name": "Snorkel",
+      "description": "Find the Snorkel!",
+      "x": 158,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:snorkel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:snorkel",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b2c83da0-9653-4e83-a9c2-cbd7ac6a5bcb",
+      "name": "Pocket Piston",
+      "description": "Find the Pocket Piston!",
+      "x": 298,
+      "y": 85,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:pocket_piston",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:pocket_piston",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b130a0fb-2db8-42c8-8117-693cca362c68",
+      "name": "Lucky Scarf",
+      "description": "Find the Lucky Scarf!",
+      "x": 128,
+      "y": 165,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:lucky_scarf",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:lucky_scarf",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "41a4e8cc-4e43-4976-8551-717cf7c52f67",
+      "name": "Running Shoes",
+      "description": "Find the Running Shoes!",
+      "x": 244,
+      "y": 167,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:running_shoes",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:running_shoes",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1e569def-7e02-45f1-bf8a-f0d4b7ff44be",
+      "name": "Find your fantasy biome",
+      "description": "or just a place to mine stuff",
+      "x": 25,
+      "y": 49,
+      "icon": {
+        "id": "biome_locator:compass",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "biome_locator:compass",
+                "Count": 1,
+                "tag": {}
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tacocraft:carnitas_taco",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cdd7bf6a-b0ff-45c1-b387-422d86b8e288",
+      "name": "Feral Claws",
+      "description": "Find the Feral Claws!",
+      "x": 187,
+      "y": 165,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:feral_claws",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:feral_claws",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2f320e66-9caf-4927-98e8-4acba9e30e47",
+      "name": "Universal Attractor",
+      "description": "Find the Universal Attractor!",
+      "x": 42,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:universal_attractor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:universal_attractor",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "461cad9b-5a92-4898-ae7e-e32ecc24a327",
+      "name": "Digging Claws",
+      "description": "Find the Digging Claws!",
+      "x": 39,
+      "y": 134,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:digging_claws",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:digging_claws",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4635a4f7-6157-4eaf-889b-405bf337222d",
+      "name": "Scarf of Invisibility",
+      "description": "Find the Scarf of Invisibility!",
+      "x": 40,
+      "y": 103,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:scarf_of_invisibility",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:scarf_of_invisibility",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7dd03018-afb2-474e-924a-b15b2568842f",
+      "name": "Novelty Drinking Hat",
+      "description": "Find the Novelty Drinking Hat!",
+      "x": 128,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:novelty_drinking_hat",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:novelty_drinking_hat",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "adcf6ddf-15db-4620-96b3-b1bffe01a841",
+      "name": "Panic Necklace",
+      "description": "Find the Panic Necklace!",
+      "x": 215,
+      "y": 166,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:panic_necklace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:panic_necklace",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b68bf1be-e5e2-493f-a150-bf0c1d844358",
+      "name": "Umbrella",
+      "description": "Find the Umbrella!",
+      "x": 179,
+      "y": 194,
+      "icon": {
+        "id": "artifacts:umbrella",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "artifacts:umbrella",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ab02b4d6-9edd-448c-92da-3505cb69e1db",
+      "name": "Kitty Slippers",
+      "description": "Find the Kitty Slippers!",
+      "x": 142,
+      "y": 11,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:kitty_slippers",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:kitty_slippers",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "209e527f-120d-4c95-be30-0037faf29e27",
+      "name": "Villager Hat",
+      "description": "Find the Villager Hat!",
+      "x": 273,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:villager_hat",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:villager_hat",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "547ca96c-a02d-45d7-8e3a-5e67d27e8ea5",
+      "name": "Shock Pendant",
+      "description": "Find the Shock Pendant!",
+      "x": 273,
+      "y": 68,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:shock_pendant",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:shock_pendant",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9f1f3e0b-1a0e-4410-b319-770f0aaf7edf",
+      "name": "Whoopee Cushion",
+      "description": "Find the Whoopee Cushion!",
+      "x": 273,
+      "y": 136,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:whoopee_cushion",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:whoopee_cushion",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8cbcd268-0b85-44b7-9675-0fc88d9783a2",
+      "name": "Plastic Drinking Hat",
+      "description": "Find the Plastic Drinking Hat!",
+      "x": 40,
+      "y": 167,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:plastic_drinking_hat",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:plastic_drinking_hat",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "25c75c2a-d68b-40b7-8763-42fc80789f58",
+      "name": "Cross Necklace",
+      "description": "Find the Cross Necklace",
+      "x": 70,
+      "y": 166,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:cross_necklace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:cross_necklace",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "befddd31-54dc-423b-9de1-886ac6026452",
+      "name": "Thorn Pendant",
+      "description": "Find the Thorn Pendant!",
+      "x": 273,
+      "y": 103,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:thorn_pendant",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:thorn_pendant",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7266f763-0bcd-453f-82aa-bd48d82ee908",
+      "name": "Crystal Heart",
+      "description": "Find the Crystal Heart",
+      "x": 99,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:crystal_heart",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:crystal_heart",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4a0c60d0-55f0-44de-beb4-7cf56f103ddb",
+      "name": "Night Vision Goggles",
+      "description": "Find the Night Vision Goggles!",
+      "x": 188,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:night_vision_goggles",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:night_vision_goggles",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b2f3dc66-ce70-48ce-b7d7-d6213781dda4",
+      "name": "Flippers",
+      "description": "Find the Flippers!",
+      "x": 40,
+      "y": 68,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:flippers",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:flippers",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d549c059-ec2f-47f0-b15f-d723ffbe4230",
+      "name": "Obsidian Skull",
+      "description": "Find the Obsidian Skull!",
+      "x": 15,
+      "y": 84,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:obsidian_skull",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:obsidian_skull",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "090d3070-27bf-4c45-a9fa-34a23d0f50ae",
+      "name": "Steadfast Spikes",
+      "description": "Find the Steadfast Spikes!",
+      "x": 245,
+      "y": 31,
+      "icon": {
+        "cardinal_components": {
+          "artifacts:trinket_enabled": {
+            "isEnabled": 1
+          }
+        },
+        "id": "artifacts:steadfast_spikes",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "cardinal_components": {
+                  "artifacts:trinket_enabled": {
+                    "isEnabled": 1
+                  }
+                },
+                "id": "artifacts:steadfast_spikes",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b03c9003-a712-4506-ab2d-e7b1cbd34ee1"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Will you gather them all?"
+}

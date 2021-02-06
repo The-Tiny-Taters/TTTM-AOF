@@ -1,0 +1,14 @@
+name = "CleanCut"
+filename = "cleancut-mc1.16-2.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2994/761/cleancut-mc1.16-2.1-fabric.jar"
+hash-format = "murmur2"
+hash = "4224037828"
+
+[update]
+[update.curseforge]
+file-id = 2994761
+project-id = 392805
+release-channel = "beta"

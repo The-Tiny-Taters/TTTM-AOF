@@ -1,0 +1,14 @@
+name = "Nourish"
+filename = "nourish-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3181/134/nourish-1.2.1.jar"
+hash-format = "murmur2"
+hash = "3405073326"
+
+[update]
+[update.curseforge]
+file-id = 3181134
+project-id = 389718
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Winged"
+filename = "winged-1.16.2-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3098/872/winged-1.16.2-1.4.1.jar"
+hash-format = "murmur2"
+hash = "1261946488"
+
+[update]
+[update.curseforge]
+file-id = 3098872
+project-id = 381349
+release-channel = "beta"

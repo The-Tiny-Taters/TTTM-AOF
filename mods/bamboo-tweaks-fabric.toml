@@ -1,0 +1,14 @@
+name = "Bamboo Tweaks: Fabric"
+filename = "bambootweaks-2.0.0+1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2989/935/bambootweaks-2.0.0+1.16.1.jar"
+hash-format = "murmur2"
+hash = "3861947313"
+
+[update]
+[update.curseforge]
+file-id = 2989935
+project-id = 333141
+release-channel = "beta"

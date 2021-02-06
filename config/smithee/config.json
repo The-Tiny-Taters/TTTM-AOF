@@ -1,0 +1,26 @@
+{
+  "disable_vanilla_tools": false,
+
+  "regenerate_deleted_stat_files": true,
+  "replace_old_stat_files_when_regenerating": false,
+  "regenerate_deleted_recipe_files": true,
+  "replace_old_recipe_files_when_regenerating": false,
+  "regenerate_deleted_smithing_files": true,
+  "replace_old_smithing_files_when_regenerating": false,
+  "regenerate_deleted_combination_files": true,
+  "replace_old_combination_files_when_regenerating": false,
+  "regenerate_deleted_palettes": true,
+  "replace_old_palettes_when_regenerating": false,
+  "regenerate_deleted_texture_files": true,
+  "replace_old_texture_files_when_regenerating": false,
+  "regenerate_deleted_modifier_files": true,
+  "replace_old_modifier_files_when_regenerating": false,
+  "regenerate_deleted_chisel_files": true,
+  "replace_old_chisel_files_when_regenerating": false,
+  "regenerate_deleted_shard_files": true,
+  "replace_old_shard_files_when_regenerating": false,
+  "regenerate_deleted_model_files": true,
+  "replace_old_model_files_when_regenerating": false,
+  "regenerate_material_list": true,
+  "replace_material_list_when_regenerating": false
+}

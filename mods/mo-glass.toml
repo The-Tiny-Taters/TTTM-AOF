@@ -1,0 +1,14 @@
+name = "Mo Glass"
+filename = "Mo-Glass-1.5-MC1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3171/780/Mo-Glass-1.5-MC1.16.5.jar"
+hash-format = "murmur2"
+hash = "1802182554"
+
+[update]
+[update.curseforge]
+file-id = 3171780
+project-id = 353426
+release-channel = "beta"

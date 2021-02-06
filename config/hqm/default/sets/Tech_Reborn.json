@@ -1,0 +1,1366 @@
+{
+  "name": "Tech Reborn",
+  "quests": [
+    {
+      "uuid": "b3a14706-2e3c-4542-9851-c507fff84876",
+      "name": "Make it metal AF",
+      "description": "mix metals.. make it more metal",
+      "x": 115,
+      "y": 179,
+      "icon": {
+        "id": "techreborn:alloy_smelter",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:alloy_smelter",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b90e03ec-61db-40b1-bffd-e73f52c1270f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:bronze_storage_block",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a1680996-a7c0-41bb-b96c-3903071111ba",
+      "name": "Hot and bothered",
+      "description": "better solar, more power",
+      "x": 243,
+      "y": 103,
+      "icon": {
+        "id": "techreborn:industrial_solar_panel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:industrial_solar_panel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "67a1ba90-28d4-4659-b07a-16ff8260a81d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:peanut_butter_and_jam",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "45aee781-6eaa-4f39-965b-ff65f1f313f3",
+      "name": "Plasma.. or just really really really hot stuff",
+      "description": "it\u0027s hot, it\u0027s a different state of matter.. and it makes a ton of energy",
+      "x": 242,
+      "y": 59,
+      "icon": {
+        "id": "techreborn:plasma_generator",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:plasma_generator",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4ea70b59-083b-4597-8696-42df0db98b1b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:heliumplasma_bucket",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "67a1ba90-28d4-4659-b07a-16ff8260a81d",
+      "name": "Aurora\u0027s day off",
+      "description": "get more power.. you know, cuz it\u0027s an upgrade",
+      "x": 214,
+      "y": 103,
+      "icon": {
+        "id": "techreborn:advanced_solar_panel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:advanced_solar_panel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6774cbc0-fad3-4caa-99a5-db13179e12f9"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:carbon_mesh",
+          "Count": 3
+        },
+        {
+          "id": "tacocraft:steak_taco",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b90e03ec-61db-40b1-bffd-e73f52c1270f",
+      "name": "Compress the rest",
+      "description": "use this to create plates fer yer mates aaaaye.",
+      "x": 115,
+      "y": 146,
+      "icon": {
+        "id": "techreborn:compressor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:compressor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "262e197c-05bd-4585-af08-340480d4351e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:electronic_circuit",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "92788318-498d-471a-94dd-3f80a460c9cf",
+      "name": "Building blocks",
+      "description": "use this to make some multi-blocks in tech reborn",
+      "x": 177,
+      "y": 14,
+      "bigicon": true,
+      "icon": {
+        "id": "techreborn:basic_machine_casing",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:basic_machine_casing",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:supreme_pizza",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0d3152e2-4540-4373-8ade-0fad05e071fb",
+      "name": "Barrista to the ores",
+      "description": "just don\u0027t drink it",
+      "x": 80,
+      "y": 124,
+      "icon": {
+        "id": "techreborn:industrial_grinder",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:industrial_grinder",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e4dd9a44-d8fd-4a03-a073-62b61d6421a6"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:cell",
+          "Count": 16,
+          "tag": {
+            "fluid": "techreborn:mercury"
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "52f6e706-e45b-44eb-853e-8113f81de2f8",
+      "name": "Fabricated reality",
+      "description": "is this the real world, or is this fantasy?",
+      "x": 287,
+      "y": 62,
+      "icon": {
+        "id": "techreborn:matter_fabricator",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:matter_fabricator",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d1594f32-1a28-4077-9d47-c349fb94311c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:tofuburger",
+          "Count": 16
+        },
+        {
+          "id": "tacocraft:golden_taco",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "dc623187-de44-488b-ac0a-bc9c6fda0d6f",
+      "name": "Wear a rubber",
+      "description": "rubber is a main staple in TR",
+      "x": 57,
+      "y": 17,
+      "icon": {
+        "id": "techreborn:rubber",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:rubber",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95f7a31d-1471-410d-99c7-f783df48b228"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:limeade",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8bf4267e-5992-47a1-a7a3-38b95eb5d39a",
+      "name": "The big league solar",
+      "description": "if you got this far, I don\u0027t need to explain it",
+      "x": 300,
+      "y": 103,
+      "icon": {
+        "id": "techreborn:quantum_solar_panel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:quantum_solar_panel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "be21e4f0-dbd5-4a0f-8c26-a38c76926304"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:pineapple_pepperoni_pizza",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1481bbc3-37a8-4042-8322-daca33a9f9ba",
+      "name": "I feel bad for you",
+      "description": "the quest you are about to embark on is a long quest of much grind",
+      "x": 177,
+      "y": 56,
+      "bigicon": true,
+      "icon": {
+        "id": "techreborn:fusion_coil",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:fusion_coil",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:irish_hat",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "762b4741-3412-40fc-b04a-4c57898985c4",
+      "name": "Sabers fer yer matey\u0027s",
+      "description": "Unnamed quest",
+      "x": 240,
+      "y": 135,
+      "bigicon": true,
+      "icon": {
+        "id": "techreborn:nanosaber",
+        "Count": 1,
+        "tag": {
+          "isActive": 1,
+          "energy": 1000000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:nanosaber",
+                "Count": 1,
+                "tag": {
+                  "isActive": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:topest_hat",
+          "Count": 1
+        },
+        {
+          "id": "tacocraft:carnitas_taco",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "141bc0af-5c07-40a9-b03a-f5dbf1e4300a",
+      "name": "Drill baby Drill",
+      "description": "use this as a pickaxe to quickly mine area\u0027s",
+      "x": 24,
+      "y": 55,
+      "icon": {
+        "id": "techreborn:basic_drill",
+        "Count": 1,
+        "tag": {
+          "energy": 10000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:basic_drill",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95f7a31d-1471-410d-99c7-f783df48b228"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:iron_ore",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2ee44268-599f-4a98-9cd1-1071e861665c",
+      "name": "Tree tap to tremendious times",
+      "description": "use this electric tree tap to quickly gather sap",
+      "x": 24,
+      "y": 153,
+      "icon": {
+        "id": "techreborn:electric_treetap",
+        "Count": 1,
+        "tag": {
+          "energy": 10000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:electric_treetap",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0ff1870d-a0ee-47b2-b067-aaee45a8a7f4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:rubber_sapling",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "500a0cd3-5589-43b2-90a3-c8d5da4fe7c2",
+      "name": "Spin me right round",
+      "description": "like a material, baby",
+      "x": 77,
+      "y": 52,
+      "bigicon": true,
+      "icon": {
+        "id": "techreborn:industrial_centrifuge",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:industrial_centrifuge",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:cell",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "506a53d5-495f-4c24-9835-3ce154af8a24",
+      "name": "Quantum legs",
+      "description": "these legs will cross time and space for you",
+      "x": 296,
+      "y": 151,
+      "icon": {
+        "id": "techreborn:quantum_leggings",
+        "Count": 1,
+        "tag": {
+          "energy": 40000000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:quantum_leggings",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "762b4741-3412-40fc-b04a-4c57898985c4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:supreme_pizza",
+          "Count": 16
+        },
+        {
+          "id": "minecraft:diamond",
+          "Count": 32
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6774cbc0-fad3-4caa-99a5-db13179e12f9",
+      "name": "Aurora commands you",
+      "description": "start your world off with this passive energy",
+      "x": 178,
+      "y": 100,
+      "bigicon": true,
+      "icon": {
+        "id": "techreborn:basic_solar_panel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:basic_solar_panel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:lead_ingot",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "16867815-cb36-4825-b12d-687aab3e66f5",
+      "name": "Quantum chest",
+      "description": "best chest is best",
+      "x": 211,
+      "y": 174,
+      "icon": {
+        "id": "techreborn:quantum_chestplate",
+        "Count": 1,
+        "tag": {
+          "energy": 40000000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:quantum_chestplate",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "762b4741-3412-40fc-b04a-4c57898985c4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:adjustable_su",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "da4cf169-baa2-4a74-bba3-09fa9f032234",
+      "name": "Rebirth of the generator",
+      "description": "tech reborn generator v1",
+      "x": 115,
+      "y": 17,
+      "icon": {
+        "id": "techreborn:solid_fuel_generator",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:solid_fuel_generator",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9c5114a5-4aa6-4d6c-9c3c-5e5916c00eb6"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:coal",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "490cb0c9-9a99-40cc-b66e-adfb5407491f",
+      "name": "Top tier blocks",
+      "description": "use these blocks to make the best of the best multiblock ",
+      "x": 242,
+      "y": 17,
+      "icon": {
+        "id": "techreborn:industrial_machine_casing",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:advanced_machine_casing",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "92fbabed-c8c5-47e7-8725-c7402176368a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:pineapple_pepperoni_pizza",
+          "Count": 3
+        },
+        {
+          "id": "givemehats:bunny_space_helmet",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "41f33d63-81a7-41ff-b24e-3b47be19e987",
+      "name": "Quantum leap",
+      "description": "a helmet for the ages",
+      "x": 193,
+      "y": 151,
+      "icon": {
+        "id": "techreborn:quantum_helmet",
+        "Count": 1,
+        "tag": {
+          "energy": 40000000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:quantum_helmet",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "762b4741-3412-40fc-b04a-4c57898985c4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:superconductor_cable",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e4dd9a44-d8fd-4a03-a073-62b61d6421a6",
+      "name": "Use angry pixies to do stuff",
+      "description": "electrolyze to make more stuff",
+      "x": 80,
+      "y": 93,
+      "icon": {
+        "id": "techreborn:industrial_electrolyzer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:industrial_electrolyzer",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "500a0cd3-5589-43b2-90a3-c8d5da4fe7c2"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:beer",
+          "Count": 12
+        },
+        {
+          "id": "techreborn:cell",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5e0ba6bc-1118-492a-9473-c20b5de8edb9",
+      "name": "Blast that ore",
+      "description": "use this to make more advanced alloys and metals",
+      "x": 80,
+      "y": 158,
+      "icon": {
+        "id": "techreborn:industrial_blast_furnace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:industrial_blast_furnace",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0d3152e2-4540-4373-8ade-0fad05e071fb"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:basic_machine_casing",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "262e197c-05bd-4585-af08-340480d4351e",
+      "name": "Extract to save",
+      "description": "use this to get more rubber out of your sap as well as various other items",
+      "x": 115,
+      "y": 113,
+      "icon": {
+        "id": "techreborn:extractor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:extractor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "f579323a-7696-4c05-a6e7-d6f218e316dd"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:tungsten_ingot",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9c5114a5-4aa6-4d6c-9c3c-5e5916c00eb6",
+      "name": "Connect it up",
+      "description": "use these to connect and to create items in TR",
+      "x": 86,
+      "y": 17,
+      "icon": {
+        "id": "techreborn:insulated_copper_cable",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:insulated_copper_cable",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "dc623187-de44-488b-ac0a-bc9c6fda0d6f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:copper_cable",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "92fbabed-c8c5-47e7-8725-c7402176368a",
+      "name": "Advanced building blocks",
+      "description": "now mommy lets me play with the big boy blocks",
+      "x": 213,
+      "y": 17,
+      "icon": {
+        "id": "techreborn:advanced_machine_casing",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:advanced_machine_casing",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "92788318-498d-471a-94dd-3f80a460c9cf"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:basic_machine_frame",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "95f7a31d-1471-410d-99c7-f783df48b228",
+      "name": "Tap that tree",
+      "description": "use this to tap that tree baby",
+      "x": 21,
+      "y": 14,
+      "bigicon": true,
+      "icon": {
+        "id": "techreborn:treetap",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:treetap",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:sap",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d1594f32-1a28-4077-9d47-c349fb94311c",
+      "name": "I couldn\u0027t think of a new one, so I used the same one.",
+      "description": "which basically explains recycling.",
+      "x": 283,
+      "y": 21,
+      "bigicon": true,
+      "icon": {
+        "id": "techreborn:recycler",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:recycler",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:scrap",
+          "Count": 64
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0ff1870d-a0ee-47b2-b067-aaee45a8a7f4",
+      "name": "Get jacked",
+      "description": "use this to plow through stone quickly",
+      "x": 24,
+      "y": 120,
+      "icon": {
+        "id": "techreborn:basic_jackhammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0,
+          "energy": 10000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:basic_jackhammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "428b2a39-9483-4da8-8b31-c6ef684a1930"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:saguaro_juice",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "04ccd675-d6a6-47cd-af7f-76b5d23ba7d5",
+      "name": "Quantum feet",
+      "description": "protect your feet",
+      "x": 280,
+      "y": 174,
+      "icon": {
+        "id": "techreborn:quantum_boots",
+        "Count": 1,
+        "tag": {
+          "energy": 40000000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:quantum_boots",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "762b4741-3412-40fc-b04a-4c57898985c4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:tofuburger",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "be21e4f0-dbd5-4a0f-8c26-a38c76926304",
+      "name": "Aurora\u0027s badass",
+      "description": "this is the solar panel you really want",
+      "x": 272,
+      "y": 103,
+      "icon": {
+        "id": "techreborn:ultimate_solar_panel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:ultimate_solar_panel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "a1680996-a7c0-41bb-b96c-3903071111ba"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:reinforced_glass",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a6999c66-91fe-4940-9c5a-ca1209fa494b",
+      "name": "it\u0027s electric",
+      "description": "electric furnace for a shocking time",
+      "x": 115,
+      "y": 48,
+      "icon": {
+        "id": "techreborn:electric_furnace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:electric_furnace",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "da4cf169-baa2-4a74-bba3-09fa9f032234"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:tin_ore",
+          "Count": 12
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4ea70b59-083b-4597-8696-42df0db98b1b",
+      "name": "Become the controller of the fusions",
+      "description": "use this to start your fusion generator adventure",
+      "x": 213,
+      "y": 59,
+      "icon": {
+        "id": "techreborn:fusion_control_computer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:fusion_control_computer",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "1481bbc3-37a8-4042-8322-daca33a9f9ba"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "givemehats:tater_hat",
+          "Count": 1
+        },
+        {
+          "id": "techreborn:energy_crystal",
+          "Count": 1,
+          "tag": {
+            "energy": 0
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f579323a-7696-4c05-a6e7-d6f218e316dd",
+      "name": "That daily grind",
+      "description": "use this machine to turn your ores into dust",
+      "x": 115,
+      "y": 80,
+      "icon": {
+        "id": "techreborn:grinder",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:grinder",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "a6999c66-91fe-4940-9c5a-ca1209fa494b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:gold_ore",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "428b2a39-9483-4da8-8b31-c6ef684a1930",
+      "name": "Rip n\u0027 Tear till it\u0027s done",
+      "description": "use this to quickly bring down your tree enemies",
+      "x": 24,
+      "y": 87,
+      "icon": {
+        "id": "techreborn:basic_chainsaw",
+        "Count": 1,
+        "tag": {
+          "energy": 10000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:basic_chainsaw",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "141bc0af-5c07-40a9-b03a-f5dbf1e4300a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:oak_log",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod."
+}

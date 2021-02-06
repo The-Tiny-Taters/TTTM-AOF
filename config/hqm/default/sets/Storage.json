@@ -1,0 +1,1846 @@
+{
+  "name": "Storage",
+  "quests": [
+    {
+      "uuid": "bc8e344f-07f9-42c5-be93-154ff77027d1",
+      "name": "Pack it up!",
+      "description": "Craft a Package Crafter",
+      "x": 178,
+      "y": 56,
+      "icon": {
+        "id": "packages:package_maker",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "packages:package_maker",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "41f73bda-c3f8-458e-9ab0-f82bf062a42d"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "55492320-3da4-4acb-9b65-b9788e193a4a",
+      "name": "Barrel It Up V",
+      "description": "Craft a Netherite Barrel",
+      "x": 111,
+      "y": 88,
+      "icon": {
+        "id": "expandedstorage:netherite_barrel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:netherite_barrel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "47d0d73e-a463-4a70-8c9e-0579610d9d40"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:netherite_scrap",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "532b47e4-362c-4812-af48-9880e1ed225d",
+      "name": "Storage Upgrade I",
+      "description": "Craft a Wood to Iron Upgrade",
+      "x": 55,
+      "y": 17,
+      "icon": {
+        "id": "expandedstorage:wood_to_iron_conversion_kit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:wood_to_iron_conversion_kit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3e620e92-f46d-4c47-b2ac-23816c252926"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "expandedstorage:wood_to_iron_conversion_kit",
+          "Count": 1
+        },
+        {
+          "id": "minecraft:iron_ingot",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "74cf3ca0-d1c6-4dec-ae16-b4014137b8ac",
+      "name": "Backpack III",
+      "description": "Craft a Gilded Backpack",
+      "x": 55,
+      "y": 177,
+      "icon": {
+        "id": "inmis:gilded_backpack",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "inmis:gilded_backpack",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9b3ae3ff-f1ca-4ba9-82f9-081a6057338e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "campanion:tanned_leather",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d8ff0b93-aad0-4911-a4c2-7aa6291afc1a",
+      "name": "Danky MK6",
+      "description": "Craft a Dank 6",
+      "x": 297,
+      "y": 49,
+      "icon": {
+        "id": "dankstorage:dank_6",
+        "Count": 1,
+        "tag": {
+          "inv": {}
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_6",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4de2278a-159a-474e-b811-33c443bc7eee"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "gofish:obsidian_halibut",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "95e63a36-1013-4ada-b339-6e3e1cb1cfe5",
+      "name": "Backpack V",
+      "description": "Craft a Blazing Backpack",
+      "x": 112,
+      "y": 185,
+      "icon": {
+        "id": "inmis:blazing_backpack",
+        "Count": 1,
+        "tag": {
+          "Inventory": [
+            {
+              "Slot": 0,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 1,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 2,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 3,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 4,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 5,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 6,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 7,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 8,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 9,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 10,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 11,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 12,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 13,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 14,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 15,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 16,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 17,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 18,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 19,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 20,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 21,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 22,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 23,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 24,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 25,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 26,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 27,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 28,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 29,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 30,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 31,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 32,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 33,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 34,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 35,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 36,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 37,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 38,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 39,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 40,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 41,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 42,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 43,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 44,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 45,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 46,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 47,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 48,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 49,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 50,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 51,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 52,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 53,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "inmis:blazing_backpack",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9736ee60-4a33-494f-b511-f246ef949d05"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:diamond",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3d2b240a-c966-47d8-9075-7111ab10c2a1",
+      "name": "Danky MK3",
+      "description": "Craft a Dank 3",
+      "x": 240,
+      "y": 18,
+      "icon": {
+        "id": "dankstorage:dank_3",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_3",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "503b0027-369c-4621-aeef-790572969070"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:yellow_dye",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a107955e-6286-41cb-8e04-9184f53750ee",
+      "name": "Backpack VI",
+      "description": "Craft a Withered Backpack",
+      "x": 135,
+      "y": 161,
+      "icon": {
+        "id": "inmis:withered_backpack",
+        "Count": 1,
+        "tag": {
+          "Inventory": [
+            {
+              "Slot": 0,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 1,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 2,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 3,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 4,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 5,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 6,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 7,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 8,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 9,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 10,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 11,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 12,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 13,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 14,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 15,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 16,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 17,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 18,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 19,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 20,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 21,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 22,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 23,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 24,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 25,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 26,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 27,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 28,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 29,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 30,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 31,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 32,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 33,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 34,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 35,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 36,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 37,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 38,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 39,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 40,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 41,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 42,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 43,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 44,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 45,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 46,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 47,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 48,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 49,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 50,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 51,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 52,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 53,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 54,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 55,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 56,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 57,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 58,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 59,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 60,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 61,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 62,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 63,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 64,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            },
+            {
+              "Slot": 65,
+              "Stack": {
+                "id": "minecraft:air",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "inmis:withered_backpack",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95e63a36-1013-4ada-b339-6e3e1cb1cfe5"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:soul_torch",
+          "Count": 6
+        },
+        {
+          "id": "gofish:soul_salmon",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "41f73bda-c3f8-458e-9ab0-f82bf062a42d",
+      "name": "Danky MK1",
+      "description": "Craft your first Dank. You\u0027ll also need a Dock.",
+      "x": 175,
+      "y": 15,
+      "bigicon": true,
+      "icon": {
+        "id": "dankstorage:dank_1",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_1",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "dankstorage:dock",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:oak_log",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0b6292d8-d7e6-4129-b32b-ecbb61d1cea4",
+      "name": "Storage Upgrade III",
+      "description": "Craft a Gold to Diamond Upgrade",
+      "x": 111,
+      "y": 17,
+      "icon": {
+        "id": "expandedstorage:gold_to_diamond_conversion_kit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:gold_to_diamond_conversion_kit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "a534a657-80cc-420d-967a-8d96f08c29e8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:bread",
+          "Count": 4
+        },
+        {
+          "id": "minecraft:gold_ore",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "14cc046f-42d9-4cb2-a206-08e9283c17ce",
+      "name": "Barrel It Up I",
+      "description": "Craft a Iron Barrel",
+      "x": 19,
+      "y": 55,
+      "bigicon": true,
+      "icon": {
+        "id": "expandedstorage:iron_barrel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:iron_barrel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3e620e92-f46d-4c47-b2ac-23816c252926"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "expandedstorage:iron_barrel",
+          "Count": 1
+        },
+        {
+          "id": "croptopia:asparagus_seed",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "47d0d73e-a463-4a70-8c9e-0579610d9d40",
+      "name": "Barrel It Up IV",
+      "description": "Craft a Obsidian Barrel",
+      "x": 111,
+      "y": 58,
+      "icon": {
+        "id": "expandedstorage:obsidian_barrel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:obsidian_barrel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c462b9a-c8b6-496a-bc79-85605495053a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:obsidian",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9b3ae3ff-f1ca-4ba9-82f9-081a6057338e",
+      "name": "Backpack II",
+      "description": "Craft a Plated Backpack",
+      "x": 37,
+      "y": 153,
+      "icon": {
+        "id": "inmis:plated_backpack",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "inmis:plated_backpack",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "67ed31db-9b06-42aa-b304-b06d2d30385d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:cranberry_seed",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "67ed31db-9b06-42aa-b304-b06d2d30385d",
+      "name": "Backpack I",
+      "description": "Craft your first backpack",
+      "x": 20,
+      "y": 118,
+      "bigicon": true,
+      "icon": {
+        "id": "inmis:frayed_backpack",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "inmis:frayed_backpack",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:leather",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "50877852-5792-4152-b933-bb1498ded6cf",
+      "name": "Storage Upgrade V",
+      "description": "Craft a Obsidian to Netherite Upgrade",
+      "x": 139,
+      "y": 48,
+      "icon": {
+        "id": "expandedstorage:obsidian_to_netherite_conversion_kit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:obsidian_to_netherite_conversion_kit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8179e4e0-cab6-4f39-9765-afa4143fc095"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:golden_apple",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ecbcb318-ab8c-482a-b69c-2f47d1eafdd6",
+      "name": "Danky MK4",
+      "description": "Craft a Dank 4",
+      "x": 268,
+      "y": 18,
+      "icon": {
+        "id": "dankstorage:dank_4",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_4",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3d2b240a-c966-47d8-9075-7111ab10c2a1"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:white_wool",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c9a7e653-e383-4057-9926-015f97f601c7",
+      "name": "Danky MK7",
+      "description": "Craft the ultimate Dank 7!",
+      "x": 297,
+      "y": 80,
+      "icon": {
+        "id": "dankstorage:dank_7",
+        "Count": 1,
+        "tag": {
+          "inv": {}
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_7",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d8ff0b93-aad0-4911-a4c2-7aa6291afc1a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:nether_star",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a534a657-80cc-420d-967a-8d96f08c29e8",
+      "name": "Storage Upgrade II",
+      "description": "Craft a Iron to Gold Upgrade",
+      "x": 83,
+      "y": 17,
+      "icon": {
+        "id": "expandedstorage:iron_to_gold_conversion_kit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:iron_to_gold_conversion_kit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "532b47e4-362c-4812-af48-9880e1ed225d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:oak_log",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8ad5f911-3593-4bd8-ad44-ecd57475c280",
+      "name": "Backpack VII",
+      "description": "Craft a Endless Backpack",
+      "x": 139,
+      "y": 129,
+      "icon": {
+        "id": "inmis:endless_backpack",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "inmis:endless_backpack",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "a107955e-6286-41cb-8e04-9184f53750ee"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ender_pearl",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e5f06600-955d-4a41-961a-d7fe6df9fd9d",
+      "name": "Barrel It Up II",
+      "description": "Craft a Gold Barrel",
+      "x": 55,
+      "y": 58,
+      "icon": {
+        "id": "expandedstorage:gold_barrel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:gold_barrel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "14cc046f-42d9-4cb2-a206-08e9283c17ce"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:oak_log",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9736ee60-4a33-494f-b511-f246ef949d05",
+      "name": "Backpack IV",
+      "description": "Craft a Bewjewled Backpack",
+      "x": 83,
+      "y": 188,
+      "icon": {
+        "id": "inmis:bejeweled_backpack",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "inmis:bejeweled_backpack",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "74cf3ca0-d1c6-4dec-ae16-b4014137b8ac"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:coal",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "503b0027-369c-4621-aeef-790572969070",
+      "name": "Danky MK2",
+      "description": "Craft a Dank 2",
+      "x": 211,
+      "y": 18,
+      "icon": {
+        "id": "dankstorage:dank_2",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_2",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "41f73bda-c3f8-458e-9ab0-f82bf062a42d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:redstone",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3e620e92-f46d-4c47-b2ac-23816c252926",
+      "name": "Great chest ahead!",
+      "description": "Craft any chest.",
+      "x": 19,
+      "y": 14,
+      "bigicon": true,
+      "icon": {
+        "id": "charm:oak_chest",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "charm:oak_chest",
+                "Count": 1
+              },
+              "precision": "TAG_FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "charm:oak_chest",
+          "Count": 2
+        },
+        {
+          "id": "minecraft:torch",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3c462b9a-c8b6-496a-bc79-85605495053a",
+      "name": "Barrel It Up III",
+      "description": "Craft a Diamond Barrel",
+      "x": 83,
+      "y": 58,
+      "icon": {
+        "id": "expandedstorage:diamond_barrel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:diamond_barrel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e5f06600-955d-4a41-961a-d7fe6df9fd9d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:zucchini_seed",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4de2278a-159a-474e-b811-33c443bc7eee",
+      "name": "Danky MK5",
+      "description": "Craft a Dank 5",
+      "x": 297,
+      "y": 18,
+      "icon": {
+        "id": "dankstorage:dank_5",
+        "Count": 1,
+        "tag": {
+          "inv": {}
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_5",
+                "Count": 1,
+                "tag": {
+                  "inv": {}
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ecbcb318-ab8c-482a-b69c-2f47d1eafdd6"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:diamond",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8179e4e0-cab6-4f39-9765-afa4143fc095",
+      "name": "Storage Upgrade IV",
+      "description": "Craft a Diamond to Obsidian Upgrade",
+      "x": 139,
+      "y": 17,
+      "icon": {
+        "id": "expandedstorage:diamond_to_obsidian_conversion_kit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "expandedstorage:diamond_to_obsidian_conversion_kit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0b6292d8-d7e6-4129-b32b-ecbb61d1cea4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:diamond",
+          "Count": 2
+        },
+        {
+          "id": "expandedstorage:iron_chest",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Chapter on different ways of storage through out the modpack."
+}

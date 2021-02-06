@@ -1,0 +1,14 @@
+name = "KubeJS Fabric"
+filename = "kubejs-1605.3.6-build.160-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3189/114/kubejs-1605.3.6-build.160-fabric.jar"
+hash-format = "murmur2"
+hash = "3434317176"
+
+[update]
+[update.curseforge]
+file-id = 3189114
+project-id = 395864
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Terrestria"
+filename = "terrestria-2.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3189/43/terrestria-2.1.7.jar"
+hash-format = "murmur2"
+hash = "2236219755"
+
+[update]
+[update.curseforge]
+file-id = 3189043
+project-id = 323974
+release-channel = "beta"

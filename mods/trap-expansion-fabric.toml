@@ -1,0 +1,14 @@
+name = "Trap Expansion  (Fabric)"
+filename = "trapexpansion-1.16.2-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3029/797/trapexpansion-1.16.2-1.3.3.jar"
+hash-format = "murmur2"
+hash = "3561087638"
+
+[update]
+[update.curseforge]
+file-id = 3029797
+project-id = 334018
+release-channel = "beta"

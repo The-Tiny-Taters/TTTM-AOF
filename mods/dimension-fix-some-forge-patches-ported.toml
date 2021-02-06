@@ -1,0 +1,14 @@
+name = "Dimension Fix (Some Forge Patches Ported)"
+filename = "someforgepatchesported-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3173/720/someforgepatchesported-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1510528966"
+
+[update]
+[update.curseforge]
+file-id = 3173720
+project-id = 437779
+release-channel = "beta"

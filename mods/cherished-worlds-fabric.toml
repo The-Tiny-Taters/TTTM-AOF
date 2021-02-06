@@ -1,0 +1,14 @@
+name = "Cherished Worlds (Fabric)"
+filename = "cherishedworlds-fabric-1.3.0-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3113/127/cherishedworlds-fabric-1.3.0-1.16.4.jar"
+hash-format = "murmur2"
+hash = "3515662021"
+
+[update]
+[update.curseforge]
+file-id = 3113127
+project-id = 398502
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Cloth Config API (Fabric)"
+filename = "config-2-4.8.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3102/741/config-2-4.8.3.jar"
+hash-format = "murmur2"
+hash = "3574398419"
+
+[update]
+[update.curseforge]
+file-id = 3102741
+project-id = 319057
+release-channel = "beta"

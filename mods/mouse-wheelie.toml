@@ -1,0 +1,14 @@
+name = "Mouse Wheelie (Fabric)"
+filename = "mousewheelie-1.6.3+mc1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3174/695/mousewheelie-1.6.3+mc1.16.4.jar"
+hash-format = "murmur2"
+hash = "2969279430"
+
+[update]
+[update.curseforge]
+file-id = 3174695
+project-id = 317514
+release-channel = "beta"

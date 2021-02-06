@@ -1,0 +1,14 @@
+name = "TacoCraft"
+filename = "tacocraft-1.4.0+mc.1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3034/584/tacocraft-1.4.0+mc.1.16.2.jar"
+hash-format = "murmur2"
+hash = "22667489"
+
+[update]
+[update.curseforge]
+file-id = 3034584
+project-id = 373093
+release-channel = "beta"

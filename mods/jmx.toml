@@ -1,0 +1,14 @@
+name = "JMX"
+filename = "jmx-mc116-1.21.182.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3157/970/jmx-mc116-1.21.182.jar"
+hash-format = "murmur2"
+hash = "1931297584"
+
+[update]
+[update.curseforge]
+file-id = 3157970
+project-id = 324066
+release-channel = "beta"

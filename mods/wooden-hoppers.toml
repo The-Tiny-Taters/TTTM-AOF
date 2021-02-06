@@ -1,0 +1,14 @@
+name = "Wooden Hoppers"
+filename = "woodenhoppers-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3048/188/woodenhoppers-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2914844980"
+
+[update]
+[update.curseforge]
+file-id = 3048188
+project-id = 406021
+release-channel = "beta"
