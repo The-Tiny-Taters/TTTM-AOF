@@ -3401,11 +3401,6 @@ hash = "02d6dd2d5938dddc1fc84fb28cdabec9c16e4e21fe16e629e9779ed725a15594"
 metafile = true
 
 [[files]]
-file = "mods/more-tooltips.toml"
-hash = "60500982549f88ab58d069d81b904493f4f2a7d0543cac2f2041cc80201fb765"
-metafile = true
-
-[[files]]
 file = "mods/mouse-wheelie.toml"
 hash = "95c54033ae134f7ad0389e3ce6115bf0cc5aee0909393e8866eb9e4521fc6110"
 metafile = true
