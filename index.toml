@@ -2981,6 +2981,11 @@ hash = "00834855326bb0d922fdc5b749c4b75979d84bce235d8e364d6aba6f0dec18fa"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.toml"
+hash = "05d1248fed0e771fb4bc7f4e89a1151953b4624db7a54f051028ec83389c4f67"
+metafile = true
+
+[[files]]
 file = "mods/blast.toml"
 hash = "ead873311ff32db6d2c4c9aa386de72f5c9d561bdff76f8119850074592a8ee9"
 metafile = true
@@ -3393,6 +3398,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "02d6dd2d5938dddc1fc84fb28cdabec9c16e4e21fe16e629e9779ed725a15594"
+metafile = true
+
+[[files]]
+file = "mods/more-tooltips.toml"
+hash = "60500982549f88ab58d069d81b904493f4f2a7d0543cac2f2041cc80201fb765"
 metafile = true
 
 [[files]]

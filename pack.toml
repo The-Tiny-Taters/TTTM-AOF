@@ -1,11 +1,11 @@
-name = "Tiny Tater Test modpack (AOF)"
-author = "Tiny Taters"
+name = "Tiny Tater Test server (AOF)"
+author = "Tiny Taters, Team AOF"
 version = "1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bd7686b9fe5c68548e4183c39a3a890a4b4408dd2055a7d0cb713b7a0438510c"
+hash = "7a5b83d08153fc0df169a8629bb9d1ac415b3eda8fa2603b90d939b6f8f1ffd5"
 
 [versions]
 fabric = "0.11.1"
