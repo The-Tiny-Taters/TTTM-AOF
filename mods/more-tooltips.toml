@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3124/331/%5B1.16.4%5D MoreTooltips-1.0.1.jar"
-hash-format = "murmur2"
-hash = "2663945909"
+hash-format = "md5"
+hash = "abc0ea4314f239f41f6f88bfdb3d3985"
 
 [update]
 [update.curseforge]
