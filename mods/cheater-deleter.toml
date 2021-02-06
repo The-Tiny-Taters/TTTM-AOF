@@ -3,6 +3,6 @@ filename = "cheaterdeleter-0.0.1.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/The-Tiny-Taters/TTTM-AOF/main/mods/jars/cheaterdeleter.jar"
+url = "https://github.com/The-Tiny-Taters/TTTM-AOF/raw/main/mods/jars/cheaterdeleter.jar"
 hash-format = "sha256"
 hash = "8f46337ef36827bbdd1a664906ef6771703791dcc6d492094600a5e9fbeae92c"
