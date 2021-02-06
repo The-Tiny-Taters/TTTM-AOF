@@ -1,0 +1,110 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".git/HEAD"
+hash = "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+
+[[files]]
+file = ".git/config"
+hash = "5c54c9b2c1ffbea33707d785fb18b1874f19373c0c38324d64fd0d521795f0f1"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+
+[[files]]
+file = ".git/hooks/pre-merge-commit.sample"
+hash = "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "978235ae8b913ab4d0f906a8af621a0bfe7c314d84b715f4f64ee9b1aa3cce2d"
+
+[[files]]
+file = ".git/index"
+hash = "f7c461f9f3c7c8c5bf6fb709138944e4fbedf0a58e165c856849028eed384e99"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "9f110c280c78701d018343ebd479116561586e80f4722445741237ba5fd42177"
+
+[[files]]
+file = ".git/logs/refs/heads/main"
+hash = "9f110c280c78701d018343ebd479116561586e80f4722445741237ba5fd42177"
+
+[[files]]
+file = ".git/logs/refs/remotes/origin/HEAD"
+hash = "9f110c280c78701d018343ebd479116561586e80f4722445741237ba5fd42177"
+
+[[files]]
+file = ".git/objects/pack/pack-5682696935c26a84d3ccab3aece98c6741d79cf7.idx"
+hash = "05924f2aab84c0fd3f57fc82159050c1cac0b372d25a45a54f89b654c1f1f63f"
+
+[[files]]
+file = ".git/objects/pack/pack-5682696935c26a84d3ccab3aece98c6741d79cf7.pack"
+hash = "e37aacd4b0e70f1f3d97f95852de64044b578cb0fd7a12308d6a0c6cd27926d1"
+
+[[files]]
+file = ".git/packed-refs"
+hash = "40471e9f05646c006bd8f2e9f50a0f9cb5ecca4a8d6d80ccc997d2a77c39f515"
+
+[[files]]
+file = ".git/refs/heads/main"
+hash = "35ff2eb9bb78706ceac4b43fef5615008a3e510bab1d324cd659ae304830c760"
+
+[[files]]
+file = ".git/refs/remotes/origin/HEAD"
+hash = "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+
+[[files]]
+file = "README.md"
+hash = "2a0e4941a9cc09af187388220e8dc8c782098c4e2be425883f1eec423a34452e"
+
+[[files]]
+file = "mods/world-border-fix.toml"
+hash = "3f2231bf2f91068bc38ecc15310685a3c244d115b2c27d9b04541df2a74fae38"
+metafile = true

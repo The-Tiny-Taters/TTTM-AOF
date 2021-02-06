@@ -1,0 +1,12 @@
+name = "Tiny Tater Test modpack (AOF)"
+author = "Tiny Taters"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a2dac0df5bcde5bd7de37dd095b581efac5b44b66ca0abec26e0ba66789c0922"
+
+[versions]
+fabric = "0.11.1"
+minecraft = "1.16.5"
