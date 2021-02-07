@@ -3047,7 +3047,7 @@ metafile = true
 
 [[files]]
 file = "mods/cheater-deleter.toml"
-hash = "0694221850371dd722573628d886e2bc102dc08d987a599c292a35645285a25e"
+hash = "84d19ddd506db05e81ac3754d13196d85d2b3c8ce8380bcaf55acda463ce86e1"
 metafile = true
 
 [[files]]

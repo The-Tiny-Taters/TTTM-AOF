@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://github.com/The-Tiny-Taters/TTTM-AOF/raw/main/mods/jars/cheaterdeleter.jar"
 hash-format = "sha256"
-hash = "8f46337ef36827bbdd1a664906ef6771703791dcc6d492094600a5e9fbeae92c"
+hash = "84abb684ad7fd24d184da9c5562473424559581afc7d8dcf13df0280e5a28277"
