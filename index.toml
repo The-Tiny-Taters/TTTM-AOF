@@ -141,10 +141,6 @@ file = "config/campanion.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/canvas.json5"
-hash = "6cbc23454fcd687532fcbf5160323aa68c2ae22e0c187d271d85a0833667e79d"
-
-[[files]]
 file = "config/carrier.json"
 hash = "ef41bc6866be5ad2282d74deee8ca4531a398f0406110a3faba22a60e67ef8a9"
 
@@ -545,10 +541,6 @@ file = "config/modkeys.properties"
 hash = "8df2935ccb432573005a0a64c52aa372542f0fde73b79526a04d73c0acc51c55"
 
 [[files]]
-file = "config/modmenu.json"
-hash = "ef28268c0796c3e6d980b7af6354dac5ffa0cd69953e61fd463450ab52ab39ea"
-
-[[files]]
 file = "config/moreberries.json5"
 hash = "fcf33849af3bb6123499468e4c8a0ddd6cc42334a353ac08509942461b69b2aa"
 
@@ -583,14 +575,6 @@ hash = "4dfd7eadb0919ae5eb3f546d5a20b3d2f7621f87bb8943d9a0c3a22f092927bb"
 [[files]]
 file = "config/nourish/nourish.json"
 hash = "62aa6f9042e6f891a18ffdce8c85906962c0ab607f8ecb8ccd42caca5ef5eef3"
-
-[[files]]
-file = "config/okzoomer-next.json5"
-hash = "34596cc369c02512b83eaab11398fa22c8b681e600f3df81d8903bf2b9976803"
-
-[[files]]
-file = "config/okzoomer.json5"
-hash = "c836dd268490b69ce084940cb3d7ecb79bf69460c1f9d586014234274fdbaa5e"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -3407,7 +3391,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "95c54033ae134f7ad0389e3ce6115bf0cc5aee0909393e8866eb9e4521fc6110"
+hash = "8548c45920e5b1535a47028d2c0393532fe76d7603c8621c8516d13cb33303ac"
 metafile = true
 
 [[files]]
