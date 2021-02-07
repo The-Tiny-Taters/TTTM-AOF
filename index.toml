@@ -3160,6 +3160,11 @@ hash = "a1acc2521f51dec61b6e1847353782c57e25c0ba4dfbf4563b8abad2c1f5496b"
 metafile = true
 
 [[files]]
+file = "mods/enderporter-fabric.toml"
+hash = "a94aa76ecbd519b66ca3b7690e0c786ebd78c2d1f823717f67beba8ff0777054"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage-fabric.toml"
 hash = "230e24728793e2fe9a8aeeae9a37a72cfa8342083f07ab5c30ff9e897372529c"
 metafile = true
