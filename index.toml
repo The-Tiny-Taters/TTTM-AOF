@@ -3047,7 +3047,7 @@ metafile = true
 
 [[files]]
 file = "mods/cheater-deleter.toml"
-hash = "76fde778e7ef5734efc0e9254d373dbcda41665615199f4f7ad2b20f38682e08"
+hash = "0694221850371dd722573628d886e2bc102dc08d987a599c292a35645285a25e"
 metafile = true
 
 [[files]]
@@ -3672,7 +3672,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-border-fix.toml"
-hash = "3f2231bf2f91068bc38ecc15310685a3c244d115b2c27d9b04541df2a74fae38"
+hash = "4768c12c331bd2db2d13da95bf6378355a6952e335d6e22e12e2033e298c3334"
 metafile = true
 
 [[files]]
