@@ -8,8 +8,9 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Mod name | Author | Source | url |
 | --- | --- | --- | --- |
 | Bits and chisels | CoolMineman (ThatTrollzer) | Curse | [link](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels) |
-| Cheater Deleter | CoolMineman (ThatTrollzer) | Github | [link](https://github.com/CoolMineman/CheaterDeleter/actions) |
+| ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 | World border fixer | Potatoboy9999 | Curse | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
+| Enderporter | KnowYourKnot | Curse | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Through the looking glass | azazelthedemonlord | TBC | TBC |
 
 
