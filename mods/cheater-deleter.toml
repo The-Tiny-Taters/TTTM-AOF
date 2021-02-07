@@ -1,8 +1,0 @@
-name = "Cheater Deleter"
-filename = "cheaterdeleter.jar"
-side = "server"
-
-[download]
-url = "https://github.com/The-Tiny-Taters/TTTM-AOF/raw/main/mods/jars/cheaterdeleter.jar"
-hash-format = "sha256"
-hash = "84abb684ad7fd24d184da9c5562473424559581afc7d8dcf13df0280e5a28277"
