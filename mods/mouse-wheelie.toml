@@ -2,6 +2,11 @@ name = "Mouse Wheelie (Fabric)"
 filename = "mousewheelie-1.6.3+mc1.16.4.jar"
 side = "both"
 
+[option]
+optional = true
+description = "Mouse Wheelie allows you to scroll items."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3174/695/mousewheelie-1.6.3+mc1.16.4.jar"
 hash-format = "murmur2"
