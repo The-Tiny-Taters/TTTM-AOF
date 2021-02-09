@@ -12,6 +12,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 | World border fixer | Potatoboy9999 | Curse | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Enderporter | KnowYourKnot | Curse | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
+| Gift It | Siphalor | Curse | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it/files/3198242) |
 | Through the looking glass | azazelthedemonlord | TBC | TBC |
 
 
