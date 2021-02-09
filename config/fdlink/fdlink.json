@@ -1,0 +1,75 @@
+{
+  "chatChannels": [
+    "805109315081469962"
+  ],
+  "logChannels": [
+    "807999460327030814"
+  ],
+  "webhookURL": "",
+  "ignoreBots": true,
+  "activityUpdateInterval": 120,
+  "minecraftToDiscord": {
+    "general": {
+      "enableDebugLogs": false
+    },
+    "chatChannels": {
+      "commandPrefix": "-",
+      "allowDiscordCommands": false,
+      "serverStartingMessage": true,
+      "serverStartMessage": true,
+      "serverStopMessage": true,
+      "serverStoppingMessage": true,
+      "customChannelDescription": false,
+      "minecraftToDiscordTag": false,
+      "minecraftToDiscordDiscriminator": false,
+      "playerMessages": true,
+      "teamPlayerMessages": true,
+      "joinAndLeaveMessages": true,
+      "advancementMessages": true,
+      "challengeMessages": true,
+      "goalMessages": true,
+      "deathMessages": true,
+      "sendMeCommand": true,
+      "sendSayCommand": true,
+      "adminMessages": false,
+      "atATellRaw": false,
+      "achievementMessages": true
+    },
+    "logChannels": {
+      "serverStartingMessage": true,
+      "serverStartMessage": true,
+      "serverStopMessage": true,
+      "serverStoppingMessage": true,
+      "customChannelDescription": false,
+      "minecraftToDiscordTag": false,
+      "minecraftToDiscordDiscriminator": false,
+      "playerMessages": false,
+      "teamPlayerMessages": false,
+      "joinAndLeaveMessages": true,
+      "advancementMessages": false,
+      "challengeMessages": false,
+      "goalMessages": false,
+      "deathMessages": true,
+      "sendMeCommand": true,
+      "sendSayCommand": true,
+      "adminMessages": false,
+      "atATellRaw": false,
+      "achievementMessages": true
+    }
+  },
+  "discordToMinecraft": {
+    "pingLongVersion": false
+  },
+  "emojiMap": [
+    {
+      "name": "example_name",
+      "id": ":example_id:22222222"
+    },
+    {
+      "name": "example_name2",
+      "id": ":example_id2:22222222"
+    }
+  ],
+  "version": 8,
+  "token": "ODA3OTc0NjM4NTY2NzY4NjQw.YB_zBQ._pJooBzZ3G3H-mVt1--otifMm04"
+}

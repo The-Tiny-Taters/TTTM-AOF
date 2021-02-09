@@ -1,0 +1,14 @@
+name = "WorldEdit"
+filename = "worldedit-fabric-mc1.16.3-7.2.2-dist.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3172/947/worldedit-fabric-mc1.16.3-7.2.2-dist.jar"
+hash-format = "murmur2"
+hash = "4096404470"
+
+[update]
+[update.curseforge]
+file-id = 3172947
+project-id = 225608
+release-channel = "beta"

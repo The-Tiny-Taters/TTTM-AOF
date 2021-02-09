@@ -253,6 +253,14 @@ file = "config/fabric_loader_dependencies.json"
 hash = "c0bc877f757e5020aa6584982b5dfef9e2e2dda79ab002b8f6e911bdbc198fe3"
 
 [[files]]
+file = "config/fdlink/fdlink.json"
+hash = "c207416eedcd7179b5d10754cd4890a577658d99ad3711b5f99522be44b05513"
+
+[[files]]
+file = "config/fdlink/messages.json"
+hash = "d00f8dbceb4457ddd50b704d967e92d64448f682ff796ce172179f0b74a0c515"
+
+[[files]]
 file = "config/flonters.properties"
 hash = "60f2fcbd2deeac168421d8f7fa61bbcbe1a5156341c5d59b2f7905ea07c38d2a"
 
@@ -3192,6 +3200,11 @@ hash = "833c49834e1bb973fa63773268d6882305319d60f6fe1a45ebca7ac735a1a187"
 metafile = true
 
 [[files]]
+file = "mods/fabric-discord-link.toml"
+hash = "a746d91eb2ece37c239fd6e7353f219d720bd42f111d29b9571aef76d540d9d9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-furnaces.toml"
 hash = "2b6985660ed8baabaf006f859ec0c4bd0ede58ebb3b656b9630df97132b5caff"
 metafile = true
@@ -3214,6 +3227,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.toml"
 hash = "1530530736dbd35d0c9a9d0acb2489cdeec30a7d4a2faa0ea04a1abd0a6ca071"
+metafile = true
+
+[[files]]
+file = "mods/fabrictpa.toml"
+hash = "723f6d9bdd1f26f649c513d113635b01937afe5b51f8c1ef7063ae3bd58ec24f"
+metafile = true
+
+[[files]]
+file = "mods/fabricwarps.toml"
+hash = "6325df72e7ccb32d1b883af32ded7261fa07ed8dd7193fdd036771e4be41097b"
 metafile = true
 
 [[files]]
@@ -3679,6 +3702,11 @@ metafile = true
 [[files]]
 file = "mods/world-border-fix.toml"
 hash = "4768c12c331bd2db2d13da95bf6378355a6952e335d6e22e12e2033e298c3334"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "124a2c390cdef3b6c2c88521cb60863c1bc70bdc6de3d3ccd5ad5180aea6c336"
 metafile = true
 
 [[files]]
