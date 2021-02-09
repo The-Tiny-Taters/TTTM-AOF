@@ -3258,7 +3258,7 @@ metafile = true
 
 [[files]]
 file = "mods/gift-it.toml"
-hash = "14d9af8c3f35f7f2508b6ad98dd1fdad81dbbe8e5a8d6e2d653f626226847cd9"
+hash = "2d0c42ab527b8f47718490894039acec675b6a8df96dc9d82ef638aa3df0a049"
 metafile = true
 
 [[files]]
