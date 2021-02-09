@@ -501,24 +501,10 @@
       "description": "or just a place to mine stuff",
       "x": 25,
       "y": 49,
-      "icon": {
-        "id": "biome_locator:compass",
-        "Count": 1,
-        "tag": {}
-      },
       "tasks": [
         {
           "type": "CRAFT",
-          "items": [
-            {
-              "item": {
-                "id": "biome_locator:compass",
-                "Count": 1,
-                "tag": {}
-              },
-              "precision": "FUZZY"
-            }
-          ]
+          "items": []
         }
       ],
       "prerequisites": [

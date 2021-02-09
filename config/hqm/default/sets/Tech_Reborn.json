@@ -19,7 +19,8 @@
               "item": {
                 "id": "techreborn:alloy_smelter",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -55,7 +56,8 @@
               "item": {
                 "id": "techreborn:industrial_solar_panel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -91,7 +93,8 @@
               "item": {
                 "id": "techreborn:plasma_generator",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -127,7 +130,8 @@
               "item": {
                 "id": "techreborn:advanced_solar_panel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -167,7 +171,8 @@
               "item": {
                 "id": "techreborn:compressor",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -204,7 +209,8 @@
               "item": {
                 "id": "techreborn:basic_machine_casing",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -238,7 +244,8 @@
               "item": {
                 "id": "techreborn:industrial_grinder",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -277,7 +284,8 @@
               "item": {
                 "id": "techreborn:matter_fabricator",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -317,7 +325,8 @@
               "item": {
                 "id": "techreborn:rubber",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -353,7 +362,8 @@
               "item": {
                 "id": "techreborn:quantum_solar_panel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -390,7 +400,8 @@
               "item": {
                 "id": "techreborn:fusion_coil",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -558,7 +569,8 @@
               "item": {
                 "id": "techreborn:industrial_centrifuge",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -640,7 +652,8 @@
               "item": {
                 "id": "techreborn:basic_solar_panel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -717,7 +730,8 @@
               "item": {
                 "id": "techreborn:solid_fuel_generator",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -753,7 +767,8 @@
               "item": {
                 "id": "techreborn:advanced_machine_casing",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -877,7 +892,8 @@
               "item": {
                 "id": "techreborn:industrial_blast_furnace",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -913,7 +929,8 @@
               "item": {
                 "id": "techreborn:extractor",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -949,7 +966,8 @@
               "item": {
                 "id": "techreborn:insulated_copper_cable",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -985,7 +1003,8 @@
               "item": {
                 "id": "techreborn:advanced_machine_casing",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1028,7 +1047,8 @@
                 "tag": {
                   "Damage": 0
                 }
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1063,7 +1083,8 @@
               "item": {
                 "id": "techreborn:recycler",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1184,7 +1205,8 @@
               "item": {
                 "id": "techreborn:ultimate_solar_panel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1220,7 +1242,8 @@
               "item": {
                 "id": "techreborn:electric_furnace",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1256,7 +1279,8 @@
               "item": {
                 "id": "techreborn:fusion_control_computer",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1299,7 +1323,8 @@
               "item": {
                 "id": "techreborn:grinder",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }

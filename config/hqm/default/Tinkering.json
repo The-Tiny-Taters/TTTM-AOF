@@ -1,1 +1,1853 @@
-{"name":"Tinkering","quests":[{"uuid":"1a0586d0-dd30-46db-9248-c7a4ab712de3","name":"Hammer I","description":"Craft a Wooden Hammer.","x":176,"y":18,"bigicon":true,"icon":{"id":"vanilla-hammers:wooden_hammer","Count":1,"tag":{"Damage":0}},"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:wooden_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"87bacbd5-7018-403b-acec-0e12ef767003","name":"Armory I","description":"Craft Leather Armor.","x":17,"y":16,"bigicon":true,"icon":{"id":"minecraft:leather_chestplate","Count":1,"tag":{"Damage":0}},"tasks":[{"type":"CRAFT","items":[{"item":{"id":"minecraft:leather_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:leather_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:leather_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:leather_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:leather","Count":8},{"id":"minecraft:experience_bottle","Count":10}],"commandrewards":[]},{"uuid":"ad2ef1cf-c3be-499e-a85a-2b39b56d01c6","name":"Armory V","description":"Craft Diamond Armor.","x":135,"y":48,"icon":{"id":"minecraft:diamond_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["63e6a08b-285b-4ce8-96a8-9a15c8c7bbb4"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"minecraft:diamond_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:diamond_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:diamond_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:diamond_boots","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"6fa11dfd-6ca3-4a3b-9b01-1a834f7a87b6","name":"Armory VII","description":"Craft Pearly Diamond Armor.","x":133,"y":118,"icon":{"id":"oysters:pearly_diamond_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["60f030ef-a162-4f4c-8bd0-ddb4f1cd4931"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"oysters:pearly_diamond_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"oysters:pearly_diamond_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"oysters:pearly_diamond_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"oysters:pearly_diamond_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"oysters:pearly_shears","Count":1,"tag":{"Damage":0}}],"commandrewards":[]},{"uuid":"21413c92-1542-4cb5-ad76-1c0b1f0d9319","name":"Excavator IV","description":"Craft a Fiery Excavator.","x":268,"y":57,"icon":{"id":"vanillaexcavators:fiery_excavator","Count":1,"tag":{"Damage":0}},"prerequisites":["df4030fe-55a0-4288-96b9-8bc1ec1ef246"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanillaexcavators:fiery_excavator","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"ed3cf229-8520-4700-81e4-caaacd63a695","name":"Paxel V","description":"Craft a Vibranium Paxel.","x":240,"y":156,"icon":{"id":"adabraniummod:vibranium_paxel","Count":1,"tag":{"Damage":0}},"prerequisites":["522349ea-ddfd-4ab5-85ef-7c5fc48a7990"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:vibranium_paxel","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"63e6a08b-285b-4ce8-96a8-9a15c8c7bbb4","name":"Armory IV","description":"Craft Nether Armor.","x":113,"y":25,"icon":{"id":"adabraniummod:nether_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["f4a30435-6730-4ddc-965d-08abfcccf616"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:nether_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:nether_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:nether_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:nether_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:soul_sand","Count":16},{"id":"minecraft:emerald","Count":1}],"commandrewards":[]},{"uuid":"a10fe926-359a-463a-abe6-d48731b35e4a","name":"Weaponry I","description":"Craft a Lapis Sword.","x":18,"y":63,"bigicon":true,"icon":{"id":"vanilla-toolsets:lapis_sword","Count":1,"tag":{"Damage":0}},"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-toolsets:lapis_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:experience_bottle","Count":5}],"commandrewards":[]},{"uuid":"92223e22-ecfc-44b6-b789-cee403f506c1","name":"Hammer VII","description":"Craft a Emerald Hammer.","x":298,"y":84,"icon":{"id":"vanilla-hammers:emerald_hammer","Count":1,"tag":{"Damage":0}},"prerequisites":["73aca78b-d566-4c85-9dbb-5402dbd2b0c9"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:emerald_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"f4a30435-6730-4ddc-965d-08abfcccf616","name":"Armory III","description":"Craft Iron Armor.","x":84,"y":13,"icon":{"id":"minecraft:iron_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["949f9db4-79f7-4f04-ae5e-e9f9500bb48e"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"minecraft:iron_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:iron_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:iron_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"minecraft:iron_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:diamond","Count":2}],"commandrewards":[]},{"uuid":"72cfbbc7-08c3-47b8-8c5b-e0d60b707a96","name":"Excavator II","description":"Craft a Stone Excavator.","x":212,"y":57,"icon":{"id":"vanillaexcavators:stone_excavator","Count":1,"tag":{"Damage":0}},"prerequisites":["cc7b3335-8c90-4368-85de-877eea5adebd"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanillaexcavators:stone_excavator","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"44858b31-90f9-46b3-956f-7cde52335025","name":"Paxel III","description":"Craft a Iron Paxel.","x":240,"y":93,"icon":{"id":"adabraniummod:iron_paxel","Count":1,"tag":{"Damage":0}},"prerequisites":["5154b7ae-5e12-4efd-85f5-cd6c495bc2fa"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:iron_paxel","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"5f3957b1-a4f3-4d4c-af73-e9f075cd0465","name":"Weaponry IV","description":"Craft a Diamond Sword.","x":108,"y":68,"icon":{"id":"minecraft:diamond_sword","Count":1,"tag":{"Damage":0}},"prerequisites":["4c5c132c-3fd6-43b4-bf74-dc6fd0ccd0e5"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"minecraft:diamond_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:experience_bottle","Count":3}],"commandrewards":[]},{"uuid":"d7fa5cf9-8cf1-4317-a8c9-432e4f64bf7b","name":"Hammer VIII","description":"Craft a Vibranium Hammer.","x":298,"y":116,"icon":{"id":"vanilla-hammers:vibranium_hammer","Count":1,"tag":{"Damage":0}},"prerequisites":["92223e22-ecfc-44b6-b789-cee403f506c1"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:vibranium_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"4c5c132c-3fd6-43b4-bf74-dc6fd0ccd0e5","name":"Weaponry III","description":"Craft a Obsidian Sword.","x":84,"y":46,"icon":{"id":"vanilla-toolsets:obsidian_sword","Count":1,"tag":{"Damage":0}},"prerequisites":["5e7e6ebd-a402-4950-93c8-c6bdbd0099cd"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-toolsets:obsidian_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"villagerhats:shepherd_hat","Count":1,"tag":{"Damage":0}}],"commandrewards":[]},{"uuid":"2bd29e6a-55bc-4801-873e-023b6f185db8","name":"Excavator VII","description":"Craft a Emerald Excavator.","x":268,"y":152,"icon":{"id":"vanillaexcavators:emerald_excavator","Count":1,"tag":{"Damage":0}},"prerequisites":["e055ef0d-b577-4bc7-a327-585ca326f79c"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanillaexcavators:emerald_excavator","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"83f57d02-bc79-400e-9e5d-331c8cb2bd12","name":"Weaponry VIII","description":"Craft a Adamantium Sword.","x":47,"y":163,"icon":{"id":"adabraniummod:adamantium_sword","Count":1,"tag":{"Damage":0}},"prerequisites":["1c0f3a5f-053b-4050-b54d-97bfa700892e"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:adamantium_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"givemehats:crown","Count":1}],"commandrewards":[]},{"uuid":"9d3121d5-c9fc-4670-9796-512060998365","name":"Weaponry IX","description":"Craft a Nanosaber.","x":17,"y":154,"icon":{"id":"techreborn:nanosaber","Count":1,"tag":{"isActive":1,"energy":4000000}},"prerequisites":["83f57d02-bc79-400e-9e5d-331c8cb2bd12"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"techreborn:nanosaber","Count":1,"tag":{"isActive":0}}}]}],"reward":[{"id":"givemehats:cat_ears","Count":1}],"commandrewards":[]},{"uuid":"acdda211-73be-43f1-8586-8026327a3f3d","name":"Armory X","description":"Craft Quantum Armor.","x":70,"y":192,"icon":{"id":"techreborn:quantum_chestplate","Count":1,"tag":{"energy":40000000}},"prerequisites":["d2eb8fe2-db08-4fb6-a91d-8c8f5c7cd533"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"techreborn:quantum_helmet","Count":1,"tag":{"energy":0}}},{"item":{"id":"techreborn:quantum_chestplate","Count":1,"tag":{"energy":0}}},{"item":{"id":"techreborn:quantum_leggings","Count":1,"tag":{"energy":0}}},{"item":{"id":"techreborn:quantum_boots","Count":1,"tag":{"energy":0}}}]}],"reward":[{"id":"minecraft:enchanted_golden_apple","Count":3},{"id":"minecraft:nether_star","Count":1}],"commandrewards":[]},{"uuid":"73aca78b-d566-4c85-9dbb-5402dbd2b0c9","name":"Hammer VI","description":"Craft a Ender Hammer.","x":298,"y":52,"icon":{"id":"vanilla-hammers:ender_hammer","Count":1,"tag":{"Damage":0}},"prerequisites":["1af6f8a8-bb31-488a-9abd-2dacea84c817"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:ender_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"1c0f3a5f-053b-4050-b54d-97bfa700892e","name":"Weaponry VII","description":"Craft a Vibranium Sword.","x":76,"y":157,"icon":{"id":"adabraniummod:vibranium_sword","Count":1,"tag":{"Damage":0}},"prerequisites":["6b0c7644-f231-4b3f-82cb-4d48be99d9a1"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:vibranium_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:diamond_block","Count":2}],"commandrewards":[]},{"uuid":"1af6f8a8-bb31-488a-9abd-2dacea84c817","name":"Hammer V","description":"Craft a Diamond Hammer.","x":298,"y":21,"icon":{"id":"vanilla-hammers:diamond_hammer","Count":1,"tag":{"Damage":0}},"prerequisites":["f64abf30-1bce-46bd-8fda-5ac598f92f84"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:diamond_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"60f030ef-a162-4f4c-8bd0-ddb4f1cd4931","name":"Armory VI","description":"Craft Enhanced Armor.","x":138,"y":82,"icon":{"id":"archcreatia:mana_enhanced_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["ad2ef1cf-c3be-499e-a85a-2b39b56d01c6"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"archcreatia:mana_enhanced_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"archcreatia:mana_enhanced_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"archcreatia:mana_enhanced_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"archcreatia:mana_enhanced_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"villagerhats:cartographer_hat","Count":1,"tag":{"Damage":0}}],"commandrewards":[]},{"uuid":"5e7e6ebd-a402-4950-93c8-c6bdbd0099cd","name":"Weaponry II","description":"Craft a Quartz Sword.","x":51,"y":47,"icon":{"id":"vanilla-toolsets:quartz_sword","Count":1,"tag":{"Damage":0}},"prerequisites":["a10fe926-359a-463a-abe6-d48731b35e4a"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-toolsets:quartz_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:quartz","Count":15}],"commandrewards":[]},{"uuid":"e055ef0d-b577-4bc7-a327-585ca326f79c","name":"Excavator VI","description":"Craft a Ender Excavator.","x":268,"y":120,"icon":{"id":"vanillaexcavators:ender_excavator","Count":1,"tag":{"Damage":0}},"prerequisites":["f504757c-6eea-4a03-8140-2330ee06efd2"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanillaexcavators:ender_excavator","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"d2eb8fe2-db08-4fb6-a91d-8c8f5c7cd533","name":"Armory IX","description":"Craft Adamantium Armor.","x":103,"y":182,"icon":{"id":"adabraniummod:adamantium_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["f7bf39fc-16d8-4fb9-bd7e-624d96f49ecb"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:adamantium_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:adamantium_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:adamantium_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:adamantium_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:wither_skeleton_skull","Count":1},{"id":"minecraft:experience_bottle","Count":15}],"commandrewards":[]},{"uuid":"f64abf30-1bce-46bd-8fda-5ac598f92f84","name":"Hammer IV","description":"Craft a Fiery Hammer.","x":269,"y":21,"icon":{"id":"vanilla-hammers:fiery_hammer","Count":1,"tag":{"Damage":0}},"prerequisites":["7cd5ac49-badf-4885-8bb9-3f6c92b48f9b"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:fiery_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"522349ea-ddfd-4ab5-85ef-7c5fc48a7990","name":"Paxel IV","description":"Craft a Diamond Paxel.","x":240,"y":124,"icon":{"id":"adabraniummod:diamond_paxel","Count":1,"tag":{"Damage":0}},"prerequisites":["44858b31-90f9-46b3-956f-7cde52335025"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:diamond_paxel","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"5154b7ae-5e12-4efd-85f5-cd6c495bc2fa","name":"Paxel II","description":"Craft a Stone Paxel.","x":212,"y":93,"icon":{"id":"adabraniummod:stone_paxel","Count":1,"tag":{"Damage":0}},"prerequisites":["65ca667d-3da4-4699-a5ab-072ce606373a"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:stone_paxel","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"f7bf39fc-16d8-4fb9-bd7e-624d96f49ecb","name":"Armory VIII","description":"Craft Vibranium Armor.","x":123,"y":152,"icon":{"id":"adabraniummod:vibranium_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["6fa11dfd-6ca3-4a3b-9b01-1a834f7a87b6"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:vibranium_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:vibranium_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:vibranium_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"adabraniummod:vibranium_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"villagerhats:armorer_hat","Count":1,"tag":{"Damage":0}},{"id":"itemmagnets:reinforced_magnet","Count":1}],"commandrewards":[]},{"uuid":"cc7b3335-8c90-4368-85de-877eea5adebd","name":"Excavator I","description":"Craft a Wooden Excavator.","x":177,"y":54,"bigicon":true,"icon":{"id":"vanillaexcavators:wooden_excavator","Count":1,"tag":{"Damage":0}},"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanillaexcavators:wooden_excavator","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"65ca667d-3da4-4699-a5ab-072ce606373a","name":"Paxel I","description":"Craft a Wooden Paxel.","x":177,"y":90,"bigicon":true,"icon":{"id":"adabraniummod:wooden_paxel","Count":1,"tag":{"Damage":0}},"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:wooden_paxel","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"e8717629-8e37-4b0d-ae9f-608ec371d2f0","name":"Weaponry V","description":"Craft a Ruby Sword.","x":106,"y":100,"icon":{"id":"techreborn:ruby_sword","Count":1,"tag":{"Damage":0}},"prerequisites":["5f3957b1-a4f3-4d4c-af73-e9f075cd0465"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"techreborn:ruby_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"techreborn:ruby_hoe","Count":1,"tag":{"Damage":0}}],"commandrewards":[]},{"uuid":"f504757c-6eea-4a03-8140-2330ee06efd2","name":"Excavator V","description":"Craft a Diamond Excavator.","x":268,"y":89,"icon":{"id":"vanillaexcavators:diamond_excavator","Count":1,"tag":{"Damage":0}},"prerequisites":["21413c92-1542-4cb5-ad76-1c0b1f0d9319"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanillaexcavators:diamond_excavator","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"df4030fe-55a0-4288-96b9-8bc1ec1ef246","name":"Excavator III","description":"Craft a Iron Excavator.","x":240,"y":57,"icon":{"id":"vanillaexcavators:iron_excavator","Count":1,"tag":{"Damage":0}},"prerequisites":["72cfbbc7-08c3-47b8-8c5b-e0d60b707a96"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanillaexcavators:iron_excavator","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"949f9db4-79f7-4f04-ae5e-e9f9500bb48e","name":"Armory II","description":"Craft Lapis Armor.","x":54,"y":12,"icon":{"id":"vanilla-toolsets:lapis_chestplate","Count":1,"tag":{"Damage":0}},"prerequisites":["87bacbd5-7018-403b-acec-0e12ef767003"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-toolsets:lapis_helmet","Count":1,"tag":{"Damage":0}}},{"item":{"id":"vanilla-toolsets:lapis_chestplate","Count":1,"tag":{"Damage":0}}},{"item":{"id":"vanilla-toolsets:lapis_leggings","Count":1,"tag":{"Damage":0}}},{"item":{"id":"vanilla-toolsets:lapis_boots","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:experience_bottle","Count":5}],"rewardchoice":[{"id":"wolveswitharmor:iron_wolf_armor","Count":1},{"id":"villagerhats:butcher_hat","Count":1,"tag":{"Damage":0}}],"commandrewards":[]},{"uuid":"63399ef3-a705-43de-88c5-eda53b9b0d50","name":"Paxel VI","description":"Craft a Adamantium Paxel.","x":240,"y":188,"icon":{"id":"adabraniummod:adamantium_paxel","Count":1,"tag":{"Damage":0}},"prerequisites":["ed3cf229-8520-4700-81e4-caaacd63a695"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"adabraniummod:adamantium_paxel","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"7cd5ac49-badf-4885-8bb9-3f6c92b48f9b","name":"Hammer III","description":"Craft a Iron Hammer.","x":240,"y":21,"icon":{"id":"vanilla-hammers:iron_hammer","Count":1,"tag":{"Damage":0}},"prerequisites":["bc74899a-0011-4ddf-ba94-1125cc43c0ec"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:iron_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]},{"uuid":"6b0c7644-f231-4b3f-82cb-4d48be99d9a1","name":"Weaponry VI","description":"Craft a Pearly Diamond Sword.","x":97,"y":131,"icon":{"id":"oysters:pearly_diamond_sword","Count":1,"tag":{"Damage":0}},"prerequisites":["e8717629-8e37-4b0d-ae9f-608ec371d2f0"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"oysters:pearly_diamond_sword","Count":1,"tag":{"Damage":0}}}]}],"reward":[{"id":"minecraft:experience_bottle","Count":5}],"commandrewards":[]},{"uuid":"bc74899a-0011-4ddf-ba94-1125cc43c0ec","name":"Hammer II","description":"Craft a Stone Hammer.","x":211,"y":21,"icon":{"id":"vanilla-hammers:stone_hammer","Count":1,"tag":{"Damage":0}},"prerequisites":["1a0586d0-dd30-46db-9248-c7a4ab712de3"],"tasks":[{"type":"CRAFT","items":[{"item":{"id":"vanilla-hammers:stone_hammer","Count":1,"tag":{"Damage":0}}}]}],"commandrewards":[]}],"reputationBar":[]}
+{
+  "name": "Tinkering",
+  "quests": [
+    {
+      "uuid": "1a0586d0-dd30-46db-9248-c7a4ab712de3",
+      "name": "Hammer I",
+      "description": "Craft a Wooden Hammer.",
+      "x": 176,
+      "y": 18,
+      "bigicon": true,
+      "icon": {
+        "id": "vanilla-hammers:wooden_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:wooden_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "87bacbd5-7018-403b-acec-0e12ef767003",
+      "name": "Armory I",
+      "description": "Craft Leather Armor.",
+      "x": 17,
+      "y": 16,
+      "bigicon": true,
+      "icon": {
+        "id": "minecraft:leather_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:leather_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:leather_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:leather_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:leather_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:leather",
+          "Count": 8
+        },
+        {
+          "id": "minecraft:experience_bottle",
+          "Count": 10
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ad2ef1cf-c3be-499e-a85a-2b39b56d01c6",
+      "name": "Armory V",
+      "description": "Craft Diamond Armor.",
+      "x": 135,
+      "y": 48,
+      "icon": {
+        "id": "minecraft:diamond_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "63e6a08b-285b-4ce8-96a8-9a15c8c7bbb4"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:diamond_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:diamond_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:diamond_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:diamond_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6fa11dfd-6ca3-4a3b-9b01-1a834f7a87b6",
+      "name": "Armory VII",
+      "description": "Craft Pearly Diamond Armor.",
+      "x": 133,
+      "y": 118,
+      "icon": {
+        "id": "oysters:pearly_diamond_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "60f030ef-a162-4f4c-8bd0-ddb4f1cd4931"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "oysters:pearly_diamond_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "oysters:pearly_diamond_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "oysters:pearly_diamond_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "oysters:pearly_diamond_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "oysters:pearly_shears",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "21413c92-1542-4cb5-ad76-1c0b1f0d9319",
+      "name": "Excavator IV",
+      "description": "Craft a Fiery Excavator.",
+      "x": 268,
+      "y": 57,
+      "icon": {
+        "id": "vanillaexcavators:fiery_excavator",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "df4030fe-55a0-4288-96b9-8bc1ec1ef246"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanillaexcavators:fiery_excavator",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ed3cf229-8520-4700-81e4-caaacd63a695",
+      "name": "Paxel V",
+      "description": "Craft a Vibranium Paxel.",
+      "x": 240,
+      "y": 156,
+      "icon": {
+        "id": "adabraniummod:vibranium_paxel",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "522349ea-ddfd-4ab5-85ef-7c5fc48a7990"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:vibranium_paxel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "63e6a08b-285b-4ce8-96a8-9a15c8c7bbb4",
+      "name": "Armory IV",
+      "description": "Craft Nether Armor.",
+      "x": 113,
+      "y": 25,
+      "icon": {
+        "id": "adabraniummod:nether_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "f4a30435-6730-4ddc-965d-08abfcccf616"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:nether_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:nether_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:nether_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:nether_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:soul_sand",
+          "Count": 16
+        },
+        {
+          "id": "minecraft:emerald",
+          "Count": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a10fe926-359a-463a-abe6-d48731b35e4a",
+      "name": "Weaponry I",
+      "description": "Craft a Lapis Sword.",
+      "x": 18,
+      "y": 63,
+      "bigicon": true,
+      "icon": {
+        "id": "vanilla-toolsets:lapis_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-toolsets:lapis_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:experience_bottle",
+          "Count": 5
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "92223e22-ecfc-44b6-b789-cee403f506c1",
+      "name": "Hammer VII",
+      "description": "Craft a Emerald Hammer.",
+      "x": 298,
+      "y": 84,
+      "icon": {
+        "id": "vanilla-hammers:emerald_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "73aca78b-d566-4c85-9dbb-5402dbd2b0c9"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:emerald_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f4a30435-6730-4ddc-965d-08abfcccf616",
+      "name": "Armory III",
+      "description": "Craft Iron Armor.",
+      "x": 84,
+      "y": 13,
+      "icon": {
+        "id": "minecraft:iron_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "949f9db4-79f7-4f04-ae5e-e9f9500bb48e"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:iron_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:iron_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:iron_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:iron_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:diamond",
+          "Count": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "72cfbbc7-08c3-47b8-8c5b-e0d60b707a96",
+      "name": "Excavator II",
+      "description": "Craft a Stone Excavator.",
+      "x": 212,
+      "y": 57,
+      "icon": {
+        "id": "vanillaexcavators:stone_excavator",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "cc7b3335-8c90-4368-85de-877eea5adebd"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanillaexcavators:stone_excavator",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "44858b31-90f9-46b3-956f-7cde52335025",
+      "name": "Paxel III",
+      "description": "Craft a Iron Paxel.",
+      "x": 240,
+      "y": 93,
+      "icon": {
+        "id": "adabraniummod:iron_paxel",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "5154b7ae-5e12-4efd-85f5-cd6c495bc2fa"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:iron_paxel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5f3957b1-a4f3-4d4c-af73-e9f075cd0465",
+      "name": "Weaponry IV",
+      "description": "Craft a Diamond Sword.",
+      "x": 108,
+      "y": 68,
+      "icon": {
+        "id": "minecraft:diamond_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "4c5c132c-3fd6-43b4-bf74-dc6fd0ccd0e5"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:diamond_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:experience_bottle",
+          "Count": 3
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d7fa5cf9-8cf1-4317-a8c9-432e4f64bf7b",
+      "name": "Hammer VIII",
+      "description": "Craft a Vibranium Hammer.",
+      "x": 298,
+      "y": 116,
+      "icon": {
+        "id": "vanilla-hammers:vibranium_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "92223e22-ecfc-44b6-b789-cee403f506c1"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:vibranium_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4c5c132c-3fd6-43b4-bf74-dc6fd0ccd0e5",
+      "name": "Weaponry III",
+      "description": "Craft a Obsidian Sword.",
+      "x": 84,
+      "y": 46,
+      "icon": {
+        "id": "vanilla-toolsets:obsidian_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "5e7e6ebd-a402-4950-93c8-c6bdbd0099cd"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-toolsets:obsidian_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "villagerhats:shepherd_hat",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2bd29e6a-55bc-4801-873e-023b6f185db8",
+      "name": "Excavator VII",
+      "description": "Craft a Emerald Excavator.",
+      "x": 268,
+      "y": 152,
+      "icon": {
+        "id": "vanillaexcavators:emerald_excavator",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "e055ef0d-b577-4bc7-a327-585ca326f79c"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanillaexcavators:emerald_excavator",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "83f57d02-bc79-400e-9e5d-331c8cb2bd12",
+      "name": "Weaponry VIII",
+      "description": "Craft a Adamantium Sword.",
+      "x": 47,
+      "y": 163,
+      "icon": {
+        "id": "adabraniummod:adamantium_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "1c0f3a5f-053b-4050-b54d-97bfa700892e"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:adamantium_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "givemehats:crown",
+          "Count": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9d3121d5-c9fc-4670-9796-512060998365",
+      "name": "Weaponry IX",
+      "description": "Craft a Nanosaber.",
+      "x": 17,
+      "y": 154,
+      "icon": {
+        "id": "techreborn:nanosaber",
+        "Count": 1,
+        "tag": {
+          "isActive": 1,
+          "energy": 4000000
+        }
+      },
+      "prerequisites": [
+        "83f57d02-bc79-400e-9e5d-331c8cb2bd12"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:nanosaber",
+                "Count": 1,
+                "tag": {
+                  "isActive": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "givemehats:cat_ears",
+          "Count": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "acdda211-73be-43f1-8586-8026327a3f3d",
+      "name": "Armory X",
+      "description": "Craft Quantum Armor.",
+      "x": 70,
+      "y": 192,
+      "icon": {
+        "id": "techreborn:quantum_chestplate",
+        "Count": 1,
+        "tag": {
+          "energy": 40000000
+        }
+      },
+      "prerequisites": [
+        "d2eb8fe2-db08-4fb6-a91d-8c8f5c7cd533"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:quantum_helmet",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "techreborn:quantum_chestplate",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "techreborn:quantum_leggings",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "techreborn:quantum_boots",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:enchanted_golden_apple",
+          "Count": 3
+        },
+        {
+          "id": "minecraft:nether_star",
+          "Count": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "73aca78b-d566-4c85-9dbb-5402dbd2b0c9",
+      "name": "Hammer VI",
+      "description": "Craft a Ender Hammer.",
+      "x": 298,
+      "y": 52,
+      "icon": {
+        "id": "vanilla-hammers:ender_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "1af6f8a8-bb31-488a-9abd-2dacea84c817"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:ender_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1c0f3a5f-053b-4050-b54d-97bfa700892e",
+      "name": "Weaponry VII",
+      "description": "Craft a Vibranium Sword.",
+      "x": 76,
+      "y": 157,
+      "icon": {
+        "id": "adabraniummod:vibranium_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "6b0c7644-f231-4b3f-82cb-4d48be99d9a1"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:vibranium_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:diamond_block",
+          "Count": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1af6f8a8-bb31-488a-9abd-2dacea84c817",
+      "name": "Hammer V",
+      "description": "Craft a Diamond Hammer.",
+      "x": 298,
+      "y": 21,
+      "icon": {
+        "id": "vanilla-hammers:diamond_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "f64abf30-1bce-46bd-8fda-5ac598f92f84"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:diamond_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "60f030ef-a162-4f4c-8bd0-ddb4f1cd4931",
+      "name": "Armory VI",
+      "description": "Craft Enhanced Armor.",
+      "x": 138,
+      "y": 82,
+      "icon": {
+        "id": "archcreatia:mana_enhanced_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "ad2ef1cf-c3be-499e-a85a-2b39b56d01c6"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "archcreatia:mana_enhanced_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "archcreatia:mana_enhanced_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "archcreatia:mana_enhanced_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "archcreatia:mana_enhanced_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "villagerhats:cartographer_hat",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5e7e6ebd-a402-4950-93c8-c6bdbd0099cd",
+      "name": "Weaponry II",
+      "description": "Craft a Quartz Sword.",
+      "x": 51,
+      "y": 47,
+      "icon": {
+        "id": "vanilla-toolsets:quartz_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "a10fe926-359a-463a-abe6-d48731b35e4a"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-toolsets:quartz_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:quartz",
+          "Count": 15
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e055ef0d-b577-4bc7-a327-585ca326f79c",
+      "name": "Excavator VI",
+      "description": "Craft a Ender Excavator.",
+      "x": 268,
+      "y": 120,
+      "icon": {
+        "id": "vanillaexcavators:ender_excavator",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "f504757c-6eea-4a03-8140-2330ee06efd2"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanillaexcavators:ender_excavator",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d2eb8fe2-db08-4fb6-a91d-8c8f5c7cd533",
+      "name": "Armory IX",
+      "description": "Craft Adamantium Armor.",
+      "x": 103,
+      "y": 182,
+      "icon": {
+        "id": "adabraniummod:adamantium_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "f7bf39fc-16d8-4fb9-bd7e-624d96f49ecb"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:adamantium_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:adamantium_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:adamantium_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:adamantium_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:wither_skeleton_skull",
+          "Count": 1
+        },
+        {
+          "id": "minecraft:experience_bottle",
+          "Count": 15
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f64abf30-1bce-46bd-8fda-5ac598f92f84",
+      "name": "Hammer IV",
+      "description": "Craft a Fiery Hammer.",
+      "x": 269,
+      "y": 21,
+      "icon": {
+        "id": "vanilla-hammers:fiery_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "7cd5ac49-badf-4885-8bb9-3f6c92b48f9b"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:fiery_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "522349ea-ddfd-4ab5-85ef-7c5fc48a7990",
+      "name": "Paxel IV",
+      "description": "Craft a Diamond Paxel.",
+      "x": 240,
+      "y": 124,
+      "icon": {
+        "id": "adabraniummod:diamond_paxel",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "44858b31-90f9-46b3-956f-7cde52335025"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:diamond_paxel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5154b7ae-5e12-4efd-85f5-cd6c495bc2fa",
+      "name": "Paxel II",
+      "description": "Craft a Stone Paxel.",
+      "x": 212,
+      "y": 93,
+      "icon": {
+        "id": "adabraniummod:stone_paxel",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "65ca667d-3da4-4699-a5ab-072ce606373a"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:stone_paxel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f7bf39fc-16d8-4fb9-bd7e-624d96f49ecb",
+      "name": "Armory VIII",
+      "description": "Craft Vibranium Armor.",
+      "x": 123,
+      "y": 152,
+      "icon": {
+        "id": "adabraniummod:vibranium_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "6fa11dfd-6ca3-4a3b-9b01-1a834f7a87b6"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:vibranium_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:vibranium_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:vibranium_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "adabraniummod:vibranium_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "villagerhats:armorer_hat",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        },
+        {
+          "id": "itemmagnets:reinforced_magnet",
+          "Count": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cc7b3335-8c90-4368-85de-877eea5adebd",
+      "name": "Excavator I",
+      "description": "Craft a Wooden Excavator.",
+      "x": 177,
+      "y": 54,
+      "bigicon": true,
+      "icon": {
+        "id": "vanillaexcavators:wooden_excavator",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanillaexcavators:wooden_excavator",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "65ca667d-3da4-4699-a5ab-072ce606373a",
+      "name": "Paxel I",
+      "description": "Craft a Wooden Paxel.",
+      "x": 177,
+      "y": 90,
+      "bigicon": true,
+      "icon": {
+        "id": "adabraniummod:wooden_paxel",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:wooden_paxel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e8717629-8e37-4b0d-ae9f-608ec371d2f0",
+      "name": "Weaponry V",
+      "description": "Craft a Ruby Sword.",
+      "x": 106,
+      "y": 100,
+      "icon": {
+        "id": "techreborn:ruby_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "5f3957b1-a4f3-4d4c-af73-e9f075cd0465"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:ruby_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "techreborn:ruby_hoe",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f504757c-6eea-4a03-8140-2330ee06efd2",
+      "name": "Excavator V",
+      "description": "Craft a Diamond Excavator.",
+      "x": 268,
+      "y": 89,
+      "icon": {
+        "id": "vanillaexcavators:diamond_excavator",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "21413c92-1542-4cb5-ad76-1c0b1f0d9319"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanillaexcavators:diamond_excavator",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "df4030fe-55a0-4288-96b9-8bc1ec1ef246",
+      "name": "Excavator III",
+      "description": "Craft a Iron Excavator.",
+      "x": 240,
+      "y": 57,
+      "icon": {
+        "id": "vanillaexcavators:iron_excavator",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "72cfbbc7-08c3-47b8-8c5b-e0d60b707a96"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanillaexcavators:iron_excavator",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "949f9db4-79f7-4f04-ae5e-e9f9500bb48e",
+      "name": "Armory II",
+      "description": "Craft Lapis Armor.",
+      "x": 54,
+      "y": 12,
+      "icon": {
+        "id": "vanilla-toolsets:lapis_chestplate",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "87bacbd5-7018-403b-acec-0e12ef767003"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-toolsets:lapis_helmet",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "vanilla-toolsets:lapis_chestplate",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "vanilla-toolsets:lapis_leggings",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "vanilla-toolsets:lapis_boots",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:experience_bottle",
+          "Count": 5
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "wolveswitharmor:iron_wolf_armor",
+          "Count": 1
+        },
+        {
+          "id": "villagerhats:butcher_hat",
+          "Count": 1,
+          "tag": {
+            "Damage": 0
+          }
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "63399ef3-a705-43de-88c5-eda53b9b0d50",
+      "name": "Paxel VI",
+      "description": "Craft a Adamantium Paxel.",
+      "x": 240,
+      "y": 188,
+      "icon": {
+        "id": "adabraniummod:adamantium_paxel",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "ed3cf229-8520-4700-81e4-caaacd63a695"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "adabraniummod:adamantium_paxel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7cd5ac49-badf-4885-8bb9-3f6c92b48f9b",
+      "name": "Hammer III",
+      "description": "Craft a Iron Hammer.",
+      "x": 240,
+      "y": 21,
+      "icon": {
+        "id": "vanilla-hammers:iron_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "bc74899a-0011-4ddf-ba94-1125cc43c0ec"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:iron_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6b0c7644-f231-4b3f-82cb-4d48be99d9a1",
+      "name": "Weaponry VI",
+      "description": "Craft a Pearly Diamond Sword.",
+      "x": 97,
+      "y": 131,
+      "icon": {
+        "id": "oysters:pearly_diamond_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "e8717629-8e37-4b0d-ae9f-608ec371d2f0"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "oysters:pearly_diamond_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:experience_bottle",
+          "Count": 5
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bc74899a-0011-4ddf-ba94-1125cc43c0ec",
+      "name": "Hammer II",
+      "description": "Craft a Stone Hammer.",
+      "x": 211,
+      "y": 21,
+      "icon": {
+        "id": "vanilla-hammers:stone_hammer",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "prerequisites": [
+        "1a0586d0-dd30-46db-9248-c7a4ab712de3"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "vanilla-hammers:stone_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

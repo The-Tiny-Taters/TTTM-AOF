@@ -57,7 +57,8 @@
               "item": {
                 "id": "appliedenergistics2:drive",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -140,7 +141,8 @@
               "item": {
                 "id": "appliedenergistics2:16k_crafting_storage",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -215,7 +217,8 @@
               "item": {
                 "id": "appliedenergistics2:1k_crafting_storage",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -254,7 +257,8 @@
               "item": {
                 "id": "appliedenergistics2:crafting_accelerator",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -291,7 +295,8 @@
               "item": {
                 "id": "appliedenergistics2:interface",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -364,7 +369,8 @@
               "item": {
                 "id": "appliedenergistics2:charger",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -400,7 +406,8 @@
               "item": {
                 "id": "appliedenergistics2:quantum_ring",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -473,7 +480,8 @@
               "item": {
                 "id": "appliedenergistics2:crafting_terminal",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -509,7 +517,8 @@
               "item": {
                 "id": "appliedenergistics2:64k_crafting_storage",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -545,7 +554,8 @@
               "item": {
                 "id": "appliedenergistics2:storage_bus",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -581,7 +591,8 @@
               "item": {
                 "id": "appliedenergistics2:pattern_terminal",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -658,7 +669,8 @@
               "item": {
                 "id": "appliedenergistics2:fluix_smart_dense_cable",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -694,7 +706,8 @@
               "item": {
                 "id": "appliedenergistics2:import_bus",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -730,7 +743,8 @@
               "item": {
                 "id": "appliedenergistics2:molecular_assembler",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -766,7 +780,8 @@
               "item": {
                 "id": "appliedenergistics2:wireless_booster",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -841,7 +856,8 @@
               "item": {
                 "id": "appliedenergistics2:controller",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -875,7 +891,8 @@
               "item": {
                 "id": "appliedenergistics2:interface_terminal",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -911,7 +928,8 @@
               "item": {
                 "id": "appliedenergistics2:energy_acceptor",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -986,7 +1004,8 @@
               "item": {
                 "id": "appliedenergistics2:crafting_unit",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1022,7 +1041,8 @@
               "item": {
                 "id": "appliedenergistics2:4k_crafting_storage",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1097,7 +1117,8 @@
               "item": {
                 "id": "appliedenergistics2:wireless_access_point",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1171,7 +1192,8 @@
               "item": {
                 "id": "appliedenergistics2:quantum_link",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1209,7 +1231,8 @@
                 "id": "appliedenergistics2:biometric_card",
                 "Count": 1,
                 "tag": {}
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1245,7 +1268,8 @@
               "item": {
                 "id": "appliedenergistics2:me_p2p_tunnel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1318,7 +1342,8 @@
               "item": {
                 "id": "appliedenergistics2:fluix_smart_cable",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1356,7 +1381,8 @@
                 "id": "appliedenergistics2:memory_card",
                 "Count": 1,
                 "tag": {}
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1428,7 +1454,8 @@
               "item": {
                 "id": "appliedenergistics2:security_station",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1462,7 +1489,8 @@
               "item": {
                 "id": "appliedenergistics2:export_bus",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }

@@ -1,14 +1,14 @@
 name = "Mod Menu"
-filename = "modmenu-1.14.13+build.19.jar"
+filename = "modmenu-1.14.15.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3121/655/modmenu-1.14.13+build.19.jar"
+url = "https://edge.forgecdn.net/files/3179/43/modmenu-1.14.15.jar"
 hash-format = "murmur2"
-hash = "987770098"
+hash = "2209477758"
 
 [update]
 [update.curseforge]
-file-id = 3121655
+file-id = 3179043
 project-id = 308702
 release-channel = "beta"

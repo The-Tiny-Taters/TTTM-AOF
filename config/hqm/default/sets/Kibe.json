@@ -693,7 +693,8 @@
                 "tag": {
                   "Damage": 0
                 }
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1620,7 +1621,8 @@
               "item": {
                 "id": "kibe:slime_sling",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }

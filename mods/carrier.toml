@@ -1,14 +1,14 @@
 name = "Carrier"
-filename = "carrier-1.7.2.jar"
+filename = "carrier-1.7.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3189/341/carrier-1.7.2.jar"
+url = "https://edge.forgecdn.net/files/3195/780/carrier-1.7.3.jar"
 hash-format = "murmur2"
-hash = "84904401"
+hash = "927764253"
 
 [update]
 [update.curseforge]
-file-id = 3189341
+file-id = 3195780
 project-id = 409184
 release-channel = "beta"

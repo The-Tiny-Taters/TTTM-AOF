@@ -19,7 +19,8 @@
               "item": {
                 "id": "modern_industrialization:large_steam_boiler",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -55,7 +56,8 @@
               "item": {
                 "id": "modern_industrialization:quarry",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -91,7 +93,8 @@
               "item": {
                 "id": "modern_industrialization:electric_quarry",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -127,7 +130,8 @@
               "item": {
                 "id": "modern_industrialization:diesel_generator",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -163,7 +167,8 @@
               "item": {
                 "id": "modern_industrialization:electric_blast_furnace",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -204,7 +209,8 @@
               "item": {
                 "id": "modern_industrialization:lv_circuit",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -238,7 +244,8 @@
               "item": {
                 "id": "modern_industrialization:coke_oven",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -274,7 +281,8 @@
               "item": {
                 "id": "modern_industrialization:lv_centrifuge",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -310,7 +318,8 @@
               "item": {
                 "id": "modern_industrialization:oil_drilling_rig",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -350,7 +359,8 @@
               "item": {
                 "id": "modern_industrialization:mv_steam_turbine",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -386,7 +396,8 @@
               "item": {
                 "id": "modern_industrialization:bronze_boiler",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -422,7 +433,8 @@
               "item": {
                 "id": "modern_industrialization:bronze_macerator",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -462,7 +474,8 @@
               "item": {
                 "id": "modern_industrialization:bronze_compressor",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -502,7 +515,8 @@
               "item": {
                 "id": "modern_industrialization:lv_steam_turbine",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -574,7 +588,8 @@
                 "id": "modern_industrialization:fire_clay_bricks",
                 "Count": 37
               },
-              "required": 37
+              "required": 37,
+              "precision": "FUZZY"
             }
           ]
         }
@@ -610,7 +625,8 @@
               "item": {
                 "id": "modern_industrialization:steam_blast_furnace",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -646,7 +662,8 @@
               "item": {
                 "id": "modern_industrialization:lv_chemical_reactor",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -682,7 +699,8 @@
               "item": {
                 "id": "modern_industrialization:lv_polarizer",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -722,7 +740,8 @@
               "item": {
                 "id": "modern_industrialization:bronze_furnace",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -762,7 +781,8 @@
               "item": {
                 "id": "modern_industrialization:lv_electrolyzer",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -798,7 +818,8 @@
               "item": {
                 "id": "modern_industrialization:lv_distillery",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -835,7 +856,8 @@
                 "id": "modern_industrialization:pipe_fluid_iron",
                 "Count": 4
               },
-              "required": 4
+              "required": 4,
+              "precision": "FUZZY"
             }
           ]
         }
@@ -875,7 +897,8 @@
               "item": {
                 "id": "modern_industrialization:forge_hammer",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -911,7 +934,8 @@
               "item": {
                 "id": "modern_industrialization:steel_machine_casing",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -948,7 +972,8 @@
                 "id": "modern_industrialization:pipe_item_iron",
                 "Count": 4
               },
-              "required": 4
+              "required": 4,
+              "precision": "FUZZY"
             }
           ]
         }
@@ -984,7 +1009,8 @@
               "item": {
                 "id": "modern_industrialization:steel_wiremill",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1020,7 +1046,8 @@
               "item": {
                 "id": "modern_industrialization:lv_assembler",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1056,7 +1083,8 @@
               "item": {
                 "id": "modern_industrialization:bronze_mixer",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1096,7 +1124,8 @@
               "item": {
                 "id": "modern_industrialization:steel_packer",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }

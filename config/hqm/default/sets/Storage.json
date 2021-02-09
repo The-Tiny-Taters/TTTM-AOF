@@ -51,7 +51,8 @@
               "item": {
                 "id": "expandedstorage:netherite_barrel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -87,7 +88,8 @@
               "item": {
                 "id": "expandedstorage:wood_to_iron_conversion_kit",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1212,7 +1214,8 @@
               "item": {
                 "id": "expandedstorage:gold_to_diamond_conversion_kit",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1253,7 +1256,8 @@
               "item": {
                 "id": "expandedstorage:iron_barrel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1293,7 +1297,8 @@
               "item": {
                 "id": "expandedstorage:obsidian_barrel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1402,7 +1407,8 @@
               "item": {
                 "id": "expandedstorage:obsidian_to_netherite_conversion_kit",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1516,7 +1522,8 @@
               "item": {
                 "id": "expandedstorage:iron_to_gold_conversion_kit",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1589,7 +1596,8 @@
               "item": {
                 "id": "expandedstorage:gold_barrel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1625,7 +1633,8 @@
               "item": {
                 "id": "inmis:bejeweled_backpack",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1739,7 +1748,8 @@
               "item": {
                 "id": "expandedstorage:diamond_barrel",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -1818,7 +1828,8 @@
               "item": {
                 "id": "expandedstorage:diamond_to_obsidian_conversion_kit",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }

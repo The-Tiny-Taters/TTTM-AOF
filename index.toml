@@ -141,6 +141,10 @@ file = "config/campanion.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/canvas.json5"
+hash = "6cbc23454fcd687532fcbf5160323aa68c2ae22e0c187d271d85a0833667e79d"
+
+[[files]]
 file = "config/carrier.json"
 hash = "ef41bc6866be5ad2282d74deee8ca4531a398f0406110a3faba22a60e67ef8a9"
 
@@ -182,7 +186,7 @@ hash = "f083bed99182a2c99cec92fa5c1f03b2a97103cb9c16eec3335078c735dfc33c"
 
 [[files]]
 file = "config/craftpresence.properties"
-hash = "05bb6f20bff5a8fa042587f2015120530ce565dbeda612e70cfa92e0c48a7541"
+hash = "bd6fd5a872a3cd192dd7f87f3c1709d44c2c7759dbd805318f4e1b900f330a18"
 
 [[files]]
 file = "config/crawl.properties"
@@ -242,7 +246,7 @@ hash = "bae8f5876f80b0b7decd113c88ecc8dab7132c450648bbe8b8af91fa92e1bbe7"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "4b7ccb651f7300e8f134b6fb30e155a9482b7c3ab1fcdb542422fd1755aed5e7"
+hash = "8b8a2190b9fb51140d7f8eb2fc2cb62fb4fca8f88f08613ee74c6e7edb2cb156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -318,11 +322,11 @@ hash = "bedc712c183055998b5604db2b28251adcb4b6409150181c72ed4292ac35b12f"
 
 [[files]]
 file = "config/hqm/default/Kibe.json"
-hash = "ebc112cfede05db7334cf196fbce7f7023c15fa862645185295f61cde1ca44f4"
+hash = "8775c456bffac6b80887d75291351466092d7642fd42eb11753f23f842ad7385"
 
 [[files]]
 file = "config/hqm/default/Tinkering.json"
-hash = "4891b5c7237ed00e024120c01d5252eee910f4e2512258a0d575e5b99ef6de56"
+hash = "ef765513a433726f01ae9d7633cb2e29c228325b97cfb53c2233f16b0f25e1b4"
 
 [[files]]
 file = "config/hqm/default/bags.json"
@@ -342,39 +346,39 @@ hash = "46c5927e910c78b23701549abde4ee7cf0ffa4f2bc67f8c64e48600cc5009904"
 
 [[files]]
 file = "config/hqm/default/sets/Adventurer.json"
-hash = "b95439e9886724d177fe9d52ead804053cd57dd291133eb3500cbe439500938c"
+hash = "3decc955e81f8cd9cbfc381509e8ab7b2315fe6002f3d28d0f9ad6e4372c8756"
 
 [[files]]
 file = "config/hqm/default/sets/Applied_Energistics_2.json"
-hash = "91b3c04ebc1b8c25e3297fa3f7a62a3991a3ef24b08df231d0db2aecf6cdde15"
+hash = "4830fd4f07aa6519c39f5a22ca8a68bef9a88c5eb89684b3128ac103f3110a32"
 
 [[files]]
 file = "config/hqm/default/sets/Industrial_Revolution.json"
-hash = "a752286f887571fd926e40ec1543e7e857e0b5a40a16719ac56afb4479df5c50"
+hash = "e98687a95e779c358b2c75dec8f3132afef893fb852e40b132d5e18fd66583dc"
 
 [[files]]
 file = "config/hqm/default/sets/Kibe.json"
-hash = "4292377971815e086c6e53fcd8147de283eefcaeda543d0aadec23c172b565b9"
+hash = "a3d62424b866d84232f44856976552e8046d0a7d83b11d1b780dc4fe12504952"
 
 [[files]]
 file = "config/hqm/default/sets/Manuals.json"
-hash = "54056c5dbdb02e16cc403d8390e8cf0c1979be23c1853b969a03e1ea8ad9bf35"
+hash = "b0fc203b32f0b52b477e03fb3900741dc9d7e206a9b91040e60aed1e65cf7754"
 
 [[files]]
 file = "config/hqm/default/sets/Misc.json"
-hash = "f5c92beb471c606b7b6fc9e0784e124ee419159924440403bd600000a8e2795a"
+hash = "2c75b32b8bea72158e9b5e5b47316cc26cb9f14c069be363882b6545522762ce"
 
 [[files]]
 file = "config/hqm/default/sets/Modern_Industrialisation.json"
-hash = "0d8ce98e92e3c3bac6905b18e4ec13a0380613c51db6d8b6e5065a2034b99c10"
+hash = "6c6a4353aedff661aba49eeda155f76708f719410f6cfddd63181ca2a9538b0e"
 
 [[files]]
 file = "config/hqm/default/sets/Storage.json"
-hash = "d0267383b47cc2ee6dfc681881db47010c921b26e61c1791733d7ecdf669dfe2"
+hash = "82180e771e806032c0fc65f988ce6670291d28b6dc2dccad4929250953a40cbe"
 
 [[files]]
 file = "config/hqm/default/sets/Tech_Reborn.json"
-hash = "855810d82d31559c306d06f7633b9ae75c42c42dad538a44de24ffd995dace87"
+hash = "d9f862efdd8a00d9fc217536709d3ed67bd81179fb70826c277ce0d64ae897ef"
 
 [[files]]
 file = "config/hqm/default/sets/Tinkering.json"
@@ -494,7 +498,7 @@ hash = "5618b9ecd353d48d29e53f4af19ddf5edb13f6e7dd1af153695896906e15e4f4"
 
 [[files]]
 file = "config/jmx.properties"
-hash = "c04c6b22110cee3a6df891a34cef7216b2b4d204a37b89cdffcf541dbf435124"
+hash = "aae468b3c59c413044fb09d8cba2b2f2c17d97c515929163a8bcd634e7e251cf"
 
 [[files]]
 file = "config/jumploader.json"
@@ -538,7 +542,7 @@ hash = "a53145b4a6852f2e4b060b25a67dd22eb48246f58324d3a0bfbebeaad866c352"
 
 [[files]]
 file = "config/modkeys.properties"
-hash = "8df2935ccb432573005a0a64c52aa372542f0fde73b79526a04d73c0acc51c55"
+hash = "3b8c701339c688b283a104db0e4f0fc717d9173794761370d0de81cbb66f191a"
 
 [[files]]
 file = "config/moreberries.json5"
@@ -658,7 +662,7 @@ hash = "cbd7b6a2277bbbfcff28d4b8616459f456eed9bbe01db1613b0d1bf44dca664b"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "29b5e79bb7700b9b610a9ce4efcf44937bc74c7a1c53fb1c592cb9979096e34c"
+hash = "7c0537730fe5c040dfafbc0f16c10bf209ab3355f17e3b90dd630d91dada014f"
 
 [[files]]
 file = "config/slightguimodifications/slider.png"
@@ -2745,6 +2749,14 @@ file = "kubejs/README.txt"
 hash = "a2af2f765234041a9ba3152ddaf1b8893e6e98e213c43d0d03f8319ddbb0d10d"
 
 [[files]]
+file = "kubejs/assets/hardcorequesting/textures/items/hqm_quest_book.png"
+hash = "3812b4f5fce916de948780a2d08aab65ba41b4ea9e2c14de219bf2da772da83c"
+
+[[files]]
+file = "kubejs/assets/hardcorequesting/textures/items/hqm_quest_book_op.png"
+hash = "3812b4f5fce916de948780a2d08aab65ba41b4ea9e2c14de219bf2da772da83c"
+
+[[files]]
 file = "kubejs/assets/modpack/lang/en_us.json"
 hash = "16bc29061a8a21ae6c018f5658e9620dc0a6daa6015f783816d568c397196d65"
 
@@ -2911,7 +2923,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "b7f114d3f97a5b7cf82d6886c92aaf07bcb43ecddf7232331d03874599baf118"
+hash = "d50ad37ada0a372b5cf03fd6606d1cb8508e2600abfa0d4e61da12d2e7c43ced"
 metafile = true
 
 [[files]]
@@ -2956,12 +2968,12 @@ metafile = true
 
 [[files]]
 file = "mods/biome-locator.toml"
-hash = "05485a96c5a22f65454e758076e25daac4b987cb862f0e86a0ad7195d3928cb7"
+hash = "ef0e4d427bbd12e388b2e2ce2389927eed69f4eef58e74dc0e9a35065e767ee0"
 metafile = true
 
 [[files]]
 file = "mods/biome-makeover.toml"
-hash = "00834855326bb0d922fdc5b749c4b75979d84bce235d8e364d6aba6f0dec18fa"
+hash = "606e96dac6453148e3ebede3042518d42c0e32af9325c3975bd37612468cb404"
 metafile = true
 
 [[files]]
@@ -3006,7 +3018,7 @@ metafile = true
 
 [[files]]
 file = "mods/carrier.toml"
-hash = "5ba5183b24197ea0a087cf9616a19e145efb21cfdd50ee02f40a4717dfa2fa9f"
+hash = "358e59fbe2a465aa856665b08b1d09f449ccb7b9ae9acdbfb6bec9fc72c23b3a"
 metafile = true
 
 [[files]]
@@ -3106,7 +3118,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn.toml"
-hash = "d116a1edd18b605d5c64fb43c120d28662cd95350b21265113c7b3ad91d24ea2"
+hash = "b1688f733c0ec45b943828182e46290bf23c9910adad82dd30408fd093470776"
 metafile = true
 
 [[files]]
@@ -3230,6 +3242,11 @@ hash = "8b610d7f580df7203411861aacea7813d536f594b396005f2b4276fc533749d1"
 metafile = true
 
 [[files]]
+file = "mods/flytrelib.toml"
+hash = "a1896b9f5e35c31c447520f4ab14e275240dc4cb85cae38540bff922ee099753"
+metafile = true
+
+[[files]]
 file = "mods/gate-of-babylon.toml"
 hash = "1164de8d08f0459f3a6411c30fc3704bb0bb5f509fd2a3368556786b96418508"
 metafile = true
@@ -3237,6 +3254,11 @@ metafile = true
 [[files]]
 file = "mods/get-off-my-lawn.toml"
 hash = "cf1fa324bfcd6cf40573f1087c192eb1da9a5eef0142d3e243f52706f9860e7d"
+metafile = true
+
+[[files]]
+file = "mods/gift-it.toml"
+hash = "14d9af8c3f35f7f2508b6ad98dd1fdad81dbbe8e5a8d6e2d653f626226847cd9"
 metafile = true
 
 [[files]]
@@ -3251,7 +3273,7 @@ metafile = true
 
 [[files]]
 file = "mods/go-fish.toml"
-hash = "ac590bd5afe0cb068ad5ada553e73444d8ce2e7b22aac1bd61e8e7b5bf50102e"
+hash = "d8386830187d47129066b829961bb827476e2aae457cdcbe49b8566042e9615d"
 metafile = true
 
 [[files]]
@@ -3336,7 +3358,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-fabric.toml"
-hash = "ce361083a4ae2bbc25c5b82c99d39edb27c39959b3e74ab2ba5311b6957bcef1"
+hash = "0108c3a3fef81b8876f7bd78932cc9df2745bd5777220a92083427a094851bc8"
 metafile = true
 
 [[files]]
@@ -3356,7 +3378,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8805274de7c15aea93725dbdb00f52061749fab9657ac328befe88d4ea218ab6"
+hash = "2034730274e8d3fa905b0c960b7d8f04f1241fb8c908a34272970dfba0c2a6cc"
 metafile = true
 
 [[files]]
@@ -3386,7 +3408,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "02d6dd2d5938dddc1fc84fb28cdabec9c16e4e21fe16e629e9779ed725a15594"
+hash = "cfc0a0678efa96435dd4667ab4eda87340ddbbe92e3752ca2ae796aeae4ad55c"
 metafile = true
 
 [[files]]
@@ -3421,7 +3443,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "7d0c8ca2f47e85a8cae1daff1d1fb0846b2908a748f8dfb47541f25fc13599b2"
+hash = "4496c2daf633a5427c8bfd0cedf388d1a8253977fce251266f1abaa8108dbc73"
 metafile = true
 
 [[files]]
@@ -3491,7 +3513,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "5cbdafd2cafa39896979f8ff2d7458a5eb5e7e8b19b109dd5af28c43f8908ddc"
+hash = "051cd40a5dcc4b9359549a0bfa198b948d1a5e3337889dbb1dcfae0e31b12b1a"
 metafile = true
 
 [[files]]
@@ -3516,7 +3538,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "6ea859c5f1873ac15f3cf3c47276fecba108f15890a54accc893dc17145fd792"
+hash = "68027a1e55bff56cda351b453bd3a249138fde501b864a54f1c4b7bb8f57078a"
 metafile = true
 
 [[files]]
@@ -3551,7 +3573,7 @@ metafile = true
 
 [[files]]
 file = "mods/staff-of-building.toml"
-hash = "05e8ec01f012601974714973804fe5df8097ca8fb34ac11a85efe9c116ac9b14"
+hash = "37adc97f96158e4bfa91c2c3460eb9264068dcef31524cbaec2fafab6320609c"
 metafile = true
 
 [[files]]
@@ -3606,7 +3628,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-secret-rooms.toml"
-hash = "2dd297c36423858410a9af3a42dd2aec68b341aab3e892f31a752ef8ea115786"
+hash = "ada77de4f33de85918802e820091d7ae1a18df1c9cab43f4c78975a48d6710cb"
 metafile = true
 
 [[files]]
@@ -3661,17 +3683,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "3ddea969813fdec80282182ca4a3b1b0d465dfb68c0fdebd194da180301f722f"
+hash = "287c22434e3e0d3106fe034b53a7258cc2500763215ba40422c93c822c56b71e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "1a5ddce3557c6ccf810ef14895213d79f159e3d0dd8ed0f79a672d3fca6d01e6"
+hash = "27c71d68d88fbd361342a186cc02d5d26a2e1d7430aaac0d88e3ac1b3135efde"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "b469a7a44657482bc956e840ce91d4ee797bf60bf551888afab9342af1923153"
+hash = "70ab8b996713c5e3cec18f6f55ac014eea018268284150f9adbd39ae4b9dc8c6"
 metafile = true
 
 [[files]]

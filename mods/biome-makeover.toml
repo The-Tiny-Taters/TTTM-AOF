@@ -1,14 +1,14 @@
 name = "Biome Makeover"
-filename = "biome-makeover-1.16.4-1.2.10.jar"
+filename = "biome-makeover-1.16.4-1.2.11.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3186/42/biome-makeover-1.16.4-1.2.10.jar"
+url = "https://edge.forgecdn.net/files/3193/336/biome-makeover-1.16.4-1.2.11.jar"
 hash-format = "murmur2"
-hash = "674617360"
+hash = "1675231529"
 
 [update]
 [update.curseforge]
-file-id = 3186042
+file-id = 3193336
 project-id = 412182
 release-channel = "beta"

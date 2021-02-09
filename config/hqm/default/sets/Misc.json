@@ -23,7 +23,8 @@
               "item": {
                 "id": "minecraft:crafting_table",
                 "Count": 1
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
