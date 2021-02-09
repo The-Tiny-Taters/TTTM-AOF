@@ -253,14 +253,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "c0bc877f757e5020aa6584982b5dfef9e2e2dda79ab002b8f6e911bdbc198fe3"
 
 [[files]]
-file = "config/fdlink/fdlink.json"
-hash = "c207416eedcd7179b5d10754cd4890a577658d99ad3711b5f99522be44b05513"
-
-[[files]]
-file = "config/fdlink/messages.json"
-hash = "d00f8dbceb4457ddd50b704d967e92d64448f682ff796ce172179f0b74a0c515"
-
-[[files]]
 file = "config/flonters.properties"
 hash = "60f2fcbd2deeac168421d8f7fa61bbcbe1a5156341c5d59b2f7905ea07c38d2a"
 
