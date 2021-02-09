@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://www.curseforge.com/minecraft/mc-mods/gift-it/download/3198242/file"
 hash-format = "sha256"
-hash = "9D31A78E98FA3E1C356DCB244B7A1809CDCF5F5D815FF0A99C9B59E84C4D4C61"
+hash = "9d31a78e98fa3e1c356dcb244b7a1809cdcf5f5d815ff0a99c9b59e84c4d4c61"
 
 [update]
 [update.curseforge]
