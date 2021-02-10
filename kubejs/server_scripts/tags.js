@@ -37,5 +37,16 @@ var be_chests = [
 be_chests.forEach(function (item, index) {
   event.get("c:wooden_chests").add("betterend:" + item + "_chest")
 });
+
+ // Barrels
+ var blockus_barrels = [
+  "charred",
+  "white_oak",
+  "bamboo",
+];
+
+blockus_barrels.forEach(function (item, index) {
+  event.get("charm:barrels").add("blockus:" + item + "_barrel")
+});
   
 });

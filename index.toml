@@ -186,7 +186,7 @@ hash = "f083bed99182a2c99cec92fa5c1f03b2a97103cb9c16eec3335078c735dfc33c"
 
 [[files]]
 file = "config/craftpresence.properties"
-hash = "bd6fd5a872a3cd192dd7f87f3c1709d44c2c7759dbd805318f4e1b900f330a18"
+hash = "624215769a3ca8bfb3b04c4ae109abc23765d2ac479a3a2c95401a94f7cde984"
 
 [[files]]
 file = "config/crawl.properties"
@@ -246,7 +246,7 @@ hash = "bae8f5876f80b0b7decd113c88ecc8dab7132c450648bbe8b8af91fa92e1bbe7"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "8b8a2190b9fb51140d7f8eb2fc2cb62fb4fca8f88f08613ee74c6e7edb2cb156"
+hash = "c34d8f08b93524ab2a3075dec2db768ae2c2b479567dcddffd54de7ee386ad3c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -342,7 +342,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/hqm/default/sets.json"
-hash = "46c5927e910c78b23701549abde4ee7cf0ffa4f2bc67f8c64e48600cc5009904"
+hash = "19d2660c2bcbf0581c6bef8bc220e6239f6fb509a09f05b8f74d0dcfcfff395c"
 
 [[files]]
 file = "config/hqm/default/sets/Adventurer.json"
@@ -354,11 +354,11 @@ hash = "4830fd4f07aa6519c39f5a22ca8a68bef9a88c5eb89684b3128ac103f3110a32"
 
 [[files]]
 file = "config/hqm/default/sets/Industrial_Revolution.json"
-hash = "e98687a95e779c358b2c75dec8f3132afef893fb852e40b132d5e18fd66583dc"
+hash = "4628138376e51ed4538d3a69929a0bdc61b6a5a83807243dffd0e61d3c811acf"
 
 [[files]]
 file = "config/hqm/default/sets/Kibe.json"
-hash = "a3d62424b866d84232f44856976552e8046d0a7d83b11d1b780dc4fe12504952"
+hash = "678898c15eed6316cba1a9b38d68baa8e1fe6128e9b6dee76691c807a31f3dce"
 
 [[files]]
 file = "config/hqm/default/sets/Manuals.json"
@@ -370,15 +370,15 @@ hash = "2c75b32b8bea72158e9b5e5b47316cc26cb9f14c069be363882b6545522762ce"
 
 [[files]]
 file = "config/hqm/default/sets/Modern_Industrialisation.json"
-hash = "6c6a4353aedff661aba49eeda155f76708f719410f6cfddd63181ca2a9538b0e"
+hash = "b1ab693de853f0fa8c4e1183c9688016d52c03cc0e5038a679888730dc7ee067"
 
 [[files]]
 file = "config/hqm/default/sets/Storage.json"
-hash = "82180e771e806032c0fc65f988ce6670291d28b6dc2dccad4929250953a40cbe"
+hash = "3bbb5dea699f2f07155962233db1bcb261c27dc5aaf603ee24dab0f07777f11b"
 
 [[files]]
 file = "config/hqm/default/sets/Tech_Reborn.json"
-hash = "d9f862efdd8a00d9fc217536709d3ed67bd81179fb70826c277ce0d64ae897ef"
+hash = "9d32e4a76320e9693628b1785fdb992d617d87fa39b9f6e76a530a7c850ff282"
 
 [[files]]
 file = "config/hqm/default/sets/Tinkering.json"
@@ -498,7 +498,7 @@ hash = "5618b9ecd353d48d29e53f4af19ddf5edb13f6e7dd1af153695896906e15e4f4"
 
 [[files]]
 file = "config/jmx.properties"
-hash = "aae468b3c59c413044fb09d8cba2b2f2c17d97c515929163a8bcd634e7e251cf"
+hash = "72ad18263e4fcba6528c75901ea67c36c6ced64027e32586b4f176fec9db5070"
 
 [[files]]
 file = "config/jumploader.json"
@@ -542,7 +542,7 @@ hash = "a53145b4a6852f2e4b060b25a67dd22eb48246f58324d3a0bfbebeaad866c352"
 
 [[files]]
 file = "config/modkeys.properties"
-hash = "3b8c701339c688b283a104db0e4f0fc717d9173794761370d0de81cbb66f191a"
+hash = "1c9fab6d1f92dc94af1a61ff073f2abd487de44fc734ea6e97199fb2e6451011"
 
 [[files]]
 file = "config/moreberries.json5"
@@ -562,7 +562,7 @@ hash = "7f2be79d3e46dcbb79f1479e91a52c4673a1c611ee0e0475485b3ad6abfda257"
 
 [[files]]
 file = "config/netherite_plus.json"
-hash = "c28399ba29868630d26b74fbbd188be53a19eafe1457bc5b7a24ac08ff428312"
+hash = "ca096c205827b240c66b8c1ec0c9981bb779327cc24573ee08e0787c08d161c0"
 
 [[files]]
 file = "config/ninjaphenix-container-library.json"
@@ -614,7 +614,7 @@ hash = "851f754f54265d3ad9a9e29b404d5b3da950b399f34fa1850249db6b5d2a23e0"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "9144e754ac29dc8d946e734c2bdd33004abbfd060dc450ecdc80c7c199de2fc0"
+hash = "5d78b5fd6579b610ea5b6b376d47a666bc0cc7602d7b6bf960729dfe442b13e9"
 
 [[files]]
 file = "config/rrp.properties"
@@ -658,11 +658,11 @@ hash = "81f84c2225de87ed11fd411938fe68e1215a66e49ef3715dbce35612d6144e8e"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
-hash = "cbd7b6a2277bbbfcff28d4b8616459f456eed9bbe01db1613b0d1bf44dca664b"
+hash = "16c9a5f38b7536517a280e40621958cbbe41304fe9a4887333fb76374740e739"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "7c0537730fe5c040dfafbc0f16c10bf209ab3355f17e3b90dd630d91dada014f"
+hash = "5a133cf1e90c59e38bfcaf42af5084e693c2cf7161e1d172efd1756db70f3c83"
 
 [[files]]
 file = "config/slightguimodifications/slider.png"
@@ -2866,15 +2866,19 @@ hash = "b52efb6bd0accada9b90b10c01fc13fc0e9502048c764c98f628cf90877ea023"
 
 [[files]]
 file = "kubejs/server_scripts/balancing.js"
-hash = "972740bb08002e3c7cf2900e8603eb65b4d67cd48bde30f40f0114190ef19ef6"
+hash = "67cada3c01ae9d0d3d7824f772f340767bded1e5beb1ddf35c48efced268c90e"
 
 [[files]]
 file = "kubejs/server_scripts/conflicts.js"
-hash = "e322581e58e0cbda74ed91f816327552ba302159498e0e876132080db8f64a67"
+hash = "27963676c287ad497099e6bea5ef732a9c964fc80731c85088d27b3aa79c6c96"
 
 [[files]]
 file = "kubejs/server_scripts/missed_recipes.js"
 hash = "b4ee9d0d3d67a831f62008785310bbb399c88b6f2e7d589cf93f233f4114c1ce"
+
+[[files]]
+file = "kubejs/server_scripts/modern_industrialization.js"
+hash = "1299131de6b51869a773addd7ab523696c64fc8fff34b8926e6c805e33a12a8f"
 
 [[files]]
 file = "kubejs/server_scripts/qol.js"
@@ -2882,7 +2886,7 @@ hash = "1d70480ad158b41aabd9d5169c1a84e0c7c7c91fda96eb9fd8e5826519484e97"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "d8a73fbce2fc6acf4f5452c973cfbeb6c1a74a601bdacc0a9cca52042983ca8c"
+hash = "aeec0d50204c14ca60061afd5eee4b6c74f47d92c2db9325aa4b2a5642e69c02"
 
 [[files]]
 file = "kubejs/server_scripts/tooltips.js"
@@ -2968,7 +2972,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-locator.toml"
-hash = "ef0e4d427bbd12e388b2e2ce2389927eed69f4eef58e74dc0e9a35065e767ee0"
+hash = "2764bb9779fe609ee679397839126cde1582bade757cff5e6e178f71d3cabc75"
 metafile = true
 
 [[files]]
@@ -2978,7 +2982,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "05d1248fed0e771fb4bc7f4e89a1151953b4624db7a54f051028ec83389c4f67"
+hash = "8e1ae574e3031e4937c9c04745479f2a4a3208baca5ce3763738163b5928c841"
 metafile = true
 
 [[files]]
@@ -3013,12 +3017,12 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components.toml"
-hash = "3c40ca216ac880dd4fd9cdd15ffe04a8fcd4037be5406b667331365d83534700"
+hash = "ee99b5a11555b8b1dd126b8578730bb8141cf00e8d0d8324aeb57f674c34ddae"
 metafile = true
 
 [[files]]
 file = "mods/carrier.toml"
-hash = "358e59fbe2a465aa856665b08b1d09f449ccb7b9ae9acdbfb6bec9fc72c23b3a"
+hash = "75c567d05d5d6c70b5c8bc6b44fe05e9566fe28cfae92441fe30e035826d2721"
 metafile = true
 
 [[files]]
@@ -3088,7 +3092,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "a98ba4c728234d7b3cc6feca71e79381023ef39912422c570abeeb084f06532e"
+hash = "e974b120cccd04f1f3ea2641ae513ef2fa5f4c76d0343a31b90599ab18e6d264"
 metafile = true
 
 [[files]]
@@ -3273,7 +3277,7 @@ metafile = true
 
 [[files]]
 file = "mods/gift-it.toml"
-hash = "2d0c42ab527b8f47718490894039acec675b6a8df96dc9d82ef638aa3df0a049"
+hash = "11195c4da6d954c2d7db647140c61f950237fb1a772e0943cfd49f7d51fbdff8"
 metafile = true
 
 [[files]]
@@ -3433,7 +3437,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherite-plus-mod.toml"
-hash = "24cc4f991ba60ede624c761d320916d077effc55f558c4ad4f9d5c562c9c6cae"
+hash = "44ef5411e900cbcd3feb1f6ac39edefb65cd16ce65fe586d9527bce1c046cac8"
 metafile = true
 
 [[files]]

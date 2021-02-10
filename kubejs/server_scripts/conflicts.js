@@ -96,11 +96,11 @@ events.listen("recipes", function (event) {
   event.remove({ output: "techreborn:diamond_nugget" });
   event.remove({ output: "techreborn:emerald_nugget" });
 
-  // Crude Storage Unit
+  // Barrels
   event.replaceInput(
     { type: "minecraft:crafting_shaped" },
     "minecraft:barrel",
-    "#blockus:barrels"
+    "#charm:barrels"
   );
 
   // Bamboo
@@ -129,5 +129,20 @@ events.listen("recipes", function (event) {
 
   // AE2 Grindstone 
   event.remove({ output: "appliedenergistics2:grindstone" });
+
+    // Crafting Tables
+    var blockus_barrels = [
+      "oak",
+      "birch",
+      "jungle",
+      "acacia",
+      "dark_oak",
+      "crimson",
+      "warped",
+    ];
+  
+    blockus_barrels.forEach(function (item, index) {
+      event.remove({ type: "crafting_shaped", output: "blockus:" + item + "_barrel" });
+    });
 
 });

@@ -30,22 +30,6 @@ events.listen("recipes", function (event) {
   ]);
 
 
-  // Altar
-  event.shaped(item.of("astromine:altar"), [
-    ["techreborn:tungstensteel_storage_block", "techreborn:tungstensteel_storage_block", "techreborn:tungstensteel_storage_block"],
-    ["astromine:galaxium_block",               "techreborn:lead_storage_block",          "astromine:galaxium_block"],
-    ["techreborn:tungstensteel_storage_block", "techreborn:tungstensteel_storage_block", "techreborn:tungstensteel_storage_block"],
-  ]);
-
-
-   // Altar Pedestal
-   event.shaped(item.of("astromine:altar_pedestal"), [
-     ["techreborn:tungstensteel_plate", "techreborn:tungstensteel_plate", "techreborn:tungstensteel_plate"],
-     ["astromine:galaxium",             "techreborn:lead_plate",          "astromine:galaxium"],
-     ["techreborn:tungstensteel_plate", "techreborn:tungstensteel_plate", "techreborn:tungstensteel_plate"],
-   ]);
-
-
   // Quantum Suit
    event.remove({ output: "techreborn:quantum_helmet" });
    event.shaped(item.of("techreborn:quantum_helmet"), [

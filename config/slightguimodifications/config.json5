@@ -8,7 +8,7 @@
 		"fluidOpenSlideFromBottom": false,
 		"fluidOpenFade": false,
 		"fluidAnimationDuration": 209,
-		"affectsGameMenus": true,
+		"affectsGameMenus": false,
 		"affectsInventories": false,
 		"ignoreSlideWhenRedirected": true,
 		"ignoreFadeWhenRedirected": false

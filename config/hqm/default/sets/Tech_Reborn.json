@@ -113,6 +113,43 @@
       "commandrewards": []
     },
     {
+      "uuid": "b90e03ec-61db-40b1-bffd-e73f52c1270f",
+      "name": "Compress the rest",
+      "description": "use this to create plates fer yer mates aaaaye.",
+      "x": 115,
+      "y": 146,
+      "icon": {
+        "id": "techreborn:compressor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "techreborn:compressor",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "262e197c-05bd-4585-af08-340480d4351e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:electronic_circuit",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
       "uuid": "67a1ba90-28d4-4659-b07a-16ff8260a81d",
       "name": "Aurora\u0027s day off",
       "description": "get more power.. you know, cuz it\u0027s an upgrade",
@@ -148,43 +185,6 @@
         {
           "id": "tacocraft:steak_taco",
           "Count": 4
-        }
-      ],
-      "rewardchoice": [],
-      "commandrewards": []
-    },
-    {
-      "uuid": "b90e03ec-61db-40b1-bffd-e73f52c1270f",
-      "name": "Compress the rest",
-      "description": "use this to create plates fer yer mates aaaaye.",
-      "x": 115,
-      "y": 146,
-      "icon": {
-        "id": "techreborn:compressor",
-        "Count": 1
-      },
-      "tasks": [
-        {
-          "type": "CRAFT",
-          "items": [
-            {
-              "item": {
-                "id": "techreborn:compressor",
-                "Count": 1
-              },
-              "precision": "FUZZY"
-            }
-          ]
-        }
-      ],
-      "prerequisites": [
-        "262e197c-05bd-4585-af08-340480d4351e"
-      ],
-      "optionlinks": [],
-      "reward": [
-        {
-          "id": "techreborn:electronic_circuit",
-          "Count": 6
         }
       ],
       "rewardchoice": [],
@@ -905,7 +905,7 @@
       "reward": [
         {
           "id": "techreborn:basic_machine_casing",
-          "Count": 2
+          "Count": 1
         }
       ],
       "rewardchoice": [],
@@ -1016,7 +1016,7 @@
       "reward": [
         {
           "id": "techreborn:basic_machine_frame",
-          "Count": 2
+          "Count": 1
         }
       ],
       "rewardchoice": [],

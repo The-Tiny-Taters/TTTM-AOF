@@ -132,43 +132,6 @@
       "commandrewards": []
     },
     {
-      "uuid": "8e17d55f-4782-49a2-88e8-2448fdfc3371",
-      "name": "Cursed Life",
-      "description": "Collect a stack of cursed droplets",
-      "x": 177,
-      "y": 12,
-      "bigicon": true,
-      "icon": {
-        "id": "kibe:cursed_droplets",
-        "Count": 1
-      },
-      "tasks": [
-        {
-          "type": "DETECT",
-          "items": [
-            {
-              "item": {
-                "id": "kibe:cursed_droplets",
-                "Count": 16
-              },
-              "required": 16,
-              "precision": "FUZZY"
-            }
-          ]
-        }
-      ],
-      "prerequisites": [],
-      "optionlinks": [],
-      "reward": [
-        {
-          "id": "minecraft:grass_block",
-          "Count": 16
-        }
-      ],
-      "rewardchoice": [],
-      "commandrewards": []
-    },
-    {
       "uuid": "b4c63aa4-7c3a-4f66-ac13-404ede18fa3e",
       "name": "TANKS A LOT!",
       "description": "Pretty important piece to store liquids in, especially xp.",
@@ -209,6 +172,43 @@
         },
         {
           "id": "minecraft:ender_pearl",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8e17d55f-4782-49a2-88e8-2448fdfc3371",
+      "name": "Cursed Life",
+      "description": "Collect a stack of cursed droplets",
+      "x": 177,
+      "y": 12,
+      "bigicon": true,
+      "icon": {
+        "id": "kibe:cursed_droplets",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "kibe:cursed_droplets",
+                "Count": 16
+              },
+              "required": 16,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:grass_block",
           "Count": 16
         }
       ],

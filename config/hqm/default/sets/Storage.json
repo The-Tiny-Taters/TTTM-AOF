@@ -189,6 +189,44 @@
       "commandrewards": []
     },
     {
+      "uuid": "3d2b240a-c966-47d8-9075-7111ab10c2a1",
+      "name": "Danky MK3",
+      "description": "Craft a Dank 3",
+      "x": 240,
+      "y": 18,
+      "icon": {
+        "id": "dankstorage:dank_3",
+        "Count": 1,
+        "tag": {}
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "dankstorage:dank_3",
+                "Count": 1
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "503b0027-369c-4621-aeef-790572969070"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:yellow_dye",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
       "uuid": "95e63a36-1013-4ada-b339-6e3e1cb1cfe5",
       "name": "Backpack V",
       "description": "Craft a Blazing Backpack",
@@ -602,44 +640,6 @@
         {
           "id": "minecraft:diamond",
           "Count": 4
-        }
-      ],
-      "rewardchoice": [],
-      "commandrewards": []
-    },
-    {
-      "uuid": "3d2b240a-c966-47d8-9075-7111ab10c2a1",
-      "name": "Danky MK3",
-      "description": "Craft a Dank 3",
-      "x": 240,
-      "y": 18,
-      "icon": {
-        "id": "dankstorage:dank_3",
-        "Count": 1,
-        "tag": {}
-      },
-      "tasks": [
-        {
-          "type": "CRAFT",
-          "items": [
-            {
-              "item": {
-                "id": "dankstorage:dank_3",
-                "Count": 1
-              },
-              "precision": "FUZZY"
-            }
-          ]
-        }
-      ],
-      "prerequisites": [
-        "503b0027-369c-4621-aeef-790572969070"
-      ],
-      "optionlinks": [],
-      "reward": [
-        {
-          "id": "minecraft:yellow_dye",
-          "Count": 16
         }
       ],
       "rewardchoice": [],

@@ -139,13 +139,13 @@
       "commandrewards": []
     },
     {
-      "uuid": "299e25f8-1a96-4d64-86fe-ac0b8fa09403",
-      "name": "Power lanes v4",
-      "description": "more power",
-      "x": 110,
+      "uuid": "f79ca5d0-6b92-403c-915f-4c035e345808",
+      "name": "Power lanes v2",
+      "description": "More power... same type of cable?",
+      "x": 54,
       "y": 126,
       "icon": {
-        "id": "indrev:cable_mk4",
+        "id": "indrev:cable_mk2",
         "Count": 1
       },
       "tasks": [
@@ -154,7 +154,7 @@
           "items": [
             {
               "item": {
-                "id": "indrev:cable_mk4",
+                "id": "indrev:cable_mk2",
                 "Count": 1
               },
               "precision": "FUZZY"
@@ -163,17 +163,110 @@
         }
       ],
       "prerequisites": [
-        "de9bff0d-5152-437b-8a83-61a61d65bf9d"
+        "e0ed1ebd-5517-46ee-99c0-06e3d9fa5ae7"
       ],
       "optionlinks": [],
       "reward": [
         {
-          "id": "indrev:nikolite_ingot",
-          "Count": 16
+          "id": "indrev:nikolite_dust",
+          "Count": 32
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d3e71adf-c975-42f7-852e-005efde8e860",
+      "name": "Drill and repeat",
+      "description": "use this drill to mine a larger area in a less amount of time.",
+      "x": 111,
+      "y": 166,
+      "icon": {
+        "id": "indrev:mining_drill_mk2",
+        "Count": 1,
+        "tag": {
+          "Damage": 8000
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:mining_drill_mk2",
+                "Count": 1,
+                "tag": {
+                  "Damage": 8000
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8bbf2240-1f04-4ce9-b24a-f5edf69eec0d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "techreborn:gold_plate",
+          "Count": 4
         },
         {
           "id": "croptopia:cheeseburger",
-          "Count": 2
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2ad40462-977f-49c4-a356-b3c18fa4ca7c",
+      "name": "Charge it up",
+      "description": "take this, connect it to power, stand on it with an item to charge.. and poof it starts charging!",
+      "x": 239,
+      "y": 60,
+      "icon": {
+        "id": "indrev:charge_pad_mk4",
+        "Count": 1,
+        "tag": {
+          "energy": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "indrev:charge_pad_mk4",
+                "Count": 1,
+                "tag": {
+                  "energy": 0
+                }
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6dfcff79-3321-43b0-900d-d2fee6887800"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:redstone_torch",
+          "Count": 12
+        },
+        {
+          "id": "indrev:battery",
+          "Count": 2,
+          "tag": {
+            "Damage": 0
+          }
         }
       ],
       "rewardchoice": [],
@@ -221,110 +314,13 @@
       "commandrewards": []
     },
     {
-      "uuid": "2ad40462-977f-49c4-a356-b3c18fa4ca7c",
-      "name": "Charge it up",
-      "description": "take this, connect it to power, stand on it with an item to charge.. and poof it starts charging!",
-      "x": 239,
-      "y": 60,
-      "icon": {
-        "id": "indrev:charge_pad_mk4",
-        "Count": 1,
-        "tag": {
-          "energy": 0
-        }
-      },
-      "tasks": [
-        {
-          "type": "CRAFT",
-          "items": [
-            {
-              "item": {
-                "id": "indrev:charge_pad_mk4",
-                "Count": 1,
-                "tag": {
-                  "energy": 0
-                }
-              },
-              "precision": "FUZZY"
-            }
-          ]
-        }
-      ],
-      "prerequisites": [
-        "6dfcff79-3321-43b0-900d-d2fee6887800"
-      ],
-      "optionlinks": [],
-      "reward": [
-        {
-          "id": "minecraft:redstone_torch",
-          "Count": 12
-        },
-        {
-          "id": "indrev:battery",
-          "Count": 4,
-          "tag": {
-            "Damage": 0
-          }
-        }
-      ],
-      "rewardchoice": [],
-      "commandrewards": []
-    },
-    {
-      "uuid": "d3e71adf-c975-42f7-852e-005efde8e860",
-      "name": "Drill and repeat",
-      "description": "use this drill to mine a larger area in a less amount of time.",
-      "x": 111,
-      "y": 166,
-      "icon": {
-        "id": "indrev:mining_drill_mk2",
-        "Count": 1,
-        "tag": {
-          "Damage": 8000
-        }
-      },
-      "tasks": [
-        {
-          "type": "CRAFT",
-          "items": [
-            {
-              "item": {
-                "id": "indrev:mining_drill_mk2",
-                "Count": 1,
-                "tag": {
-                  "Damage": 8000
-                }
-              },
-              "precision": "FUZZY"
-            }
-          ]
-        }
-      ],
-      "prerequisites": [
-        "8bbf2240-1f04-4ce9-b24a-f5edf69eec0d"
-      ],
-      "optionlinks": [],
-      "reward": [
-        {
-          "id": "indrev:gold_plate",
-          "Count": 4
-        },
-        {
-          "id": "croptopia:cheeseburger",
-          "Count": 4
-        }
-      ],
-      "rewardchoice": [],
-      "commandrewards": []
-    },
-    {
-      "uuid": "f79ca5d0-6b92-403c-915f-4c035e345808",
-      "name": "Power lanes v2",
-      "description": "More power... same type of cable?",
-      "x": 54,
+      "uuid": "299e25f8-1a96-4d64-86fe-ac0b8fa09403",
+      "name": "Power lanes v4",
+      "description": "more power",
+      "x": 110,
       "y": 126,
       "icon": {
-        "id": "indrev:cable_mk2",
+        "id": "indrev:cable_mk4",
         "Count": 1
       },
       "tasks": [
@@ -333,7 +329,7 @@
           "items": [
             {
               "item": {
-                "id": "indrev:cable_mk2",
+                "id": "indrev:cable_mk4",
                 "Count": 1
               },
               "precision": "FUZZY"
@@ -342,13 +338,17 @@
         }
       ],
       "prerequisites": [
-        "e0ed1ebd-5517-46ee-99c0-06e3d9fa5ae7"
+        "de9bff0d-5152-437b-8a83-61a61d65bf9d"
       ],
       "optionlinks": [],
       "reward": [
         {
-          "id": "indrev:nikolite_dust",
-          "Count": 32
+          "id": "indrev:nikolite_ingot",
+          "Count": 16
+        },
+        {
+          "id": "croptopia:cheeseburger",
+          "Count": 2
         }
       ],
       "rewardchoice": [],
@@ -775,7 +775,7 @@
       "optionlinks": [],
       "reward": [
         {
-          "id": "indrev:iron_plate",
+          "id": "techreborn:iron_plate",
           "Count": 2
         }
       ],
@@ -1600,7 +1600,7 @@
       "reward": [
         {
           "id": "indrev:battery",
-          "Count": 4,
+          "Count": 2,
           "tag": {
             "Damage": 0
           }
@@ -1650,7 +1650,7 @@
       "reward": [
         {
           "id": "indrev:machine_block",
-          "Count": 4
+          "Count": 1
         }
       ],
       "rewardchoice": [],
@@ -1770,7 +1770,7 @@
       "reward": [
         {
           "id": "indrev:machine_block",
-          "Count": 2
+          "Count": 1
         }
       ],
       "rewardchoice": [],
@@ -1904,8 +1904,8 @@
       "optionlinks": [],
       "reward": [
         {
-          "id": "indrev:iron_plate",
-          "Count": 1
+          "id": "techreborn:iron_plate",
+          "Count": 2
         }
       ],
       "rewardchoice": [],
