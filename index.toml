@@ -3216,6 +3216,11 @@ hash = "55271417d2b8b06d9b75477c78017c7a832f5eb32d4e364c2b6b8daa51f6bd03"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions.toml"
+hash = "70dcdaaed450532f58b62c06bcd8327b68bf1b9d6a108f817df16052694a4704"
+metafile = true
+
+[[files]]
 file = "mods/fabric-survival-island.toml"
 hash = "74728c88f25651db4c48db49c24ad3b25fff42a4e4d5eb831bc01a3be09f6be1"
 metafile = true
