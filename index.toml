@@ -3207,7 +3207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "6adaefc0a811c66067210409334dee17f2e68320878e785854d85d9985fb6c4f"
+hash = "44490bdf3fd314096dd5063d028e448b40226b4063630ad9f9fc7e64e3762ca2"
 metafile = true
 
 [[files]]
@@ -3232,7 +3232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-zones.toml"
-hash = "0776f998b3391f5fce055fd9af2a92a00c385a44401dfa36bbce4919f85c1466"
+hash = "e295a25e0e8aa372a09fad0d7b199db40d45c0efac5e716d6b511711ebc325f0"
 metafile = true
 
 [[files]]

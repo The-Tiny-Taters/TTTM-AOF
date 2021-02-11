@@ -1,6 +1,6 @@
 name = "Fabric Zones"
 filename = "fabric-zones-0.0.0-1.16.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://spaceclouds42.github.io/FabricZones/builds/1.16.5/fabric-zones-0.0.0-1.16.5.jar"
