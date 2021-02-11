@@ -14,5 +14,5 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Enderporter | KnowYourKnot | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Gift It | Siphalor | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
 | Through the looking glass | azazelthedemonlord | TBC | TBC | TBC |
-
+| FabricZones | SpaceClouds42 | TBC | TBC | TBC |
 
