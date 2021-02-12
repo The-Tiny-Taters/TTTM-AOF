@@ -1,0 +1,9 @@
+name = "Fabric Zones"
+filename = "fabric-zones-0.0.0-1.16.5.jar"
+side = "server"
+
+[download]
+url = "https://spaceclouds42.github.io/FabricZones/builds/1.16.5/fabric-zones-0.0.0-1.16.5.jar"
+hash-format = "sha256"
+hash = "765A4F91B06EC230C6BB371600F03EF28303FAFE5E338AE7D95111235ADD3196"
+
