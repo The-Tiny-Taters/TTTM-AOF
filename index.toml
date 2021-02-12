@@ -3206,18 +3206,8 @@ hash = "2b6985660ed8baabaf006f859ec0c4bd0ede58ebb3b656b9630df97132b5caff"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.toml"
-hash = "44490bdf3fd314096dd5063d028e448b40226b4063630ad9f9fc7e64e3762ca2"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-scala.toml"
 hash = "55271417d2b8b06d9b75477c78017c7a832f5eb32d4e364c2b6b8daa51f6bd03"
-metafile = true
-
-[[files]]
-file = "mods/fabric-permissions.toml"
-hash = "70dcdaaed450532f58b62c06bcd8327b68bf1b9d6a108f817df16052694a4704"
 metafile = true
 
 [[files]]
@@ -3228,11 +3218,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.toml"
 hash = "1530530736dbd35d0c9a9d0acb2489cdeec30a7d4a2faa0ea04a1abd0a6ca071"
-metafile = true
-
-[[files]]
-file = "mods/fabric-zones.toml"
-hash = "e295a25e0e8aa372a09fad0d7b199db40d45c0efac5e716d6b511711ebc325f0"
 metafile = true
 
 [[files]]
