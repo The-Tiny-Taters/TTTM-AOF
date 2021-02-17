@@ -1,14 +1,8 @@
-name = "Villager Hats"
-filename = "villager-hats-fabric-1.16.4-1.0.1.jar"
-side = "both"
+name = "Indium"
+filename = "indium.jar"
+side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3101/172/villager-hats-fabric-1.16.4-1.0.1.jar"
-hash-format = "murmur2"
-hash = "2099123309"
-
-[update]
-[update.curseforge]
-file-id = 3101172
-project-id = 334248
-release-channel = "beta"
+url = "https://github.com/The-Tiny-Taters/TTTM-AOF/blob/main/mods/jars/indium.jar"
+hash-format = "sha256"
+hash = "89927E2B17562AC207F76D38DDB9FA9ADF0FC47BB088B64B2B07680688260274"

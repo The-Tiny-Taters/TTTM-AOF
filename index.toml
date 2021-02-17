@@ -3341,6 +3341,11 @@ hash = "07ac50827f79f963da74e9caf60c0431f00255b96f315804a444b347e5f851d5"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "9737b46d52be06526d8b330681440ce46c3df568ce65a07fcc5a2b574e235c2d"
+metafile = true
+
+[[files]]
 file = "mods/industrial-revolution.toml"
 hash = "f22bb026523c7720f1fa4e7d2678302e1dd601d797f49544f1b40d59c2b6debf"
 metafile = true
@@ -3593,6 +3598,11 @@ metafile = true
 [[files]]
 file = "mods/smoother-bedrock.toml"
 hash = "104857723161702254968af881981e3d6bfca6b46c3a816c71271daf053d05df"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "fa69557d1399821a76906d176ce2395230b37c0f9a0bb59c1f7d9aca20bcd6d5"
 metafile = true
 
 [[files]]
