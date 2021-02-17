@@ -1,0 +1,14 @@
+name = "Villager Hats"
+filename = "villager-hats-fabric-1.16.4-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3101/172/villager-hats-fabric-1.16.4-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2099123309"
+
+[update]
+[update.curseforge]
+file-id = 3101172
+project-id = 334248
+release-channel = "beta"
