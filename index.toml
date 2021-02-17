@@ -3342,7 +3342,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "ad88e86f9826d8d9b562e00a9d8d6ed0e8c3a621f8d4f32db8515eaca1436f8d"
+hash = "a26234f77b223145a1fc98416a49d6ce1e7a9f2793788604a9103abb5e19506c"
 metafile = true
 
 [[files]]
