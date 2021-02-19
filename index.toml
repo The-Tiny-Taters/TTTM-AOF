@@ -3695,6 +3695,11 @@ hash = "702bfe08f863681ac7d921b58acb31aa2e9a79ce35ac75354e0d0d6b0780461f"
 metafile = true
 
 [[files]]
+file = "mods/through-the-looking-glass.toml"
+hash = "031411e9bfc569fd0b9f423142cf22fe84599054618e99bc638d9e5225925971"
+metafile = true
+
+[[files]]
 file = "mods/tis-3d-additions.toml"
 hash = "a59f71e82e605d680ff752da25e5f6164584fa6cccdf227e1130969339e9d3ab"
 metafile = true
