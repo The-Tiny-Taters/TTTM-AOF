@@ -3516,7 +3516,7 @@ metafile = true
 
 [[files]]
 file = "mods/now-playing.toml"
-hash = "6aeea4873fdd044142114d2a57d3b7c322d976068176b304d20047ba3216de79"
+hash = "df37ce8bb504facf809bd49ab2bee35ce514626fa492f6c18f4c0a86c17b608f"
 metafile = true
 
 [[files]]
