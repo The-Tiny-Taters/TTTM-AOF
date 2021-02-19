@@ -3270,6 +3270,11 @@ hash = "1530530736dbd35d0c9a9d0acb2489cdeec30a7d4a2faa0ea04a1abd0a6ca071"
 metafile = true
 
 [[files]]
+file = "mods/fabric-zones.toml"
+hash = "e9e81e8fdf86433e8479cfea3c24fb7cccedd919b98f2ee4727ecc3aaf6526ed"
+metafile = true
+
+[[files]]
 file = "mods/fabrictpa.toml"
 hash = "723f6d9bdd1f26f649c513d113635b01937afe5b51f8c1ef7063ae3bd58ec24f"
 metafile = true
