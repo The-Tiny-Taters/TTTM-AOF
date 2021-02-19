@@ -9,7 +9,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Mod name | Author | Source | side | url |
 | --- | --- | --- | --- | --- |
 | Bits and chisels | CoolMineman (ThatTrollzer) | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels) |
-| Through the looking glass | azazelthedemonlord | Github | client & server | [link](https://github.com/Dragonoidzero/Through-the-Looking-Glass) |
+| ~~Through the looking glass~~ | ~~azazelthedemonlord~~ | ~~Github~~ | ~~client & server~~ | ~~[link](https://github.com/Dragonoidzero/Through-the-Looking-Glass)~~ |
 | World border fixer | Potatoboy9999 | Curse | server | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Enderporter | KnowYourKnot | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Gift It | Siphalor | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
