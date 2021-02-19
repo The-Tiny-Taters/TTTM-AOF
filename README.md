@@ -14,7 +14,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Enderporter | KnowYourKnot | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Gift It | Siphalor | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
 | Now Playing | AppleTheGold | Curse | client | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
-| ~~FabricZones~~ | ~~SpaceClouds42~~ | ~~Website~~ | ~~client & server~~ | ~~[link](https://spaceclouds42.github.io/FabricZones/releases.html)~~ |
+| FabricZones | SpaceClouds42 | Website | server | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~server~~ | ~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
 * Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
