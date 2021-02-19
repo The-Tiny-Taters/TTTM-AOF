@@ -13,6 +13,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | World border fixer | Potatoboy9999 | Curse | server | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Enderporter | KnowYourKnot | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Gift It | Siphalor | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
+| Now Playing | AppleTheGold | Curse | client | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
 | ~~FabricZones~~ | ~~SpaceClouds42~~ | ~~Website~~ | ~~client & server~~ | ~~[link](https://spaceclouds42.github.io/FabricZones/releases.html)~~ |
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~server~~ | ~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
