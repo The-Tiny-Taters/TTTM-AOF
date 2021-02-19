@@ -1,14 +1,14 @@
 name = "Quick Shulker"
-filename = "quickshulker-1.1.12-1.16.jar"
+filename = "quickshulker-1.1.14-1.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3181/648/quickshulker-1.1.12-1.16.jar"
+url = "https://edge.forgecdn.net/files/3209/365/quickshulker-1.1.14-1.16.jar"
 hash-format = "murmur2"
-hash = "281515491"
+hash = "1522011840"
 
 [update]
 [update.curseforge]
-file-id = 3181648
+file-id = 3209365
 project-id = 362669
 release-channel = "beta"

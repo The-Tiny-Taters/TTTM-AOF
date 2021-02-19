@@ -1,14 +1,14 @@
 name = "megane"
-filename = "megane-3.1.2+1.16.4.jar"
+filename = "megane-3.1.3+1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3158/134/megane-3.1.2+1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3208/126/megane-3.1.3+1.16.5.jar"
 hash-format = "murmur2"
-hash = "1743218249"
+hash = "3654603894"
 
 [update]
 [update.curseforge]
-file-id = 3158134
+file-id = 3208126
 project-id = 408118
 release-channel = "beta"

@@ -58,6 +58,18 @@
 		"gofish:aquatic_astral_stew",
 		"gofish:baked_endfish",
 		"gofish:nebula_swordfish",
-		"gofish:grilled_blackstone_deluxe"
+		"gofish:grilled_blackstone_deluxe",
+		"croptopia:roasted_nuts",
+		"croptopia:trail_mix",
+		"croptopia:doughnut",
+		"croptopia:leek_soup",
+		"croptopia:oatmeal",
+		"croptopia:protein_bar",
+		"croptopia:nougat",
+		"croptopia:cashew_chicken",
+		"croptopia:pecan_ice_cream",
+		"croptopia:candied_nuts",
+		"croptopia:nutty_cookie"
+
 	]
 }

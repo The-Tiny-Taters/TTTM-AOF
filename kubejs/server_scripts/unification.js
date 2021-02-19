@@ -1,11 +1,22 @@
- ////////////////////////
+////////////////////////
 /// Made by Team AOF ///
 ////////////////////////
 
 events.listen("recipes", function (event) {
   // --------- INDUSTRIAL REVOLUTION --------- //
 
-  var indrev_materials = ["copper", "gold", "iron", "tin", "steel"];
+  var indrev_materials = [
+    "copper",
+    "gold",
+    "iron",
+    "tin",
+    "steel",
+    "silver",
+    "lead",
+    "electrum",
+    "bronze",
+    "tungsten",
+  ];
 
   var indrev_dusts = [
     "copper",
@@ -15,11 +26,25 @@ events.listen("recipes", function (event) {
     "steel",
     "diamond",
     "coal",
+    "silver",
+    "lead",
+    "electrum",
+    "bronze",
+    "tungsten",
   ];
 
-  var indrev_metals = ["copper", "tin", "steel"];
+  var indrev_metals = [
+    "copper",
+    "tin",
+    "steel",
+    "lead",
+    "silver",
+    "electrum",
+    "bronze",
+    "tungsten",
+  ];
 
-  var indrev_ores = ["copper", "tin"];
+  var indrev_ores = ["copper", "tin", "lead", "silver", "tungsten"];
 
   // Plates
   indrev_materials.forEach(function (item, index) {
@@ -48,11 +73,7 @@ events.listen("recipes", function (event) {
     );
   });
 
-  event.replaceOutput(
-    {},
-    "indrev:sawdust",
-    "techreborn:saw_dust"
-  );
+  event.replaceOutput({}, "indrev:sawdust", "techreborn:saw_dust");
 
   // Ingots
   indrev_metals.forEach(function (item, index) {
@@ -202,15 +223,15 @@ events.listen("recipes", function (event) {
     );
 
     // Blocks
-      event.replaceInput(
-        {},
-        "modern_industrialization:" + item + "_block",
-        "techreborn:" + item + "_storage_block"
-      );
+    event.replaceInput(
+      {},
+      "modern_industrialization:" + item + "_block",
+      "techreborn:" + item + "_storage_block"
+    );
   });
 
-    // Nuggets
-    modern_nuggets.forEach(function (item, index) {
+  // Nuggets
+  modern_nuggets.forEach(function (item, index) {
     event.replaceOutput(
       {},
       "modern_industrialization:" + item + "_nugget",
@@ -369,6 +390,7 @@ events.listen("recipes", function (event) {
     "copper",
     "aluminum",
     "lead",
+    "tungsten",
     "tin",
     "silver",
     "steel",
@@ -378,7 +400,7 @@ events.listen("recipes", function (event) {
     "chrome",
   ];
 
-  var rei_ores = ["tin", "copper", "lead", "bauxite", "silver", "salt"];
+  var rei_ores = ["tin", "copper", "lead", "bauxite", "silver", "salt", "tungsten"];
 
   // REI Dusts
   rei_dusts.forEach(function (item, index) {
@@ -389,11 +411,7 @@ events.listen("recipes", function (event) {
     );
   });
 
-  event.replaceInput(
-    {},
-    "indrev:sawdust",
-    "techreborn:saw_dust"
-  );
+  event.replaceInput({}, "indrev:sawdust", "techreborn:saw_dust");
 
   // REI Plates
   rei_materials.forEach(function (item, index) {
@@ -407,15 +425,7 @@ events.listen("recipes", function (event) {
   // REI Ores
   rei_ores.forEach(function (item, index) {
     event.replaceInput(
-      { id: "techreborn:smelting/" + item + "_ingot" },
-      "#c:" + item + "_ores",
-      "techreborn:" + item + "_ore"
-    );
-  });
-
-  rei_ores.forEach(function (item, index) {
-    event.replaceInput(
-      { id: "techreborn:blasting/" + item + "_ingot" },
+      {},
       "#c:" + item + "_ores",
       "techreborn:" + item + "_ore"
     );
@@ -448,9 +458,5 @@ events.listen("recipes", function (event) {
     );
   });
 
-  event.replaceInput(
-    {},
-    "minecraft:quartz",
-    "#c:quartz"
-  );
+  event.replaceInput({}, "minecraft:quartz", "#c:quartz");
 });

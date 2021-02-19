@@ -24,7 +24,7 @@
     "maxOutput": 4096.0
   },
   "biomassGenerator": {
-    "ratio": 64.0,
+    "ratio": 128.0,
     "temperatureBoost": 1.5,
     "maxEnergyStored": 20000.0,
     "maxOutput": 512.0

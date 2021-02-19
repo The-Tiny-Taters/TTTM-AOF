@@ -95,6 +95,21 @@ events.listen("recipes", function (event) {
       ["iron-jetpacks:diamond_capacitor",            "modern_industrialization:tank_stainless_steel", "iron-jetpacks:diamond_capacitor"],
     ]);
 
+      //Gem Tools & Gear
+  var gems = [
+    "ruby",
+    "sapphire",
+    "peridot",
+  ];
+
+  gems.forEach(function (item, index) {
+    event.remove({ output: "techreborn:" + item + "_pickaxe"});
+    event.remove({ output: "techreborn:" + item + "_spade"});
+    event.remove({ output: "techreborn:" + item + "_axe"});
+    event.remove({ output: "techreborn:" + item + "_hoe"});
+    event.remove({ output: "techreborn:" + item + "_sword"});
+  });
+
     // Minecart in Rolling Machine
     event.remove({ id: "techreborn:rolling_machine/minecart" });
 

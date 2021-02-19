@@ -1,0 +1,14 @@
+name = "Lightstones"
+filename = "lightstones-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3185/573/lightstones-1.3.0.jar"
+hash-format = "murmur2"
+hash = "537920560"
+
+[update]
+[update.curseforge]
+file-id = 3185573
+project-id = 368263
+release-channel = "beta"

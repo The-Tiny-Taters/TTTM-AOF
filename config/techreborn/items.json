@@ -148,6 +148,10 @@
       "comment": "Energy Capacity for Lapotron Crystal",
       "value": 10000000
     },
+    "quantumSuitDamageAbsorbCost": {
+      "comment": "Quantum Suit Cost for Damage Absorbed",
+      "value": 10.0
+    },
     "quantumSuitSwimmingCost": {
       "comment": "Quantum Suit Swimming Cost",
       "value": 20.0

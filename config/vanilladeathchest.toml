@@ -6,14 +6,14 @@
 	# If this is enabled, the container is consumed if it is found.
 	# Default: false
 	useContainerInInventory = false
-	# Whether to force place a death chest at the location of a player's death if no viable locations are found.
-	# Default: true
-	forcePlaceIfLocationNotFound = true
 	# The death chest location search radius.
 	# Min: 1
 	# Max: 2147483647
 	# Default: 8
 	locationSearchRadius = 8
+	# Whether to force place a death chest at the location of a player's death if no viable locations are found.
+	# Default: true
+	forcePlaceIfLocationNotFound = true
 	# Whether death chests can only spawn on solid blocks.
 	# Default: false
 	mustBeOnSolidBlocks = false

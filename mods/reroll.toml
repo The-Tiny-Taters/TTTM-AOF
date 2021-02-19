@@ -1,14 +1,14 @@
 name = "Reroll"
-filename = "reroll-1.1.0-1.16.4.jar"
+filename = "reroll-1.2.0-1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3162/702/reroll-1.1.0-1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3194/57/reroll-1.2.0-1.16.5.jar"
 hash-format = "murmur2"
-hash = "2268118768"
+hash = "4237123400"
 
 [update]
 [update.curseforge]
-file-id = 3162702
+file-id = 3194057
 project-id = 401753
 release-channel = "beta"

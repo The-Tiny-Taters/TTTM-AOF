@@ -1,5 +1,5 @@
 name = "Mouse Wheelie (Fabric)"
-filename = "mousewheelie-1.6.3+mc1.16.4.jar"
+filename = "mousewheelie-1.6.4+mc1.16.4.jar"
 side = "both"
 
 [option]
@@ -8,12 +8,12 @@ description = "Mouse Wheelie allows you to scroll items."
 default = true
 
 [download]
-url = "https://edge.forgecdn.net/files/3174/695/mousewheelie-1.6.3+mc1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3197/990/mousewheelie-1.6.4+mc1.16.4.jar"
 hash-format = "murmur2"
-hash = "2969279430"
+hash = "4038611977"
 
 [update]
 [update.curseforge]
-file-id = 3174695
+file-id = 3197990
 project-id = 317514
 release-channel = "beta"

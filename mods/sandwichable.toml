@@ -1,14 +1,14 @@
 name = "Sandwichable"
-filename = "sandwichable-1.2-beta2--1.16.5.jar"
+filename = "sandwichable-1.2-beta5--1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3184/245/sandwichable-1.2-beta2--1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3206/686/sandwichable-1.2-beta5--1.16.5.jar"
 hash-format = "murmur2"
-hash = "818335467"
+hash = "3275593468"
 
 [update]
 [update.curseforge]
-file-id = 3184245
+file-id = 3206686
 project-id = 374143
 release-channel = "beta"

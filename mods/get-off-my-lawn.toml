@@ -1,14 +1,14 @@
 name = "Get Off My Lawn"
-filename = "get-off-my-lawn-1.16.2-1.2.3-beta.jar"
+filename = "get-off-my-lawn-1.16.4-1.3.2-beta.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3130/618/get-off-my-lawn-1.16.2-1.2.3-beta.jar"
+url = "https://edge.forgecdn.net/files/3208/957/get-off-my-lawn-1.16.4-1.3.2-beta.jar"
 hash-format = "murmur2"
-hash = "1431762612"
+hash = "3820572996"
 
 [update]
 [update.curseforge]
-file-id = 3130618
+file-id = 3208957
 project-id = 365750
 release-channel = "beta"

@@ -4,6 +4,7 @@
 
 events.listen('item.tags', function (event) {
   
+  
   // Salt
   event.get('c:salt_dusts').add('croptopia:salt')
   event.get('c:salt_ores').add('croptopia:salt_ore')
@@ -36,6 +37,17 @@ var be_chests = [
 
 be_chests.forEach(function (item, index) {
   event.get("c:wooden_chests").add("betterend:" + item + "_chest")
+});
+
+// Workbenches
+var workbench = [
+  'byg:nightshade_crafting_table',
+  'byg:bulbis_crafting_table',
+  'byg:ether_crafting_table',
+];
+
+workbench.forEach(function (item, index) {
+  event.get("c:workbench").add(item)
 });
 
  // Barrels

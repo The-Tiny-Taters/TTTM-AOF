@@ -1,14 +1,14 @@
 name = "Terrestria"
-filename = "terrestria-2.1.7.jar"
+filename = "terrestria-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3189/43/terrestria-2.1.7.jar"
+url = "https://edge.forgecdn.net/files/3193/392/terrestria-2.2.0.jar"
 hash-format = "murmur2"
-hash = "2236219755"
+hash = "1437369089"
 
 [update]
 [update.curseforge]
-file-id = 3189043
+file-id = 3193392
 project-id = 323974
 release-channel = "beta"

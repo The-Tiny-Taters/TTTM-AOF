@@ -1,14 +1,14 @@
 name = "Cardinal Components"
-filename = "Cardinal-Components-API-2.7.11.jar"
+filename = "Cardinal-Components-API-2.7.12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3197/462/Cardinal-Components-API-2.7.11.jar"
+url = "https://edge.forgecdn.net/files/3204/874/Cardinal-Components-API-2.7.12.jar"
 hash-format = "murmur2"
-hash = "2559413277"
+hash = "2268938868"
 
 [update]
 [update.curseforge]
-file-id = 3197462
+file-id = 3204874
 project-id = 318449
 release-channel = "beta"
