@@ -6,17 +6,18 @@ The Tiny Tater Test modpack using packwiz built on-top of All of fabric 3
 Permission has been obtained to use All of fabric 3 as a base for this modpack, please continue to comply with the licensing requirements for All of fabric 3 (Creative Commons Attribution-NoDerivatives 4.0 International Public). You should not share with others outside the community unless only for private use.
 
 ## Additional mods
-| Mod name | Author | Source | side | url |
-| --- | --- | --- | --- | --- |
-| Bits and chisels | CoolMineman (ThatTrollzer) | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels) |
-| Through the looking glass | azazelthedemonlord | Github | client & server | [link](https://github.com/Dragonoidzero/Through-the-Looking-Glass) |
-| World border fixer | Potatoboy9999 | Curse | server | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
-| Enderporter | KnowYourKnot | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
-| Gift It | Siphalor | Curse | client & server | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
-| Now Playing | AppleTheGold | Curse | client | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
-| FabricZones | SpaceClouds42 | Website | server | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
-| ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~server~~ | ~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
+| Mod name | Author | Source | side | dependencies | url |
+| --- | --- | --- | --- | --- | --- |
+| Bits and chisels | CoolMineman (ThatTrollzer) | Curse | client & server | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels) |
+| Through the looking glass | azazelthedemonlord | Github | client & server | N/A | [link](https://github.com/Dragonoidzero/Through-the-Looking-Glass) |
+| World border fixer | Potatoboy9999 | Curse | server | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
+| Enderporter | KnowYourKnot | Curse | client & server | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
+| Gift It | Siphalor | Curse | client & server | N/A |[link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
+| Now Playing | AppleTheGold | Curse | client | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
+| FabricZones | SpaceClouds42 | Website | server | LuckPerms, fabric permissions api | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
+| ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~server~~ | ~~N/A (I think)~~ |~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
-* Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
+* Dependencies that are included into a 'fat' jar or are not included, same goes for any of the fabric-api modules
+** Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
 
 
