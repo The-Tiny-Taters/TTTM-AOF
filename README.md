@@ -14,10 +14,11 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Enderporter | KnowYourKnot | Curse | client & server | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Gift It | Siphalor | Curse | client & server | N/A |[link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
 | Now Playing | AppleTheGold | Curse | client | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
-| FabricZones | SpaceClouds42 | Website | server | LuckPerms, fabric permissions api | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
+| FabricZones | SpaceClouds42 | Website | server | LuckPerms, fabric perms api | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~server~~ | ~~N/A (I think)~~ |~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
 * Dependencies that are included into a 'fat' jar or are not included, same goes for any of the fabric-api modules
-** Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
+  
+* Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
 
 
