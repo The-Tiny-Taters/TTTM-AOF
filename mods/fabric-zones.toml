@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://spaceclouds42.github.io/FabricZones/builds/1.16.5/fabric-zones-0.0.0-1.16.5.jar"
 hash-format = "sha256"
-hash = "6A60EC41EE524EB9CB6BADD8D0124BB1D33185D99F19A30E8C6835872A3A43B2"
+hash = "8234081EEBEB4BF232D537182093B78C719E3B77D4D82DA921A6AF95AD79A1BF"

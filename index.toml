@@ -3276,7 +3276,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-zones.toml"
-hash = "e9e81e8fdf86433e8479cfea3c24fb7cccedd919b98f2ee4727ecc3aaf6526ed"
+hash = "9705f80d2f5e5fedc3cf9393846b1dc5f9cce29e14d5f2a12f5da8e969cba848"
 metafile = true
 
 [[files]]
