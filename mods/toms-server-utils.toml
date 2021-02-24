@@ -1,0 +1,13 @@
+name = "TomsServerUtils"
+filename = "TomsServerTools-v0.2.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ul4zTWk4/versions/v0.2.4/TomsServerTools-v0.2.4.jar"
+hash-format = "sha512"
+hash = "a0459e5ff26049f6b2da87e21b9274b4625dc1eeee188b7c2ae39fdbde237f2452ffc8c5398f8000ce398e9bfae94ea70b6a889d4cc7c4e188c861d133ce94da"
+
+[update]
+[update.modrinth]
+mod-id = "ul4zTWk4"
+version = "5SXKxpeW"

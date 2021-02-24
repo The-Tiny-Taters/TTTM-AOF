@@ -1,8 +1,0 @@
-name = "[Fabric] Enderporter"
-filename = "enderporter-1.16.5-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/KnowYourKnot/Enderporter/releases/download/v1.0.0/enderporter-1.16.5-1.0.0.jar"
-hash-format = "sha256"
-hash = "7539506da891560316d2f60d1c8e4a5f4f0d79e526e456f1449c6067be0e58d8"

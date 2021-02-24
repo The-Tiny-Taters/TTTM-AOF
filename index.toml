@@ -2995,6 +2995,11 @@ hash = "c85c950c882ad8f957926dc1f010f0b022a03a31b7390cd1adf79ce35ebd0747"
 metafile = true
 
 [[files]]
+file = "mods/beeangryest.toml"
+hash = "257322d8957f61870b67160eeaae58ca618a242c49b67fe11c91a8561d86febc"
+metafile = true
+
+[[files]]
 file = "mods/betterend.toml"
 hash = "477acdb3c5b24bbfb9bbc1c446d237c353e5b600996138b2a6e350b1b8e9fb06"
 metafile = true
@@ -3207,11 +3212,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.toml"
 hash = "7c7e044e6512aafa21af0118248e19704c523a818529bde5905f1880fffb9705"
-metafile = true
-
-[[files]]
-file = "mods/enderporter-fabric.toml"
-hash = "a94aa76ecbd519b66ca3b7690e0c786ebd78c2d1f823717f67beba8ff0777054"
 metafile = true
 
 [[files]]
@@ -3435,6 +3435,11 @@ hash = "f8b7c73aee6f5011cf7b7b8ef265e46481397c503a5750c86191a9aa4b72594f"
 metafile = true
 
 [[files]]
+file = "mods/knowyourknot-enderporter.toml"
+hash = "ef7d97d6ebafe8b13ff2f3b4bca338cd75cfb08da27fc95c674e482a47e845a9"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-fabric.toml"
 hash = "13825eaaec03722456ca6dbfd4f010f61735b301cdb192db62e9d34087136ff0"
 metafile = true
@@ -3442,6 +3447,11 @@ metafile = true
 [[files]]
 file = "mods/lapis-reserve.toml"
 hash = "f0d3abd0860c1aa855405fb1576b62886265b4b48d6e41ddc70bf016a87934b2"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
@@ -3711,7 +3721,7 @@ metafile = true
 
 [[files]]
 file = "mods/through-the-looking-glass.toml"
-hash = "031411e9bfc569fd0b9f423142cf22fe84599054618e99bc638d9e5225925971"
+hash = "4183d9d6e39262a6750413c79633ff7122b48d6b1f6247d49128a6e9e55aaab2"
 metafile = true
 
 [[files]]
@@ -3722,6 +3732,11 @@ metafile = true
 [[files]]
 file = "mods/tis-3d.toml"
 hash = "010684b33df4e75c2825cd192aed822c4508a242a3cef524195a88e5f998a7d9"
+metafile = true
+
+[[files]]
+file = "mods/toms-server-utils.toml"
+hash = "ce46a28aee3fb4ebefe052c0195bb3757274e33ec5dbb936bf1c54975e9660e0"
 metafile = true
 
 [[files]]
