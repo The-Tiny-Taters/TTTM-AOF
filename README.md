@@ -13,6 +13,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | World border fixer | Potatoboy9999 | Curse | server | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Enderporter | KnowYourKnot | Curse | client & server | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Gift It | Siphalor | Curse | client & server | N/A |[link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
+| Bouncy Life | Siphalor | Modrinth | client & server | N/A | [link](https://modrinth.com/mod/bouncy-life) |
 | Now Playing | AppleTheGold | Curse | client | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
 | FabricZones | SpaceClouds42 | Website | server | LuckPerms, fabric perms api | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
 | TomsServerUtils | Tom_The_Geek | Modrinth | server | N/A | [link](https://modrinth.com/mod/toms-server-utils) |
