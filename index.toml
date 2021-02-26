@@ -3721,7 +3721,7 @@ metafile = true
 
 [[files]]
 file = "mods/territorial.toml"
-hash = "7deee94d3b06d95a250ab7f5213bfded6c9c7cc38155be674fdd036cf834e070"
+hash = "af7c56175d9a3d47086b7230de7449ba56989e745177260eb256c1f1bba5dfc4"
 metafile = true
 
 [[files]]
