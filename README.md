@@ -17,6 +17,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | FabricZones | SpaceClouds42 | Website | server | LuckPerms, fabric perms api | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
 | TomsServerUtils | Tom_The_Geek | Modrinth | server | N/A | [link](https://modrinth.com/mod/toms-server-utils) |
 | BeeAngryest | Juuz | Curse | client & server | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/bee-angry-est) |
+| Territorial | profjb | Github | client & server | N/A | [link](https://github.com/profjb58/Territorial-Base) |
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~server~~ | ~~N/A (I think)~~ |~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
 * Dependencies that are included into a 'fat' jar or are not included, same goes for any of the fabric-api modules
