@@ -3040,6 +3040,11 @@ hash = "27bd62371ca7dbe837dc07d010ffeee5261747502fa4cac90f0816704a03445e"
 metafile = true
 
 [[files]]
+file = "mods/bouncy-life.toml"
+hash = "47bfaab7bbca431093294334fcacd08877bbb8583cf3de0df89720c2a748da9b"
+metafile = true
+
+[[files]]
 file = "mods/campanion.toml"
 hash = "6bae0c2ace65e9062b4db8baecb098b1968b51f5cb0d746151ec24c17a352981"
 metafile = true
