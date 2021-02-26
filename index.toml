@@ -3720,6 +3720,11 @@ hash = "702bfe08f863681ac7d921b58acb31aa2e9a79ce35ac75354e0d0d6b0780461f"
 metafile = true
 
 [[files]]
+file = "mods/territorial.toml"
+hash = "7deee94d3b06d95a250ab7f5213bfded6c9c7cc38155be674fdd036cf834e070"
+metafile = true
+
+[[files]]
 file = "mods/through-the-looking-glass.toml"
 hash = "1d7f611c2af966658818dc7a7eb7ce90ca3fee69103e0ba7e19dc27c7863f281"
 metafile = true
