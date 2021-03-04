@@ -3441,7 +3441,7 @@ metafile = true
 
 [[files]]
 file = "mods/knowyourknot-enderporter.toml"
-hash = "ef7d97d6ebafe8b13ff2f3b4bca338cd75cfb08da27fc95c674e482a47e845a9"
+hash = "5878b4d1256be5ccb9e1eb8b537cb448ccf7ecb3b20aae46dd15d064fa37f40c"
 metafile = true
 
 [[files]]
@@ -3727,6 +3727,11 @@ metafile = true
 [[files]]
 file = "mods/territorial.toml"
 hash = "879cf44c1bafeb8c19c6715e82b6303eb825014acb32bca5d942f916f3b2a808"
+metafile = true
+
+[[files]]
+file = "mods/through-the-looking-glass.toml"
+hash = "ee0daa58c214206b3ecb87f7055cd0c9d61f02c1cd7f7041c43bb2b962906db7"
 metafile = true
 
 [[files]]
