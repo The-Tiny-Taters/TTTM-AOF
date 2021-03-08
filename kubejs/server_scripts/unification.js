@@ -400,7 +400,7 @@ events.listen("recipes", function (event) {
     "chrome",
   ];
 
-  var rei_ores = ["tin", "copper", "lead", "bauxite", "silver", "salt", "tungsten"];
+  var rei_ores = ["tin", "copper", "lead", "bauxite", "silver", "tungsten"];
 
   // REI Dusts
   rei_dusts.forEach(function (item, index) {

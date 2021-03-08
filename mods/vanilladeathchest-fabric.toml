@@ -1,14 +1,14 @@
 name = "VanillaDeathChest (Fabric)"
-filename = "vanilladeathchest-1.16.3-1.11.0.7-fabric.jar"
+filename = "vanilladeathchest-2.0.6-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3065/924/vanilladeathchest-1.16.3-1.11.0.7-fabric.jar"
+url = "https://edge.forgecdn.net/files/3212/566/vanilladeathchest-2.0.6-fabric.jar"
 hash-format = "murmur2"
-hash = "1095885415"
+hash = "3630761979"
 
 [update]
 [update.curseforge]
-file-id = 3065924
+file-id = 3212566
 project-id = 393000
 release-channel = "beta"

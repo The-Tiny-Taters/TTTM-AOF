@@ -1,14 +1,14 @@
 name = "FlytreLib"
-filename = "flytre_lib-0.2.5.jar"
+filename = "flytre_lib-0.2.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3205/449/flytre_lib-0.2.5.jar"
+url = "https://edge.forgecdn.net/files/3214/194/flytre_lib-0.2.7.jar"
 hash-format = "murmur2"
-hash = "2552904071"
+hash = "360132072"
 
 [update]
 [update.curseforge]
-file-id = 3205449
+file-id = 3214194
 project-id = 444498
 release-channel = "beta"

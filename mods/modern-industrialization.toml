@@ -1,14 +1,14 @@
 name = "Modern Industrialization"
-filename = "Modern-Industrialization-0.3.12.jar"
+filename = "Modern-Industrialization-0.3.14.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3186/480/Modern-Industrialization-0.3.12.jar"
+url = "https://edge.forgecdn.net/files/3214/865/Modern-Industrialization-0.3.14.jar"
 hash-format = "murmur2"
-hash = "1641317092"
+hash = "3585118097"
 
 [update]
 [update.curseforge]
-file-id = 3186480
+file-id = 3214865
 project-id = 405388
 release-channel = "beta"

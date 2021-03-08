@@ -1,14 +1,14 @@
 name = "Traverse"
-filename = "traverse-3.3.1.jar"
+filename = "traverse-3.3.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3179/58/traverse-3.3.1.jar"
+url = "https://edge.forgecdn.net/files/3209/771/traverse-3.3.2.jar"
 hash-format = "murmur2"
-hash = "3045912589"
+hash = "3518643330"
 
 [update]
 [update.curseforge]
-file-id = 3179058
+file-id = 3209771
 project-id = 308777
 release-channel = "beta"

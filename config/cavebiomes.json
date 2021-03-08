@@ -1,7 +1,7 @@
 {
   "configVersion": "0.6.1",
   "generateOreCaves": true,
-  "generateFullObsidianCaves": true,
+  "generateFullObsidianCaves": false,
   "generateWebCaves": true,
   "whitelistedDimensions": [
     "minecraft:overworld"

@@ -22,12 +22,16 @@ events.listen('item.tags', function (event) {
   "warped",
 ];
 
-var be_chests = [
+var be_stuff = [
   "mossy_glowshroom",
   "pythadendron",
   "end_lotus",
   "lacugrove",
   "dragon_tree",
+  "tenanea",
+  "helix_tree",
+  "umbrella_tree",
+  "jellyshroom"
 ];
 
   charm_chests.forEach(function (item, index) {
@@ -35,8 +39,9 @@ var be_chests = [
   event.get("c:wooden_chests").add("charm:" + item + "_trapped_chest")
 });
 
-be_chests.forEach(function (item, index) {
+be_stuff.forEach(function (item, index) {
   event.get("c:wooden_chests").add("betterend:" + item + "_chest")
+  event.get("charm:barrels").add("betterend:" + item + "_barrel")
 });
 
 // Workbenches

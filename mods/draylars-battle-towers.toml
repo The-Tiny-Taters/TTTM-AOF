@@ -1,14 +1,14 @@
 name = "Draylar's Battle Towers"
-filename = "battletowers-3.3.2-1.16.4.jar"
+filename = "battletowers-3.3.3-1.16.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3160/836/battletowers-3.3.2-1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3210/181/battletowers-3.3.3-1.16.4.jar"
 hash-format = "murmur2"
-hash = "1577975881"
+hash = "3190279267"
 
 [update]
 [update.curseforge]
-file-id = 3160836
+file-id = 3210181
 project-id = 315386
 release-channel = "beta"
