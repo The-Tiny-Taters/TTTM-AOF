@@ -3746,7 +3746,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-server-utils.toml"
-hash = "ce46a28aee3fb4ebefe052c0195bb3757274e33ec5dbb936bf1c54975e9660e0"
+hash = "a6dc55f25cfbf9754f995952d74d9694bd604f90dac4465a7cc121535c19a7d2"
 metafile = true
 
 [[files]]
