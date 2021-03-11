@@ -13,7 +13,7 @@ key:
 | Mod name | Author | Source | side | dependencies | url |
 | --- | --- | --- | --- | --- | --- |
 | Bits and chisels | CoolMineman (ThatTrollzer) | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels) |
-| ~~Through the looking glass~~ | ~~azazelthedemonlord~~ | ~~Github~~ | ~~C&S~~ | ~~N/A~~ | ~~[link](https://github.com/Dragonoidzero/Through-the-Looking-Glass)~~ |
+| Through the looking glass | azazelthedemonlord | Github | C&S | N/A | [link](https://github.com/Dragonoidzero/Through-the-Looking-Glass) |
 | World border fixer | Potatoboy9999 | Curse | S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Enderporter | KnowYourKnot | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
 | Gift It | Siphalor | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
