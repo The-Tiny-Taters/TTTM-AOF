@@ -3535,6 +3535,11 @@ hash = "3864b5de7c1ea8afaccb95ee351a27e7f5b2dba30b47f385b07b4ff72c1cded4"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "9a754d5a9a2307b4811f3ec51867f3eae452a843273abf294e6f734c77c79ec2"
+metafile = true
+
+[[files]]
 file = "mods/notes-fabric.toml"
 hash = "4c95607a9eb25e4908d3e9022f0fcc2e5b60656bd76e2b665419a58911786036"
 metafile = true
