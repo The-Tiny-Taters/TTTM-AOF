@@ -3350,6 +3350,11 @@ hash = "208deda3e57e2fb84a0e5e9d53b682e534fe4592c07b6c4c9db7396034247644"
 metafile = true
 
 [[files]]
+file = "mods/globalspawn.toml"
+hash = "72c0e27e93c2c54b3b997be11884f2b592cae85176fe89beefec7d06b9e480e9"
+metafile = true
+
+[[files]]
 file = "mods/go-fish.toml"
 hash = "d8386830187d47129066b829961bb827476e2aae457cdcbe49b8566042e9615d"
 metafile = true
@@ -3586,7 +3591,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "ae8f4448f229d5b0e890ac2088c7bfb3661b56c6ff0026336c75f23e51044f7f"
+hash = "ce1b917c8ae9940bfc917a6f64546c4519d042ebdaf6ce1358a6ea969c58ba90"
 metafile = true
 
 [[files]]
@@ -3831,7 +3836,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-border-fix.toml"
-hash = "4768c12c331bd2db2d13da95bf6378355a6952e335d6e22e12e2033e298c3334"
+hash = "8f5abfd3187abdee74dfc914878fe01415825e7ab47e13a3def8a0d27d9b256c"
 metafile = true
 
 [[files]]
