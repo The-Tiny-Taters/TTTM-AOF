@@ -1,0 +1,8 @@
+name = "Underfabric"
+filename = "underfabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Stonewall0210/UnderFabric/releases/download/v1.0.0/underfabric-1.0.0.jar"
+hash-format = "sha256"
+hash = "01465aa8d86dd5b6d21cea4ea5f03b095c646335789e72a2f07b8cb6728db8de"
