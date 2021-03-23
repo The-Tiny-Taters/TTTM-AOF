@@ -3591,7 +3591,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "86b7c48e8c69858c824586a311b562600da905c402d51b1f485594e5b736ad1b"
+hash = "e6bb1a2dd2da12ac3abf0c732520b0016193e2ad11164d1211d98e4847088542"
 metafile = true
 
 [[files]]
@@ -3787,11 +3787,6 @@ metafile = true
 [[files]]
 file = "mods/true-secret-rooms.toml"
 hash = "ada77de4f33de85918802e820091d7ae1a18df1c9cab43f4c78975a48d6710cb"
-metafile = true
-
-[[files]]
-file = "mods/underfabric.toml"
-hash = "c4ec4b7d639aa837c3bddd19577e0380feb1a63d1cbe6ae1327cdc9af0431493"
 metafile = true
 
 [[files]]
