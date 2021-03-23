@@ -1,8 +1,11 @@
 .git/**
 .gitattributes
 .gitignore
+
 LICENSE
 README.md
+
+packwiz
 
 mods/jars/**
 servers.dat
