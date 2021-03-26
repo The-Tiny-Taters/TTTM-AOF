@@ -3760,11 +3760,6 @@ hash = "010684b33df4e75c2825cd192aed822c4508a242a3cef524195a88e5f998a7d9"
 metafile = true
 
 [[files]]
-file = "mods/toms-server-utils.toml"
-hash = "a6dc55f25cfbf9754f995952d74d9694bd604f90dac4465a7cc121535c19a7d2"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.toml"
 hash = "fde37d4760ea8b9bbf8796efac55e8f8086ab3d7663f799b72161482bd22f951"
 metafile = true
