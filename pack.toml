@@ -1,11 +1,11 @@
 name = "Tiny Tater Test server (AOF)"
 author = "Tiny Taters, Team AOF"
-version = "1.1.14"
+version = "1.2.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "037e1c4302f55f3a6972b34a61dcb11e38300b79cd490dbc4722e657ece9174b"
+hash = "c92e312f54dc172b07068ccfb81ed8fb791997255e140cb6e0c7072602a58608"
 
 [versions]
 fabric = "0.11.1"
