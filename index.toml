@@ -3390,6 +3390,11 @@ hash = "4d8f805fc50d222900b9b39e92e7e2dfb130f32b1f1f884dd246e97eac69e340"
 metafile = true
 
 [[files]]
+file = "mods/healthcare.toml"
+hash = "364ac56976f5e8e3f83e2c3eed18f4352fe24ca367321c40943054ca9ce2444a"
+metafile = true
+
+[[files]]
 file = "mods/hwyla-addon-horse-info.toml"
 hash = "b5b977b7b3c67ec5c3a710149c332675f9e5b1e5ab996ccaec66ecd92179c363"
 metafile = true
