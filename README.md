@@ -26,7 +26,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Bouncy Life | [@Siphalor](https://github.com/Siphalor) | [Modrinth](https://www.modrinth.com/mod/bouncy-life) |
 | Pingspam | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
 | Territorial Base | [@profjb](https://github.com/profjb58) | [GitHub](https://github.com/Archydra-Studios/territorial-base) |
-| aaaaaaaaaaaa | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
+| Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
