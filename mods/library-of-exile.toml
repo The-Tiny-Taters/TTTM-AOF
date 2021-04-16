@@ -1,14 +1,14 @@
 name = "Library of Exile"
-filename = "Library-Of-Exile-1.16.3-1.0.6.jar"
+filename = "Library-Of-Exile-1.16.5-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3094/450/Library-Of-Exile-1.16.3-1.0.6.jar"
+url = "https://edge.forgecdn.net/files/3240/209/Library-Of-Exile-1.16.5-1.0.8.jar"
 hash-format = "murmur2"
-hash = "1471696947"
+hash = "2241548694"
 
 [update]
 [update.curseforge]
-file-id = 3094450
+file-id = 3240209
 project-id = 398780
 release-channel = "beta"

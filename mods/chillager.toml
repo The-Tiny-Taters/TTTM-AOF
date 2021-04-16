@@ -1,0 +1,14 @@
+name = "Chillager"
+filename = "chillager_mod-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3236/342/chillager_mod-1.1.jar"
+hash-format = "murmur2"
+hash = "1552487005"
+
+[update]
+[update.curseforge]
+file-id = 3236342
+project-id = 453681
+release-channel = "beta"

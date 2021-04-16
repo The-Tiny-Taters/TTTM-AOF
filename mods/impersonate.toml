@@ -1,0 +1,14 @@
+name = "Impersonate"
+filename = "Impersonate-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3186/818/Impersonate-2.1.0.jar"
+hash-format = "murmur2"
+hash = "3327458733"
+
+[update]
+[update.curseforge]
+file-id = 3186818
+project-id = 360333
+release-channel = "beta"

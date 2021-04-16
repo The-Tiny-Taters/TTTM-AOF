@@ -1,8 +1,0 @@
-name = "BeeAngryest"
-filename = "BeeAngryest-1.6.0+1.16.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Juuxel/BeeAngry-est/releases/download/1.6.0/BeeAngryest-1.6.0+1.16.3.jar"
-hash-format = "sha256"
-hash = "BA2D2D39FF0523C7A9768E78B65A6C02EC154A3324AC11872108F6F04C7A98A5"

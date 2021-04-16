@@ -1,0 +1,14 @@
+name = "XL Packets"
+filename = "xlpackets-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3119/850/xlpackets-1.1.jar"
+hash-format = "murmur2"
+hash = "2179811764"
+
+[update]
+[update.curseforge]
+file-id = 3119850
+project-id = 391640
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "FerriteCore (Fabric)"
+filename = "ferritecore-2.0.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3253/564/ferritecore-2.0.4-fabric.jar"
+hash-format = "murmur2"
+hash = "3014325455"
+
+[update]
+[update.curseforge]
+file-id = 3253564
+project-id = 459857
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Croptosis"
-filename = "wraith-croptosis-1.0.1.jar"
+filename = "wraith-croptosis-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3188/284/wraith-croptosis-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3264/888/wraith-croptosis-1.1.0.jar"
 hash-format = "murmur2"
-hash = "2264748661"
+hash = "59823023"
 
 [update]
 [update.curseforge]
-file-id = 3188284
+file-id = 3264888
 project-id = 437552
 release-channel = "beta"

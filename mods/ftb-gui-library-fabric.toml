@@ -1,0 +1,14 @@
+name = "FTB GUI Library (Fabric)"
+filename = "ftb-gui-library-1605.2.1.41-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3237/40/ftb-gui-library-1605.2.1.41-fabric.jar"
+hash-format = "murmur2"
+hash = "1368717892"
+
+[update]
+[update.curseforge]
+file-id = 3237040
+project-id = 438495
+release-channel = "beta"
