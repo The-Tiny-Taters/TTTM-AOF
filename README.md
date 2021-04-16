@@ -3,7 +3,7 @@ The Tiny Tater Test modpack using packwiz built on-top of All of fabric 3
 **Discord server:** [link](https://discord.gg/YeXshh3sKE)
 
 ## Licensing
-Permission has been obtained to use All of fabric 3 as a base for this modpack, please continue to comply with the licensing requirements for All of fabric 3 (Creative Commons Attribution-NoDerivatives 4.0 International Public). You should not share with others outside the community unless only for private use.
+Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3) as a base for this modpack, please continue to comply with the licensing requirements for [All of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3) (Creative Commons Attribution-NoDerivatives 4.0 International Public). You cannot share this pack as it is a derivative of AOF3. You can make modifications to it, **but only for private use!** The Tiny Taters is not affiliated with, nor endorsed by [All of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3).
 
 ## Additional mods
 
