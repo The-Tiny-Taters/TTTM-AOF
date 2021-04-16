@@ -32,15 +32,10 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Mod name | Author | Mod Page |
 | -------- | ------ | -------- |
 | World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
-| Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
-| Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-currency) |
-| Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-market) |
-| Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-signshop) |
-| Gunpodwer | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-sleepvote) |
-| Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-teleport) |
-| Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-utilities) |
+| Gunpowder (including all modules) | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
 | Heallthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
-| Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |  
+| Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
+
 * Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
 
 
