@@ -12,8 +12,8 @@ servers.dat
 aof.zip
 
 # Exclude more tooltips, "[]" hashing is in-correct 
-# config/more_tooltips.json
-# mods/more-tooltips.toml
+config/more_tooltips.json
+mods/more-tooltips.toml
 
 add.sh
 update.sh
