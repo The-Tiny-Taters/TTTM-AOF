@@ -36,6 +36,4 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 | Heallthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
 
-* Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
-
 
