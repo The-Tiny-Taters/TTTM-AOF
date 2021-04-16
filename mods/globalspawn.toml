@@ -1,0 +1,14 @@
+name = "GlobalSpawn"
+filename = "globalspawn-1.1.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3245/506/globalspawn-1.1.2-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1044431214"
+
+[update]
+[update.curseforge]
+file-id = 3245506
+project-id = 427483
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Gunpowder Market"
+filename = "gunpowder-market-1.0.3+gunpowder.0.4.0.mc.1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3276/335/gunpowder-market-1.0.3+gunpowder.0.4.0.mc.1.16.5.jar"
+hash-format = "murmur2"
+hash = "2266592531"
+
+[update]
+[update.curseforge]
+file-id = 3276335
+project-id = 402052
+release-channel = "beta"

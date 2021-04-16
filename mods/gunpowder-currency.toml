@@ -1,0 +1,14 @@
+name = "Gunpowder Currency"
+filename = "gunpowder-currency-1.0.2+gunpowder.0.3.7.mc.1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3235/997/gunpowder-currency-1.0.2+gunpowder.0.3.7.mc.1.16.5.jar"
+hash-format = "murmur2"
+hash = "3597565303"
+
+[update]
+[update.curseforge]
+file-id = 3235997
+project-id = 402041
+release-channel = "beta"

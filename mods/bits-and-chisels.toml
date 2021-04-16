@@ -1,0 +1,14 @@
+name = "Bits And Chisels"
+filename = "bitsandchisels-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3243/861/bitsandchisels-2.1.4.jar"
+hash-format = "murmur2"
+hash = "2729677099"
+
+[update]
+[update.curseforge]
+file-id = 3243861
+project-id = 420709
+release-channel = "beta"
