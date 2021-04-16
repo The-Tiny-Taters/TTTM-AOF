@@ -31,6 +31,7 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 #### Server Side
 | Mod name | Author | Mod Page |
 | -------- | ------ | -------- |
+| Toms Server Utils | [Geek202](https://github.com/Geek202) | [Modrinth](https://modrinth.com/mod/toms-server-utils) |
 | World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Gunpowder (including all modules) | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
 | Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
