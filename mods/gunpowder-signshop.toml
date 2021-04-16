@@ -1,6 +1,6 @@
 name = "Gunpowder Signshop"
 filename = "gunpowder-signshop-1.0.0+gunpowder.0.3.4.mc.1.16.4.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3142/666/gunpowder-signshop-1.0.0+gunpowder.0.3.4.mc.1.16.4.jar"

@@ -1,6 +1,6 @@
 name = "Gunpowder Currency"
 filename = "gunpowder-currency-1.0.2+gunpowder.0.3.7.mc.1.16.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3235/997/gunpowder-currency-1.0.2+gunpowder.0.3.7.mc.1.16.5.jar"

@@ -1,6 +1,6 @@
 name = "Gunpowder SleepVote"
 filename = "gunpowder-sleepvote-1.0.3+gunpowder.0.3.1.mc.1.16.4.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3139/474/gunpowder-sleepvote-1.0.3+gunpowder.0.3.1.mc.1.16.4.jar"

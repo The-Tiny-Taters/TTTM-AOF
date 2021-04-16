@@ -1,6 +1,6 @@
 name = "Gunpowder"
 filename = "gunpowder-base-0.4.0+1.16.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3275/962/gunpowder-base-0.4.0+1.16.5.jar"

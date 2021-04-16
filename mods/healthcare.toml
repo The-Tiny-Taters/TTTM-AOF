@@ -1,6 +1,6 @@
 name = "HealthCare"
 filename = "healthcare-1.0.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNqujQWr/versions/1.0.2/healthcare-1.0.2.jar"

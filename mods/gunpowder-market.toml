@@ -1,6 +1,6 @@
 name = "Gunpowder Market"
 filename = "gunpowder-market-1.0.3+gunpowder.0.4.0.mc.1.16.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3276/335/gunpowder-market-1.0.3+gunpowder.0.4.0.mc.1.16.5.jar"

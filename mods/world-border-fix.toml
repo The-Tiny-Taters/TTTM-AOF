@@ -1,6 +1,6 @@
 name = "World Border Fix"
 filename = "worldborderfix-1.1-fabric-1.16.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3240/350/worldborderfix-1.1-fabric-1.16.5.jar"
