@@ -33,7 +33,7 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | -------- | ------ | -------- |
 | World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Gunpowder (including all modules) | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
-| Heallthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
+| Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
 
 
