@@ -3236,11 +3236,6 @@ hash = "0ce1d7a880a615c1a48a3ef53ca669148f23af1ece1b3702664206a4fb92e2b7"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.toml"
-hash = "da778e7e5d35abb78f6ea08f98e386bd90e1c6ebb6170e9d3cbd7414b750cce7"
-metafile = true
-
-[[files]]
 file = "mods/chunk-pregenerator-fabric.toml"
 hash = "58656c01fa3305de76e0b16e0695ff8820f7551a84789644ca96b41dd9f4bae7"
 metafile = true
