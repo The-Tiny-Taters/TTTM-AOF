@@ -31,7 +31,7 @@ Permission has been obtained to use All of fabric 3 as a base for this modpack, 
 #### Server Side
 | Mod name | Author | Mod Page |
 | -------- | ------ | -------- |
-| World Border Fix | [@PotatoBoy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
+| World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
 | Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-currency) |
 | Gunpowder | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-market) |
