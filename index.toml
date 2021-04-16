@@ -3440,6 +3440,11 @@ hash = "1530530736dbd35d0c9a9d0acb2489cdeec30a7d4a2faa0ea04a1abd0a6ca071"
 metafile = true
 
 [[files]]
+file = "mods/fabric-zones.toml"
+hash = "e7ae3823e82a878c0847649efaa50eb557126f71ff595801e113cf3936f54183"
+metafile = true
+
+[[files]]
 file = "mods/fat-experience-orbs.toml"
 hash = "06c194636eaca2c3226114791349c798ca901c8a634834df5503222223ca9b21"
 metafile = true
@@ -3977,6 +3982,16 @@ metafile = true
 [[files]]
 file = "mods/terrestria.toml"
 hash = "702bfe08f863681ac7d921b58acb31aa2e9a79ce35ac75354e0d0d6b0780461f"
+metafile = true
+
+[[files]]
+file = "mods/territorial-base.toml"
+hash = "a5fd839809989b7c9249618c1d48237375f173ca918c15a97a39eeb49cc32a7a"
+metafile = true
+
+[[files]]
+file = "mods/through-the-looking-glass.toml"
+hash = "ae5780879ff2482e8b9b47fcab9ec0ea95d341eb45872cd0097d2dfa27c2dd27"
 metafile = true
 
 [[files]]
