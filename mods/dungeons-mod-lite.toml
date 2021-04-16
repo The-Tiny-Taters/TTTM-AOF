@@ -1,0 +1,14 @@
+name = "Dungeons Mod Lite"
+filename = "DungeonsModLite-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3221/466/DungeonsModLite-1.16.5-1.0.0.jar"
+hash-format = "murmur2"
+hash = "532357522"
+
+[update]
+[update.curseforge]
+file-id = 3221466
+project-id = 451744
+release-channel = "beta"

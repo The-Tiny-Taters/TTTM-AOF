@@ -1,14 +1,14 @@
 name = "Ecotones"
-filename = "ecotones-0.7.1.jar"
+filename = "ecotones-0.7.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3179/827/ecotones-0.7.1.jar"
+url = "https://edge.forgecdn.net/files/3239/172/ecotones-0.7.2.jar"
 hash-format = "murmur2"
-hash = "4281016553"
+hash = "1748441044"
 
 [update]
 [update.curseforge]
-file-id = 3179827
+file-id = 3239172
 project-id = 356678
 release-channel = "beta"

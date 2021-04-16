@@ -1,14 +1,14 @@
 name = "Jumploader"
-filename = "jumploader-2.1.2.jar"
+filename = "jumploader-2.1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3146/455/jumploader-2.1.2.jar"
+url = "https://edge.forgecdn.net/files/3227/191/jumploader-2.1.3.jar"
 hash-format = "murmur2"
-hash = "1328917062"
+hash = "1344683549"
 
 [update]
 [update.curseforge]
-file-id = 3146455
+file-id = 3227191
 project-id = 361988
 release-channel = "beta"

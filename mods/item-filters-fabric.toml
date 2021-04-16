@@ -1,0 +1,14 @@
+name = "Item Filters (Fabric)"
+filename = "item-filters-1605.2.4-build.30-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3231/743/item-filters-1605.2.4-build.30-fabric.jar"
+hash-format = "murmur2"
+hash = "1793183203"
+
+[update]
+[update.curseforge]
+file-id = 3231743
+project-id = 438500
+release-channel = "beta"

@@ -1,8 +1,8 @@
-name = "Fabric Zones"
-filename = "fabric-zones-0.1.0-alpha-mc1.16.5.jar"
+name = "fabric-zones"
+filename = "fabric-zones-0.1.2-mc1.16.5.jar"
 side = "server"
 
 [download]
-url = "https://github.com/SpaceClouds42/FabricZones/releases/download/v0.1.0-alpha-mc1.16.5/fabric-zones-0.1.0-alpha-mc1.16.5.jar"
+url = "https://github.com/SpaceClouds42/FabricZones/releases/download/v0.1.2/fabric-zones-0.1.2-mc1.16.5.jar"
 hash-format = "sha256"
-hash = "4e52d7e5df37335625ad14bfbce76d5b7d5aeb6d280eba316c71f1b8c6676cf0"
+hash = "67e4bc4ae5f7d0448791279fd4d4122a41677bf595eeb715c64c16c3ae380e1d"

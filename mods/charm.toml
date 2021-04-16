@@ -1,14 +1,14 @@
 name = "Charm"
-filename = "charm-fabric-1.16.4-2.2.2.jar"
+filename = "charm-fabric-1.16.5-2.3.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3157/613/charm-fabric-1.16.4-2.2.2.jar"
+url = "https://edge.forgecdn.net/files/3220/890/charm-fabric-1.16.5-2.3.2.jar"
 hash-format = "murmur2"
-hash = "2794529341"
+hash = "3529191479"
 
 [update]
 [update.curseforge]
-file-id = 3157613
+file-id = 3220890
 project-id = 318872
 release-channel = "beta"

@@ -96,6 +96,10 @@
       "comment": "Energy Cost for Advanced Jackhammer",
       "value": 100
     },
+    "quantumSuitEnableSprint": {
+      "comment": "Enable Sprint Speed increase for Quantum Legs",
+      "value": true
+    },
     "electricTreetapCost": {
       "comment": "Energy Cost for Electric Treetap",
       "value": 50
@@ -127,6 +131,10 @@
     "industrialDrillCost": {
       "comment": "Energy Cost for Industrial Drill",
       "value": 150
+    },
+    "quantumSuitEnableFlight": {
+      "comment": "Enable Flight for Quantum Chest",
+      "value": true
     },
     "industrialChainsawCharge": {
       "comment": "Energy Capacity for Industrial Chainsaw",

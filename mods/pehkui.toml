@@ -1,0 +1,14 @@
+name = "Pehkui"
+filename = "Pehkui-1.9.0+21w10a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3235/711/Pehkui-1.9.0+21w10a.jar"
+hash-format = "murmur2"
+hash = "313116442"
+
+[update]
+[update.curseforge]
+file-id = 3235711
+project-id = 319596
+release-channel = "beta"

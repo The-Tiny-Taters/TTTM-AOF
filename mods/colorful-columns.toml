@@ -1,0 +1,14 @@
+name = "Colorful Columns"
+filename = "colorfulcolumns-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3107/748/colorfulcolumns-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1685272622"
+
+[update]
+[update.curseforge]
+file-id = 3107748
+project-id = 418921
+release-channel = "beta"

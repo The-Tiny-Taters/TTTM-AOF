@@ -1,14 +1,14 @@
 name = "Give Me Hats! [FABRIC]"
-filename = "give-me-hats-1.16-1.4.jar"
+filename = "give-me-hats-1.16-1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3131/97/give-me-hats-1.16-1.4.jar"
+url = "https://edge.forgecdn.net/files/3264/214/give-me-hats-1.16-1.5.jar"
 hash-format = "murmur2"
-hash = "2652383971"
+hash = "330431373"
 
 [update]
 [update.curseforge]
-file-id = 3131097
+file-id = 3264214
 project-id = 384009
 release-channel = "beta"

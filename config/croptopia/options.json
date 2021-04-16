@@ -226,6 +226,10 @@
     "soybean_seed": {
       "biome-category": "plains",
       "drop-chance": 0.0125
+    },
+    "vanilla_seeds": {
+      "biome-category": "jungle",
+      "drop-chance": 0.0125
     }
   }
 }

@@ -1,14 +1,14 @@
 name = "YUNG's Better Mineshafts (Fabric)"
-filename = "BetterMineshafts-Fabric-1.16.4-1.0.jar"
+filename = "BetterMineshafts-Fabric-1.16.4-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3121/332/BetterMineshafts-Fabric-1.16.4-1.0.jar"
+url = "https://edge.forgecdn.net/files/3227/926/BetterMineshafts-Fabric-1.16.4-1.0.1.jar"
 hash-format = "murmur2"
-hash = "2966447119"
+hash = "1208567307"
 
 [update]
 [update.curseforge]
-file-id = 3121332
+file-id = 3227926
 project-id = 373591
 release-channel = "beta"

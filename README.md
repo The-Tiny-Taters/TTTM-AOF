@@ -6,32 +6,34 @@ The Tiny Tater Test modpack using packwiz built on-top of All of fabric 3
 Permission has been obtained to use All of fabric 3 as a base for this modpack, please continue to comply with the licensing requirements for All of fabric 3 (Creative Commons Attribution-NoDerivatives 4.0 International Public). You should not share with others outside the community unless only for private use.
 
 ## Additional mods
-key:
-- C = Client
-- S = server
 
-| Mod name | Author | Source | side | dependencies | url |
-| --- | --- | --- | --- | --- | --- |
-| Bits and chisels | CoolMineman (ThatTrollzer) | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels) |
-| Through the looking glass | azazelthedemonlord | Github | C&S | N/A | [link](https://github.com/Dragonoidzero/Through-the-Looking-Glass) |
-| World border fixer | Potatoboy9999 | Curse | S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
-| Enderporter | KnowYourKnot | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
-| Gift It | Siphalor | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
-| Bouncy Life | Siphalor | Modrinth | C&S | N/A | [link](https://modrinth.com/mod/bouncy-life) |
-| Now Playing | AppleTheGold | Curse | C | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
-| FabricZones | SpaceClouds42 | Website | S | LuckPerms, fabric perms api | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
-| ~~TomsServerUtils~~ | ~~Tom_The_Geek~~ | ~~Modrinth~~ | ~~S~~ | ~~N/A~~ | ~~[link](https://modrinth.com/mod/toms-server-utils)~~ |
-| BeeAngryest | Juuz | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/bee-angry-est) |
-| Territorial | profjb | Github | C&S | N/A | [link](https://github.com/profjb58/Territorial-Base) |
-| Pingspam | BasiqueEvangelist | Modrinth | C&S | N/A | [link](https://modrinth.com/mod/pingspam) |
-| Global Spawn | DaFuqsy | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/globalspawn) |
-| Fabric Loot Crates | DaFuqsy | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/fabric-loot-crates) |
-| HealthCare | samolego | Modrinth | S | N/A | [link](https://modrinth.com/mod/healthcare) |
-| ~~Starry Skies~~ | ~~DaFuqsy~~ | ~~Curse~~ | ~~C&S~~ | ~~N/A~~ | ~~[link](https://www.curseforge.com/minecraft/mc-mods/starry-skies)~~ |
-| ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~S~~ | ~~N/A (I think)~~ |~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
+#### Client Side
+| Mod name | Author | Mod Page |
+| -------- | ------ | -------- |
+| Now Playing! | [@AppleTheGolden](https://github.com/Scotsguy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
 
-* Dependencies that are included into a 'fat' jar or are not included, same goes for any of the fabric-api modules
-  
-* Mods that have a strikethrough have been approved but are awaiting fixes to allow them to run on the modpack and server
+
+#### Both Sides
+| Mod name | Author | Mod Page |
+| -------- | ------ | -------- |
+| Simple Angel Ring | [@ADudeCalledLeo](https://github.com/Leo40Git) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-angel-ring) |
+| Bits and Chisels | [@ThatTrollzer](https://github.com/CoolMineman) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels) |
+| Enderporter | [@KnowYourKnot](https://github.com/knowyourknot) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/knowyourknot-enderporter) |
+| Gift It! | [@Siphalor](https://github.com/Siphalor) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gift-it) |
+| Bee Angry-est | [@Juuz](https://github.com/Juuxel) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bee-angry-est) |
+| GlobalSpawn | [@DaFuqs](https://github.com/DaFuqs) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/globalspawn) |
+| Fabric Loot Crates | [@DaFuqs](https://github.com/DaFuqs) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-loot-crates) |
+| Bouncy Life | [@Siphalor](https://github.com/Siphalor) | [Modrinth](https://www.modrinth.com/mod/bouncy-life) |
+| Pingspam | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
+| Territorial Base | [@profjb](https://github.com/profjb58) | [GitHub](https://github.com/Archydra-Studios/territorial-base) |
+| Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
+
+#### Server Side
+| Mod name | Author | Mod Page |
+| -------- | ------ | -------- |
+| World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
+| Gunpowder (including all modules) | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
+| Heallthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
+| Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
 
 

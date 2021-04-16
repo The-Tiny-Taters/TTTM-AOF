@@ -2,11 +2,6 @@ name = "Lithium (Fabric)"
 filename = "lithium-fabric-mc1.16.5-0.6.4.jar"
 side = "both"
 
-[option]
-optional = true
-description = "Lithium performance improvements"
-default = true
-
 [download]
 url = "https://edge.forgecdn.net/files/3215/441/lithium-fabric-mc1.16.5-0.6.4.jar"
 hash-format = "murmur2"

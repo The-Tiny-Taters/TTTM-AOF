@@ -1,0 +1,14 @@
+name = "Gunpowder Utilities"
+filename = "gunpowder-utilities-1.0.2+gunpowder.0.3.1.mc.1.16.4.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3139/407/gunpowder-utilities-1.0.2+gunpowder.0.3.1.mc.1.16.4.jar"
+hash-format = "murmur2"
+hash = "3109322217"
+
+[update]
+[update.curseforge]
+file-id = 3139407
+project-id = 402159
+release-channel = "beta"
