@@ -637,10 +637,6 @@ file = "config/modmenu.json"
 hash = "bcad80fda784b731147cc02800ac5a781fa3e68fdcb5d492ae6951f5402f3e50"
 
 [[files]]
-file = "config/more_tooltips.json"
-hash = "e585326403bc1a61a93c32ae027223e1548f24266fec287bccd54c79d25ac6ec"
-
-[[files]]
 file = "config/moreberries.json5"
 hash = "fcf33849af3bb6123499468e4c8a0ddd6cc42334a353ac08509942461b69b2aa"
 
@@ -3742,11 +3738,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "89f3e405702e97fbea8f83e9a11ef245bff1b90fa612f70362e85792fa4606ed"
-metafile = true
-
-[[files]]
-file = "mods/more-tooltips.toml"
-hash = "60500982549f88ab58d069d81b904493f4f2a7d0543cac2f2041cc80201fb765"
 metafile = true
 
 [[files]]
