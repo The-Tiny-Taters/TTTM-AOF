@@ -25,3 +25,4 @@
 echo "fabric-zones uses a direct link, must be manually updated!"
 echo "territorial-base uses a direct link, must be manually updated!"
 echo "through-the-looking-glass uses a direct link, must be manually updated!"
+./packwiz update tiny-trash-can

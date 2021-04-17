@@ -3981,6 +3981,11 @@ hash = "ae5780879ff2482e8b9b47fcab9ec0ea95d341eb45872cd0097d2dfa27c2dd27"
 metafile = true
 
 [[files]]
+file = "mods/tiny-trash-can.toml"
+hash = "1851f53a53b366d470ca8bdae092867bac921d76dbeb4cad8b3e46502a37b717"
+metafile = true
+
+[[files]]
 file = "mods/tis-3d-additions.toml"
 hash = "a59f71e82e605d680ff752da25e5f6164584fa6cccdf227e1130969339e9d3ab"
 metafile = true
