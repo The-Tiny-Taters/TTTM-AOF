@@ -27,6 +27,7 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Pingspam | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
 | Territorial Base | [@profjb](https://github.com/profjb58) | [GitHub](https://github.com/Archydra-Studios/territorial-base) |
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
+| Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
