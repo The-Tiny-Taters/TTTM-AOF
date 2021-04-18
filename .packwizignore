@@ -15,5 +15,8 @@ aof.zip
 config/more_tooltips.json
 mods/more-tooltips.toml
 
+# packwi.sh
 add.sh
 update.sh
+refresh.sh
+
