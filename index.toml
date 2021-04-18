@@ -3537,7 +3537,7 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-mc.toml"
-hash = "6130e791507e40eacc59342667168de65b3592300df950164f0ff2c4eaa3b19c"
+hash = "5304d553ed0c3e1b6b571b4134a7cf15a4c272ee4bc7772e71b5bff139f7a69c"
 metafile = true
 
 [[files]]
@@ -3552,12 +3552,12 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-teleport.toml"
-hash = "77c7b684d12aacd54831ca728f60153acff8a4f0dea5b9bef0e168a54dc7a7f3"
+hash = "4d23b4dca86d5045972e5b69b37e6962e906ba0697758d39534b9ac48a5a07cf"
 metafile = true
 
 [[files]]
 file = "mods/gunpowder-utilities.toml"
-hash = "679f2fd5e436b4cad0f06937f45623de2d733a5e3a0ed27594bccdaffcdcf133"
+hash = "f80424a88d6c1a527d81b9429978345b72a37566b4422e6801d0acdda3a83832"
 metafile = true
 
 [[files]]
