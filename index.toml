@@ -3537,7 +3537,7 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-mc.toml"
-hash = "a4c25796ff8f8d31626d0b77e13f3a0f"
+hash = "00ff32c44a26182df31e2e8f3939e57e"
 metafile = true
 
 [[files]]
@@ -3552,12 +3552,12 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-teleport.toml"
-hash = "b3f1f4bcc747368e2c1fb0ac05ceec75"
+hash = "e40ee41da351604faac70960e5f67713"
 metafile = true
 
 [[files]]
 file = "mods/gunpowder-utilities.toml"
-hash = "269165f9939b9473248213abc571ea1f"
+hash = "f2eb8483b4a0597612044912f84e4022"
 metafile = true
 
 [[files]]
@@ -7657,7 +7657,7 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-mc.toml"
-hash = "a4c25796ff8f8d31626d0b77e13f3a0f"
+hash = "00ff32c44a26182df31e2e8f3939e57e"
 metafile = true
 
 [[files]]
@@ -7672,12 +7672,12 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-teleport.toml"
-hash = "b3f1f4bcc747368e2c1fb0ac05ceec75"
+hash = "e40ee41da351604faac70960e5f67713"
 metafile = true
 
 [[files]]
 file = "mods/gunpowder-utilities.toml"
-hash = "269165f9939b9473248213abc571ea1f"
+hash = "f2eb8483b4a0597612044912f84e4022"
 metafile = true
 
 [[files]]
@@ -8238,10 +8238,5 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.toml"
 hash = "48f6610a9c9eed35e6093d56cfcf5d3a"
-metafile = true
-
-[[files]]
-file = "ignoreme"
-hash = "d41d8cd98f00b204e9800998ecf8427e"
 metafile = true
 
