@@ -19,4 +19,6 @@ mods/more-tooltips.toml
 add.sh
 update.sh
 refresh.sh
+remove.py
+ignoreme
 
