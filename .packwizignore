@@ -16,9 +16,11 @@ config/more_tooltips.json
 mods/more-tooltips.toml
 
 # packwi.sh
-add.sh
-update.sh
-refresh.sh
-remove.py
-ignoreme
+.add.sh
+.update.sh
+.refresh.sh
+.remove.py
+add
+update
+refresh
 

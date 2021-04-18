@@ -28,8 +28,8 @@ if [ "$1" = "dr" ]; then
 	echo "hash-format = \"sha256\"" >> $file
 	echo "hash = \"$hash\"" >> $file
 
-	if ! grep -q $3 update.sh; then
-		echo "echo \"$3 uses a direct link, must be manually updated!\"" >> update.sh
+	if ! grep -q $3 .update.sh; then
+		echo "echo \"$3 uses a direct link, must be manually updated!\"" >> .update.sh
 	fi
 
 	./packwiz refresh
@@ -41,5 +41,5 @@ else
 		./packwiz refresh
         fi
 
-	echo "./packwiz update $2" >> update.sh
+	echo "./packwiz update $2" >> .update.sh
 fi

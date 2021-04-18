@@ -15,7 +15,7 @@ function refreshIndex {
 			file=$(echo $line | grep -Po "file = \"\K.+?(?=\")")
 		elif [[ $line == *"hash = "* ]]; then
 			if [[ -f "$file" ]]; then
-				if grep -q -w "$file" .packwizignore; then
+				if grep -q -Pw "^$file" .packwizignore; then
 					removed+=($file)
 				else
 					currentHash=$(echo $line | grep -Po "hash = \"\K.+?(?=\")")
@@ -31,14 +31,14 @@ function refreshIndex {
 			fi
 		fi
 	done
-	echo "Indexed files loaded                                                    "
+	echo "Loaded indexed files                                                   "
 
 	for remove in "${removed[@]}"
 	do
 		echo "Removing $remove from index"
-		rawFile=$(echo "$remove" | sed "s/\//\\\\\//g")
-		echo ':a;N;$!ba;s/\[\[files\]\]\nfile = \"'"$rawFile"'\"\n[^\n]*\n\(metafile = [^\n]*\n\)\{0,1\}\n//g'
-		sed -i ':a;N;$!ba;s/\[\[files\]\]\nfile = \"'"$rawFile"'\"\n[^\n]*\n\(metafile = [^\n]*\n\)\{0,1\}\n//g' index.toml
+		./.remove.py $remove
+		# rawFile=$(echo "$remove" | sed "s/\//\\\\\//g")
+		# sed -i -E ':a;N;$!ba;s/\[\[files\]\]\nfile = \"'"$toRM"'\"\n.*?\n(metafile = .*?\n)?\n//g' index.toml
 	done
 
 	for change in "${changed[@]}"
@@ -46,7 +46,7 @@ function refreshIndex {
 		echo "Updated hash of $change"
 	done
 
-	echo "Checking for new files..."
+	echo -ne "Checking for new files...                         \r"
 	indexNewFiles ""
 }
 
@@ -60,7 +60,7 @@ function indexNewFiles {
                                 indexNewFile $file
 			fi
 		done
-	elif grep -q -w "$1/" .packwizignore; then
+	elif grep -q -Pw "^$1/" .packwizignore; then
 		: # ignore ignored directories
 	else
 		for file in $1/*
@@ -75,7 +75,7 @@ function indexNewFiles {
 }
 
 function indexNewFile {
-	if grep -q -w "$1" .packwizignore; then
+	if grep -q -Pw "^$1" .packwizignore; then
 		: # ignore ignored files
 	elif [[ $1 == "pack.toml" || $1 == "index.toml" ]]; then
 		: # ignore pack and index
@@ -91,7 +91,7 @@ function indexNewFile {
 				echo "metafile = true" >> index.toml
 			fi
 			echo >> index.toml
-			echo "New file indexed: $1"
+			echo "New file indexed: $1                   "
                 fi
 	fi
 }
@@ -106,5 +106,5 @@ function refreshPack {
 refreshIndex
 refreshPack
 
-echo "Refresh complete!"
+echo "Refresh complete!                           "
 echo "Don't forget to update the pack version in pack.toml if you've made changes"
