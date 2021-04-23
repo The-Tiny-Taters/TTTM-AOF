@@ -28,6 +28,7 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Territorial Base | [@profjb](https://github.com/profjb58) | [GitHub](https://github.com/Archydra-Studios/territorial-base) |
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
 | Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
+| Consistency+ | [@IMS212](https://github.com/IMS212) | [Modrinth](https://modrinth.com/mod/consistencyplus) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
@@ -36,5 +37,3 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Gunpowder (including all modules) | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
 | Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
-
-
