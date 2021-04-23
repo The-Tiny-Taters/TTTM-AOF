@@ -10,7 +10,7 @@
 ./packwiz update gunpowder-sleepvote
 ./packwiz update gunpowder-teleport
 ./packwiz update gunpowder-utilities
-./packwiz update simple-angel-ring
+echo "simple-angel-ring uses a direct link, must be manually updated!"
 ./packwiz update world-border-fix
 ./packwiz update healthcare
 ./packwiz update bits-and-chisels
@@ -26,3 +26,4 @@ echo "fabric-zones uses a direct link, must be manually updated!"
 echo "territorial-base uses a direct link, must be manually updated!"
 echo "through-the-looking-glass uses a direct link, must be manually updated!"
 ./packwiz update tiny-trash-can
+./packwiz update consistencyplus

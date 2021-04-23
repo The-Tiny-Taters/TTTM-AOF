@@ -42,4 +42,5 @@ else
         fi
 
 	echo "./packwiz update $2" >> update.sh
+	echo "packwiz update $2" >> update-win.sh
 fi

@@ -3276,6 +3276,11 @@ hash = "ea6f1eb0e2fd3aede0d76f1f3e57ada1fd702c14d63d8f0c7ed9d621f420bf71"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.toml"
+hash = "48ca264f78795c8758273cb9d080663825dee27a0850b7362d5b0373b8c350af"
+metafile = true
+
+[[files]]
 file = "mods/controlling-for-fabric.toml"
 hash = "61c6fc74cd0f08ccdf5a2d368b92611b43e6fcc40a9464a0e48cc7ccb0a5b149"
 metafile = true
@@ -3537,7 +3542,7 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-mc.toml"
-hash = "5304d553ed0c3e1b6b571b4134a7cf15a4c272ee4bc7772e71b5bff139f7a69c"
+hash = "4360690b2ec72603257482275e97ee009e1bd60154a4c91f1c5b5b81946a9c62"
 metafile = true
 
 [[files]]
@@ -3552,7 +3557,7 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-teleport.toml"
-hash = "4d23b4dca86d5045972e5b69b37e6962e906ba0697758d39534b9ac48a5a07cf"
+hash = "8be118128f24bebdb4f1c6de39933edaef79a982249dc05c3099bc09763e0893"
 metafile = true
 
 [[files]]
@@ -3897,7 +3902,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-angel-ring.toml"
-hash = "72edf52d05a5cdb6bc36f6b4f8e7873498117e14f31a58ac19d70e2b22acf10b"
+hash = "b9bbecf6348b3ddc7a542912ef52cc98c74b118ac16aec9435e77ea719932dc5"
 metafile = true
 
 [[files]]
