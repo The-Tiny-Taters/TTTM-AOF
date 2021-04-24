@@ -3207,7 +3207,7 @@ metafile = true
 
 [[files]]
 file = "mods/builtin-servers.toml"
-hash = "ee337e0ee8c6b41a6c8739377092859295ff57e95590ca85e7fdd50fe0a2fc11"
+hash = "4b8026eda554ea583c0234a0ff729ee7d3f64691a22963f459c7a63c160fad9e"
 metafile = true
 
 [[files]]
