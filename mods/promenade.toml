@@ -1,0 +1,14 @@
+name = "Promenade"
+filename = "wild_explorer-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3278/801/wild_explorer-1.3.3.jar"
+hash-format = "murmur2"
+hash = "1868708621"
+
+[update]
+[update.curseforge]
+file-id = 3278801
+project-id = 399648
+release-channel = "beta"

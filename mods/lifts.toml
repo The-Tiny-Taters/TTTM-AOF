@@ -1,14 +1,14 @@
 name = "Lifts"
-filename = "lifts-1.16.5-1.0.5-BETA.jar"
+filename = "lifts-1.16.5-1.1.0-BETA.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3244/221/lifts-1.16.5-1.0.5-BETA.jar"
+url = "https://edge.forgecdn.net/files/3276/317/lifts-1.16.5-1.1.0-BETA.jar"
 hash-format = "murmur2"
-hash = "685688451"
+hash = "557554942"
 
 [update]
 [update.curseforge]
-file-id = 3244221
+file-id = 3276317
 project-id = 451554
 release-channel = "beta"

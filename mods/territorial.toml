@@ -1,0 +1,8 @@
+name = "Territorial"
+filename = "territorial-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Archydra-Studios/Territorial-Base/releases/download/v0.0.4/territorial-0.0.4.jar"
+hash-format = "sha256"
+hash = "46EDC845624CFAF8D11DDDA20DBBC23F7AB73167794817E97EDD989C04D5A58C"

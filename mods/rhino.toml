@@ -1,14 +1,14 @@
 name = "Rhino"
-filename = "rhino-1.7.13-build.14.jar"
+filename = "rhino-1.7.13-build.23.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3187/177/rhino-1.7.13-build.14.jar"
+url = "https://edge.forgecdn.net/files/3279/704/rhino-1.7.13-build.23.jar"
 hash-format = "murmur2"
-hash = "2219772035"
+hash = "149318497"
 
 [update]
 [update.curseforge]
-file-id = 3187177
+file-id = 3279704
 project-id = 416294
 release-channel = "beta"
