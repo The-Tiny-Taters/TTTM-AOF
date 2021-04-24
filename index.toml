@@ -4081,11 +4081,6 @@ hash = "68f11de5ede30336d36e352892db2a0304d5810079211c71df9644138e1c76c6"
 metafile = true
 
 [[files]]
-file = "mods/wild-explorer.toml"
-hash = "a4fe7cb2bafb376cec3f6704bb3bfa591cbf41ee736fc626f4990080c9283488"
-metafile = true
-
-[[files]]
 file = "mods/winged.toml"
 hash = "b2d33759145546240abc4558c1472aeb8877f8817a7f2ef89c11ea90d1938f19"
 metafile = true
