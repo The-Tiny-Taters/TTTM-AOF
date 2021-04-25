@@ -4071,6 +4071,11 @@ hash = "ada77de4f33de85918802e820091d7ae1a18df1c9cab43f4c78975a48d6710cb"
 metafile = true
 
 [[files]]
+file = "mods/underfabric.toml"
+hash = "0a79d00892bd186141aa3f93775f25b82d486e686d42fa834df7280ae9d20fca"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-excavators.toml"
 hash = "9d9f1d56e62980bab5bd13f795fb92ff96cdd7f90a9a6d2c93b758c44875cf69"
 metafile = true

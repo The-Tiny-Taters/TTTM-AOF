@@ -31,6 +31,7 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Consistency+ | [@IMS212](https://github.com/IMS212) | [Modrinth](https://modrinth.com/mod/consistencyplus) |
 | World Blender | [@TelepathicGrunt](https://github.com/TelepathicGrunt) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/world-blender-fabric) |
 | Taterzens* | [@samolego](https://github.com/samolego) | [Modrinth](https://modrinth.com/mod/Taterzens) |
+| UnderFabric | [@Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/underfabric) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
