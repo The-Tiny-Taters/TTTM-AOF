@@ -29,6 +29,8 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
 | Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
 | Consistency+ | [@IMS212](https://github.com/IMS212) | [Modrinth](https://modrinth.com/mod/consistencyplus) |
+| World Blender | [@TelepathicGrunt](https://github.com/TelepathicGrunt) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/world-blender-fabric) |
+| Taterzens* | [@samolego](https://github.com/samolego) | [Modrinth](https://modrinth.com/mod/Taterzens) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
@@ -37,3 +39,6 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Gunpowder (including all modules) | [@Martmists](https://github.com/gunpowder-mc) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gunpowder-mc) |
 | Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
+| Defibrillator | [@P03W](https://github.com/P03W) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/defibrillator) |
+
+* Can also be installed exclusively on the server
