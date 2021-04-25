@@ -3981,6 +3981,11 @@ hash = "692215c64ba4b8d75b493ac6c352c404664daf3d8092d9692aec0803442af911"
 metafile = true
 
 [[files]]
+file = "mods/spark.toml"
+hash = "14b54ba69ae996a9bfd098a20fda591b09856c5d7c0618dff73773404e0a6915"
+metafile = true
+
+[[files]]
 file = "mods/staff-of-building.toml"
 hash = "37adc97f96158e4bfa91c2c3460eb9264068dcef31524cbaec2fafab6320609c"
 metafile = true
@@ -3998,6 +4003,11 @@ metafile = true
 [[files]]
 file = "mods/tacocraft-fabric.toml"
 hash = "0b4cc2c5428e3536c8223e4df49539d70554fb5fce64b48a58ff910f9450e4b7"
+metafile = true
+
+[[files]]
+file = "mods/taterzens.toml"
+hash = "9e522a9e4823f296665ae0cbe30a4b87c2adb3d77479761571f6e8ded9701ee7"
 metafile = true
 
 [[files]]
