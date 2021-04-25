@@ -41,4 +41,4 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
 | Defibrillator | [@P03W](https://github.com/P03W) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/defibrillator) |
 
-* Can also be installed exclusively on the server
+`*` Can also be installed exclusively on the server
