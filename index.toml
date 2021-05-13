@@ -4121,11 +4121,6 @@ hash = "1a0a3759b406f846095279fafe08c4ef2fab3734bfcbc47ca06fb9497f2c7dd5"
 metafile = true
 
 [[files]]
-file = "mods/world-blender-fabric.toml"
-hash = "7716bf604aa9bfe6226c364f72657cfdbc8b1bcc48525bacebf030555d479336"
-metafile = true
-
-[[files]]
 file = "mods/world-border-fix.toml"
 hash = "f8c9e9c25afe1e51f792116e949473ad3d6553c838ac507179071ddbc0801fdb"
 metafile = true
