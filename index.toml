@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "autoupdate.bat"
-hash = "38a595f209283cc35a39596d515388f17726c99fb41600936d2f54eb575f6501"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "580be19ed911df357e1a23313afee1fea5c15d7ea7b7c1e31fcb0db795eafc39"
 
