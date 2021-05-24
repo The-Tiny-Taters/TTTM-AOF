@@ -29,9 +29,11 @@ Permission has been obtained to use [All of Fabric 3](https://www.curseforge.com
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
 | Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
 | Consistency+ | [@IMS212](https://github.com/IMS212) | [Modrinth](https://modrinth.com/mod/consistencyplus) |
-| World Blender | [@TelepathicGrunt](https://github.com/TelepathicGrunt) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/world-blender-fabric) |
 | Taterzens* | [@samolego](https://github.com/samolego) | [Modrinth](https://modrinth.com/mod/Taterzens) |
 | UnderFabric | [@Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/underfabric) |
+| Mythic Metals | [@Noaaan](https://github.com/Noaaan) | [Modrinth](https://modrinth.com/mod/mythicmetals) |
+| Alloy Forgery | [@Noaaan](https://github.com/Noaaan) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alloy-forgery) |
+| Immigistics | [@Immibis](https://github.com/immibis) | [Website](https://fibercraft.immibis.com/immihf/project.jsp?id=immibis%3Aimmigistics) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
