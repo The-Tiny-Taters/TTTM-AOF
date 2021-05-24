@@ -3101,6 +3101,11 @@ hash = "f5a05a0bf29bb976d52e05b8c07c28ed889dca630293a2ffa17d97b0d22d2439"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.toml"
+hash = "2bc55fdeffe2a50563b62b7070d18d46b608d0f13758f26240e0f10dd3194286"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
 metafile = true
@@ -3177,7 +3182,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "1d873734f2e3964fe45222bb1c7788cb6e91c08210d01853dd945e499d65ad34"
+hash = "150e674ab1d62ed8f8623035a768759ca47eaf6c1df69e1eaae5c2127cbb17c3"
 metafile = true
 
 [[files]]
@@ -3302,7 +3307,7 @@ metafile = true
 
 [[files]]
 file = "mods/consistencyplus.toml"
-hash = "48ca264f78795c8758273cb9d080663825dee27a0850b7362d5b0373b8c350af"
+hash = "49c6a97fb5a6ffd5a9d107c1770be2c3854f05fb8aaefff560d96fda58a1f0a5"
 metafile = true
 
 [[files]]
@@ -3626,6 +3631,11 @@ hash = "6f5dbf15ab2384ed16fcac658c97b72b78470bbc58d4d81251a693a39e89693a"
 metafile = true
 
 [[files]]
+file = "mods/immigistics.toml"
+hash = "5dd8ec58a273b5a0868aeab1aba4c2d6907b7f8960e7f09bfb0a571993676221"
+metafile = true
+
+[[files]]
 file = "mods/impersonate.toml"
 hash = "a461d812dacb58de8f59514dd97a6c6f1b7bab950c5b83699a6f84fc1548e70e"
 metafile = true
@@ -3773,6 +3783,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.toml"
 hash = "caab538f8a73b1bb8921421d4baa64b53041eddf9dd8b4093395783e1be9a71f"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.toml"
+hash = "ff33ef73df37c5efb7887a1420541c44e52494fe219b8e2181f1d32194e2d686"
 metafile = true
 
 [[files]]
