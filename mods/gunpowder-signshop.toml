@@ -1,14 +1,14 @@
 name = "Gunpowder Signshop"
-filename = "gunpowder-signshop-1.0.0+gunpowder.0.3.4.mc.1.16.4.jar"
+filename = "gunpowder-signshop-1.0.2+gunpowder.0.5.4.mc.1.16.5.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3142/666/gunpowder-signshop-1.0.0+gunpowder.0.3.4.mc.1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3299/496/gunpowder-signshop-1.0.2+gunpowder.0.5.4.mc.1.16.5.jar"
 hash-format = "murmur2"
-hash = "3373902564"
+hash = "2119475076"
 
 [update]
 [update.curseforge]
-file-id = 3142666
+file-id = 3299496
 project-id = 429147
 release-channel = "beta"

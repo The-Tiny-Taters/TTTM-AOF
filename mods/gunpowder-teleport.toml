@@ -1,14 +1,14 @@
 name = "Gunpowder Teleport"
-filename = "gunpowder-teleport-1.0.5+gunpowder.0.4.3.mc.1.16.5.jar"
+filename = "gunpowder-teleport-1.0.6+gunpowder.0.5.2.mc.1.16.5.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3284/808/gunpowder-teleport-1.0.5+gunpowder.0.4.3.mc.1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3293/203/gunpowder-teleport-1.0.6+gunpowder.0.5.2.mc.1.16.5.jar"
 hash-format = "murmur2"
-hash = "3733737613"
+hash = "4288414748"
 
 [update]
 [update.curseforge]
-file-id = 3284808
+file-id = 3293203
 project-id = 402042
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Gunpowder SleepVote"
-filename = "gunpowder-sleepvote-1.0.3+gunpowder.0.3.1.mc.1.16.4.jar"
+filename = "gunpowder-sleepvote-1.0.4+gunpowder.0.5.4.mc.1.16.5.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3139/474/gunpowder-sleepvote-1.0.3+gunpowder.0.3.1.mc.1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3297/385/gunpowder-sleepvote-1.0.4+gunpowder.0.5.4.mc.1.16.5.jar"
 hash-format = "murmur2"
-hash = "614952023"
+hash = "3389568513"
 
 [update]
 [update.curseforge]
-file-id = 3139474
+file-id = 3297385
 project-id = 355570
 release-channel = "beta"
