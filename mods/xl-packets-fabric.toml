@@ -1,0 +1,14 @@
+name = "XL Packets Fabric"
+filename = "xlpackets-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3022/566/xlpackets-1.1.jar"
+hash-format = "murmur2"
+hash = "3559067776"
+
+[update]
+[update.curseforge]
+file-id = 3022566
+project-id = 390168
+release-channel = "beta"

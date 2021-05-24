@@ -1,14 +1,14 @@
 name = "Lapis Reserve"
-filename = "lapisreserve-1.0.6.jar"
+filename = "lapisreserve-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3038/575/lapisreserve-1.0.6.jar"
+url = "https://edge.forgecdn.net/files/3311/319/lapisreserve-1.0.7.jar"
 hash-format = "murmur2"
-hash = "3857510316"
+hash = "2609621366"
 
 [update]
 [update.curseforge]
-file-id = 3038575
+file-id = 3311319
 project-id = 399679
 release-channel = "beta"

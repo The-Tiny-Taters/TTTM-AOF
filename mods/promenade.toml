@@ -1,14 +1,14 @@
 name = "Promenade"
-filename = "wild_explorer-1.3.3.jar"
+filename = "promenade-2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3278/801/wild_explorer-1.3.3.jar"
+url = "https://edge.forgecdn.net/files/3284/275/promenade-2.0.jar"
 hash-format = "murmur2"
-hash = "1868708621"
+hash = "2353140592"
 
 [update]
 [update.curseforge]
-file-id = 3278801
+file-id = 3284275
 project-id = 399648
 release-channel = "beta"

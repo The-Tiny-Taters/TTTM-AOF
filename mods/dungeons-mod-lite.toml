@@ -1,14 +1,14 @@
 name = "Dungeons Mod Lite"
-filename = "DungeonsModLite-1.16.5-1.0.0.jar"
+filename = "DungeonsModLite-1.16.5-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3221/466/DungeonsModLite-1.16.5-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3304/468/DungeonsModLite-1.16.5-1.0.5.jar"
 hash-format = "murmur2"
-hash = "532357522"
+hash = "1154607894"
 
 [update]
 [update.curseforge]
-file-id = 3221466
+file-id = 3304468
 project-id = 451744
 release-channel = "beta"
