@@ -3423,11 +3423,6 @@ hash = "9626f63fe6e9d18190f2a6e5282d6797598ee88d84aeffa4c6d456a43b4a39ee"
 metafile = true
 
 [[files]]
-file = "mods/builtin-servers.toml"
-hash = "ee337e0ee8c6b41a6c8739377092859295ff57e95590ca85e7fdd50fe0a2fc11"
-metafile = true
-
-[[files]]
 file = "mods/campanion.toml"
 hash = "d317d91c62c1d8b150464d8cdd3403f42daeda15b58f43971bede0b83afe42ce"
 metafile = true
