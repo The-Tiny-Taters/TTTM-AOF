@@ -6,6 +6,8 @@ LICENSE
 README.md
 
 packwiz
+packwiz.exe
+autoupdate.bat
 
 mods/jars/**
 servers.dat
